@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Redirect</title>
+    <script>
+        // Function to get URL parameters
+        function getURLParameter(name) {
+            return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [null, ''])[1].replace(/\+/g, '%20')) || null;
+        }
+
+        // Extract the 'url' parameter and redirect
+        window.onload = function() {
+            var urlParam = getURLParameter('url');
+            if (urlParam) {
+                window.location.href = "https://aifordinosaurs.substack.com/" + urlParam;
+            }
+        }
+    </script>
+</head>
+<body>
+    <!-- You can add a message here for users in case the redirect doesn't work or takes time -->
+    <p>Redirecting...</p>
+</body>
+</html>
