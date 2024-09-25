@@ -3,334 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adam Mackay - Exclusive Sci-Fi Author | Futuristic Tales from a Tech Visionary</title>
-    <meta name="description" content="Discover the exclusive sci-fi novels of Adam Mackay, where cutting-edge technology meets visionary storytelling. Enter a world where fiction predicts tomorrow's reality.">
-    <meta name="keywords" content="Adam Mackay, sci-fi author, futuristic novels, AI fiction, cyber-physical systems, exclusive books">
-    <meta name="author" content="Adam Mackay">
-    <link rel="canonical" href="https://www.adammackay.com">
-    <meta property="og:title" content="Adam Mackay - Exclusive Sci-Fi Author">
-    <meta property="og:description" content="Enter the world of Adam Mackay's exclusive sci-fi novels, where technology and humanity collide in visionary tales.">
-    <meta property="og:url" content="https://www.adammackay.com">
-    <meta property="og:type" content="website">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <title>Adam Mackay - CV</title>
     <style>
-        /* Reset and Base Styles */
-        body, html {
-            margin: 0;
-            padding: 0;
-            font-family: 'Space Mono', monospace;
-            background-color: #0a0a0a;
-            color: #e0e0e0;
+        body {
+            font-family: Arial, sans-serif;
             line-height: 1.6;
-            overflow-x: hidden;
-            scroll-behavior: smooth;
-            min-height: 100vh;
-            position: relative;
-            z-index: 1;
-        }
-
-        /* Starfield Layers for Parallax */
-        .star-layer {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 0;
-            pointer-events: none; /* Allow interactions through stars */
-        }
-
-        .star {
-            position: absolute;
-            background-color: #ffffff;
-            border-radius: 50%;
-            opacity: 0;
-            animation: twinkle 5s infinite;
-        }
-
-        .star-layer-1 .star {
-            width: 1px;
-            height: 1px;
-            background-color: #ffffff;
-            animation-duration: 4s;
-        }
-
-        .star-layer-2 .star {
-            width: 2px;
-            height: 2px;
-            background-color: #4db8ff;
-            animation-duration: 6s;
-        }
-
-        .star-layer-3 .star {
-            width: 1.5px;
-            height: 1.5px;
-            background-color: #ff8c00;
-            animation-duration: 5s;
-        }
-
-        @keyframes twinkle {
-            0%, 100% { opacity: 0; }
-            50% { opacity: 1; }
-        }
-
-        /* Monologue Container */
-        .monologue-container {
-            position: relative;
-            width: 100%;
-            padding: 100px 20px; /* Added padding for better spacing */
-            min-height: 100vh; /* Ensure it takes at least full viewport height */
-            z-index: 1;
-        }
-
-        .monologue {
+            color: #333;
             max-width: 800px;
             margin: 0 auto;
-            text-align: center;
-            font-size: 1.2em;
-            color: #ff8c00;
-            transform: translateY(0) translateZ(-200px) rotateX(0deg);
-            opacity: 1;
-            transition: transform 1s ease-out, opacity 1s ease-out;
-        }
-
-        .monologue h1 {
-            font-size: 3em;
-            color: #4db8ff;
-            text-shadow: 0 0 10px rgba(77, 184, 255, 0.5);
-            animation: glow 2s ease-in-out infinite alternate;
-            margin-bottom: 20px;
-        }
-
-        @keyframes glow {
-            from { text-shadow: 0 0 5px #4db8ff, 0 0 10px #4db8ff; }
-            to { text-shadow: 0 0 10px #4db8ff, 0 0 20px #4db8ff; }
-        }
-
-        /* Footer Styles */
-        footer {
-            position: relative;
-            z-index: 2;
-            padding: 40px 20px;
-            color: #e0e0e0;
-            overflow: hidden;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-
-        h2 {
-            font-family: 'Share Tech Mono', monospace;
-            color: #4db8ff;
-            text-shadow: 0 0 10px rgba(77, 184, 255, 0.5);
-            margin-bottom: 20px;
-        }
-
-        .tech-background {
-            background-color: rgba(255, 140, 0, 0.1);
-            border-radius: 10px;
             padding: 20px;
-            margin-top: 30px;
-            transition: background-color 0.5s ease;
         }
-
-        .tech-background:hover {
-            background-color: rgba(255, 140, 0, 0.2);
+        h1, h2 {
+            color: #2c3e50;
         }
-
-        .newsletter-signup {
-            background-color: rgba(26, 26, 26, 0.8);
-            border-radius: 10px;
-            padding: 30px 20px;
-            margin-top: 40px;
-            text-align: center;
-            transition: transform 0.3s ease, background-color 0.3s ease;
+        .section {
+            margin-bottom: 20px;
         }
-
-        .newsletter-signup:hover {
-            transform: scale(1.02);
-            background-color: rgba(26, 26, 26, 0.9);
-        }
-
-        .social-links {
-            text-align: center;
-            margin-top: 30px;
-        }
-
-        .social-links a {
-            color: #4db8ff;
-            text-decoration: none;
-            margin: 0 15px;
-            font-size: 1.8em;
-            transition: color 0.3s ease, transform 0.3s ease;
-        }
-
-        .social-links a:hover {
-            color: #ff8c00;
-            transform: scale(1.2);
-        }
-
-        .highlight {
-            color: #ff8c00;
+        .job-title {
             font-weight: bold;
         }
-
-        .icon-feature {
-            font-size: 2em;
-            margin-right: 10px;
-            color: #4db8ff;
-        }
-
-        /* Testimonials Section */
-        .testimonials {
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        .testimonials p {
+        .date {
+            color: #7f8c8d;
             font-style: italic;
-            margin-bottom: 15px;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 600px) {
-            .monologue h1 {
-                font-size: 2em;
-            }
-            .monologue {
-                font-size: 1em;
-            }
-            .social-links a {
-                font-size: 1.5em;
-                margin: 0 10px;
-            }
         }
     </style>
 </head>
 <body>
-    <!-- Starfield Layers for Parallax -->
-    <div class="star-layer star-layer-1"></div>
-    <div class="star-layer star-layer-2"></div>
-    <div class="star-layer star-layer-3"></div>
-
-    <div class="monologue-container">
-        <div class="monologue">
-            <h1><i class="fas fa-rocket"></i> Adam Mackay</h1>
-            <p>In the shadowy corners of the internet,</p>
-            <p>whispers spread of a reclusive author named Adam Mackay.</p>
-            <p>His tales of distant worlds and future tech</p>
-            <p>aren't found on any bestseller list or bookstore shelf.</p>
-            <p>If you're reading this, you've stumbled upon</p>
-            <p>the only portal to his universe.</p>
-            <br>
-            <p>Mackay's stories, they say, predict tomorrow's headlines today.</p>
-            <p>Each novel, a window into a future we're hurtling towards.</p>
-            <p>But finding them? That's the real challenge.</p>
-            <br>
-            <p>No Amazon. No book tours. No social media blitz.</p>
-            <p>Just this site, hidden in plain sight.</p>
-            <br>
-            <p>You've found the source.</p>
-            <p>The question is: are you ready for stories</p>
-            <p>that blur the lines between fiction and prophecy?</p>
-            <p>Welcome to the exclusive world of Adam Mackay.</p>
-            <p>Your journey begins here.</p>
-        </div>
+    <h1>Adam Mackay</h1>
+    <p>MEng Hons<br>
+    Head of AI Research | Tech Writer | Sci-Fi Author</p>
+    
+    <div class="section">
+        LinkedIn: <a href="https://www.linkedin.com/in/adammackay/">adammackay</a><br>
     </div>
 
-    <footer>
-        <div class="container">
-            <h2><i class="fas fa-book-open icon-feature"></i> Exclusive Sci-Fi Novels</h2>
-            <p>Dive into meticulously crafted worlds where technology and humanity collide. Adam Mackay's novels are only available here, offering you a unique glimpse into potential futures that feel all too real.</p>
-            
-            <div class="tech-background">
-                <h2><i class="fas fa-brain icon-feature"></i> The Mind Behind the Stories</h2>
-                <p>Drawing from his extensive background in <span class="highlight"><i class="fas fa-cogs"></i> mechanical engineering</span>, <span class="highlight"><i class="fas fa-microchip"></i> cyber-physical systems</span>, <span class="highlight"><i class="fas fa-code"></i> software development</span>, and <span class="highlight"><i class="fas fa-shield-alt"></i> AI governance</span>, Adam weaves tales that challenge our understanding of technology's role in society. His intimate knowledge of cutting-edge tech and safety-critical systems adds a layer of authenticity to every story, blurring the lines between current reality and speculative fiction.</p>
-            </div>
-            
-            <div class="newsletter-signup">
-                <h2><i class="fas fa-envelope-open-text icon-feature"></i> Join the Inner Circle</h2>
-                <p>Be the first to know about new releases, exclusive content, and behind-the-scenes insights. Subscribe now and receive a free exclusive short story as a welcome gift!</p>
-                <iframe src="https://adammackay.substack.com/embed" width="480" height="320" style="border:0px; background:black;" frameborder="0" scrolling="no"></iframe>
-                <p style="margin-top: 10px; font-size: 0.9em;">We respect your privacy. Unsubscribe at any time.</p>
-            </div>
-            
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/adammackay/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="https://x.com/AdmMcky" target="_blank" aria-label="X (formerly Twitter)"><i class="fab fa-x-twitter"></i></a>
-                <a href="mailto:adam@adammackay.com" aria-label="Email"><i class="fas fa-envelope"></i></a>
-            </div>
-            
-            <!-- Testimonials Section -->
-            <div class="testimonials">
-                <h2><i class="fas fa-quote-left icon-feature"></i> What Readers Are Saying</h2>
-                <p>"Adam Mackay's novels are a thrilling blend of imagination and technological insight. Each story leaves me pondering the future long after I've turned the last page." - <em> Hal 9000, Sentient Computer and Literature Critic</em></p>
-                <p>"A visionary storyteller who seamlessly integrates complex tech concepts into captivating narratives. Highly recommended!" - <em>Luddite Larry, Professional Abacus Enthusiast</em></p>
-            </div>
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>Seasoned AI technical & governance expert and tech writer with over two decades of experience in regulated and safety-critical technology sectors. Currently leading cutting-edge AI investigations at QA-Systems and serving as the editor of 'The AI Monitor'.</p>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <div>
+            <p class="job-title">Head of AI Research</p>
+            <p class="date">Dec 2023 – Present</p>
+            <ul>
+                <li>Leading cutting-edge investigations into advanced AI technologies.</li>
+                <li>Focus on Retrieval-Augmented Generation (RAG) systems and agentic workflows.</li>
+            </ul>
         </div>
-    </footer>
+        <div>
+            <p class="job-title">International Account Manager & Technical Specialist</p>
+            <p class="date">Nov 2022 – Dec 2023</p>
+            <ul>
+                <li>Cultivated relationships with clients in safety-critical software industry.</li>
+                <li>Delivered tailored solutions aligning with clients' business objectives and regulatory requirements.</li>
+            </ul>
+        </div>
+        <!-- Add more job experiences here -->
+    </div>
 
-    <script>
-        // Function to create stars
-        function createStars(layer, count, sizeRange, color) {
-            for (let i = 0; i < count; i++) {
-                const star = document.createElement('div');
-                star.classList.add('star');
-                star.style.width = `${Math.random() * (sizeRange.max - sizeRange.min) + sizeRange.min}px`;
-                star.style.height = star.style.width;
-                star.style.backgroundColor = color;
-                star.style.left = `${Math.random() * 100}%`;
-                star.style.top = `${Math.random() * 100}%`;
-                star.style.animationDelay = `${Math.random() * 5}s`;
-                layer.appendChild(star);
-            }
-        }
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Technical & Commercial Research & Analysis</li>
+            <li>Content Writing & Editing</li>
+            <li>Technical Communication</li>
+            <li>Regulatory Compliance</li>
+            <li>Public Speaking</li>
+            <li>SEO Optimization</li>
+            <li>Creative Writing</li>
+        </ul>
+    </div>
 
-        // Create multiple star layers for parallax effect
-        const starLayers = document.querySelectorAll('.star-layer');
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: Python, C, JavaScript, HTML, CSS, SQL, Java, PHP...</li>
+            <li>Web Technologies: WordPress, Node.js, Vue.js...</li>
+            <li>AI/ML Frameworks: TensorFlow, PyTorch...</li>
+            <li>Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure...</li>
+            <!-- Add more technical skills here -->
+        </ul>
+    </div>
 
-        starLayers.forEach((layer, index) => {
-            if (index === 0) {
-                createStars(layer, 200, { min: 1, max: 2 }, '#ffffff'); // Background stars
-            } else if (index === 1) {
-                createStars(layer, 150, { min: 1.5, max: 2.5 }, '#4db8ff'); // Mid-layer stars
-            } else if (index === 2) {
-                createStars(layer, 100, { min: 1, max: 1.5 }, '#ff8c00'); // Foreground stars
-            }
-        });
-
-        // Parallax Effect
-        window.addEventListener('scroll', function() {
-            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-            starLayers.forEach((layer, index) => {
-                const speed = (index + 1) * 0.2; // Different speed for each layer
-                layer.style.transform = `translateY(${scrollTop * speed}px)`;
-            });
-        });
-
-        // Smooth Fade-Out of Monologue on Scroll
-        const monologue = document.querySelector('.monologue');
-
-        function handleMonologueScroll() {
-            const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-            const windowHeight = window.innerHeight;
-            const monologueRect = monologue.getBoundingClientRect();
-
-            // Calculate the opacity based on scroll position
-            const opacity = 1 - (monologueRect.top / windowHeight);
-            monologue.style.opacity = Math.max(opacity, 0);
-
-            // Add slight upward movement
-            monologue.style.transform = `translateY(${Math.max(monologueRect.top / 5, -50)}px) translateZ(-200px) rotateX(0deg)`;
-        }
-
-        window.addEventListener('scroll', handleMonologueScroll);
-        // Initial call to set the monologue position
-        handleMonologueScroll();
-    </script>
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li>MEng (Hons) Engineering, University of Bath, 1997-2001</li>
+            <li>A-Levels, Churston Grammar School, 1995-1997 (Mathematics, Further Mathematics, Physics, Technology)</li>
+        </ul>
+    </div>
 </body>
 </html>
