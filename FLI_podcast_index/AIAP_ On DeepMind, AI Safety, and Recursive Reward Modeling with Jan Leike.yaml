@@ -1,0 +1,178 @@
+title: '"AIAP: On DeepMind, AI Safety, and Recursive Reward Modeling with Jan Leike"'
+original_url: '"https://zencastr.com/z/Um41rR0R"'
+date_published: '2019-12-16'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Jan Leike
+  affiliation: DeepMind
+  title: Senior Research Scientist
+  bio: Jan Leike is a Senior Research Scientist at DeepMind, focusing on making machine
+    learning robust and beneficial, with an emphasis on safety and alignment within
+    reinforcement learning agents.
+  expertise_areas:
+  - AI Safety
+  - Reinforcement Learning
+  - AGI
+synopsis: '"In this episode, Jan Leike discusses his journey from theoretical to empirical
+  AI research, emphasizing the importance of AI safety, particularly through recursive
+  reward modeling. The episode delves into DeepMind''s multifaceted approach to beneficial
+  AI and explores the alignment landscape in current AI research."'
+key_topics:
+- AGI Safety
+- Recursive Reward Modeling
+- AI Alignment
+- Empirical Research
+tags:
+- AI
+- Machine Learning
+- DeepMind
+key_points:
+- The AI alignment landscape requires approaches that can scale to AGI and superintelligence.
+- Recursive reward modeling can solve the challenge of creating user-aligned reward
+  functions.
+- Empirical research is essential for advancing AI safety.
+segments:
+- title: Introduction to Jan Leike
+  summary: Jan Leike shares his background and the evolution of his research interests
+    from theoretical AI to practical applications in reinforcement learning.
+  key_quotes:
+  - quote: I got interested in AGI and AGI safety around 2012.
+    speaker: Jan Leike
+    context: Discussing his entry into the field of AGI and realization of its importance.
+- title: Transition to Empirical Research at DeepMind
+  summary: Leike talks about his transition to DeepMind, highlighting the shift from
+    theoretical frameworks to empirical research in deep reinforcement learning.
+  key_quotes:
+  - quote: At the time, deep reinforcement learning was becoming viable.
+    speaker: Jan Leike
+    context: Describing the influence of early deep reinforcement learning successes
+      like DQN and AlphaGo.
+- title: AI Safety and Alignment at DeepMind
+  summary: '"An exploration of DeepMind''s diverse efforts in AI safety, including
+    various approaches to alignment and how they collectively address potential risks."'
+  key_quotes:
+  - quote: '"DeepMind''s approach to safety is quite like a portfolio."'
+    speaker: Jan Leike
+    context: Explaining the multifaceted approach to AI safety at DeepMind.
+- title: Recursive Reward Modeling Explained
+  summary: Leike explains recursive reward modeling, emphasizing its significance
+    in developing reward functions that accurately represent user intentions.
+  key_quotes:
+  - quote: The central claim is that evaluation is easier than behavior.
+    speaker: Jan Leike
+    context: Discussing the foundational philosophy behind reward modeling.
+- title: Cultural Differences in AI Communities
+  summary: The discrepancies between the AI safety community and mainstream AI research
+    are examined, with ideas on improving collaboration and understanding.
+  key_quotes:
+  - quote: '"The mainstream ML community doesn''t think enough about how whatever
+      they''re building will actually end up being deployed in practice."'
+    speaker: Jan Leike
+    context: Highlighting the disconnect between theoretical research and practical
+      applications in AI.
+websites_referenced:
+- url: '"https://openai.com"'
+  name: OpenAI
+  context: Mentioned for their work on reinforcement learning and AI safety.
+  access_date: null
+tools_mentioned:
+- name: AlphaGo
+  url: ''
+  description: A reinforcement learning agent developed by DeepMind to play the game
+    of Go.
+  context: Used as an example of successful deep reinforcement learning.
+research_papers:
+- title: AI - XAI
+  authors:
+  - Marcus Hutter
+  year: null
+  url: ''
+  key_findings: Theoretical foundations of AGI through the lens of reinforcement learning.
+  context: '"Referenced during the discussion of Leike''s PhD thesis."'
+books_referenced:
+- title: Human Compatible
+  authors:
+  - Stuart Russell
+  year: null
+  isbn: ''
+  context: Referenced in discussions about AI alignment and safety.
+organizations:
+  academic_institutions:
+  - name: Machine Intelligence Research Institute (MIRI)
+    location: ''
+    context: Referenced in relation to alignment research and agent foundations.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Focus of the podcast discussion regarding AI safety and alignment.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Marcus Hutter
+    institution: ''
+    field: Theoretical Computer Science
+    context: '"Advisor for Jan Leike''s PhD research."'
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: AlphaGo
+  organization: DeepMind
+  description: Reinforcement learning agent that won against a world champion Go player.
+  status: Completed
+  url: ''
+  context: Cited as a landmark achievement in applying deep learning to game playing.
+events:
+  historical:
+  - name: Deep Learning Revolution
+    date: null
+    significance: A pivotal shift in AI research that has led to significant advancements
+      in machine learning.
+    context: Referred to as a background for the emergence of successful AI applications.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Safety
+- Reinforcement Learning
+- DeepMind
+categories:
+- Technology
+- Research
+intended_audience: Researchers and practitioners in AI, machine learning, and cognitive
+  sciences.
+expertise_level: Intermediate
+recommended_reading:
+- title: Human Compatible
+  url: '"https://www.humancompatible.ai"'
+  type: Book
+  relevance: Explores the implications of AI alignment and safety.
+action_items:
+- Encourage engagement with empirical AI safety projects.
+- Recommend further reading on AI alignment frameworks and methodologies.
+controversial_topics:
+- topic: AI Alignment and Safety
+  different_viewpoints:
+  - perspective: Theoretical vs Empirical Approaches
+    proponents: AI Alignment Community vs Mainstream AI Researchers
+    key_arguments: Theoretical approaches are often seen as abstract, while empirical
+      approaches promote immediate applicability and solution-oriented techniques.

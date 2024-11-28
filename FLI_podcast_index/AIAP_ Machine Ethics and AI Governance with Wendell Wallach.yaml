@@ -1,0 +1,194 @@
+title: Machine Ethics and AI Governance with Wendell Wallach
+original_url: '"https://zencastr.com/z/nbzQTU6u"'
+date_published: '2019-11-15'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Wendell Wallach
+  affiliation: Yale University
+  title: Ethicist and Scholar
+  bio: Wendell Wallach is an internationally recognized expert on the ethical and
+    governance concerns posed by emerging technologies, particularly artificial intelligence
+    and neuroscience.
+  expertise_areas:
+  - Machine Ethics
+  - AI Governance
+  - Neuroscience Ethics
+  - Bioethics
+synopsis: This episode explores the journey of Wendell Wallach in the field of machine
+  ethics and AI governance, covering key themes such as machine morality, governance
+  frameworks, and the ethical implications of AI technologies.
+key_topics:
+- AI Governance
+- Machine Ethics
+- Value Alignment
+- Soft Law vs Hard Law
+- Ethics of AI Deployment
+tags:
+- AI ethics
+- Governance
+- Technology policy
+key_points:
+- Difference between machine ethics and AI alignment
+- Role of governance coordinating committees in AI governance
+- Importance of integrating ethical considerations in AI design
+segments:
+- title: Introduction to AI Governance and Machine Ethics
+  summary: '"The host introduces Wendell Wallach and outlines the episode''s focus
+    on AI governance and machine ethics."'
+  key_quotes:
+  - quote: '"Creating beneficial AI involves addressing the moral and ethical considerations
+      of AI''s growing power."'
+    speaker: Lucas Perry
+    context: Introduction to the significance of the discussion on AI ethics.
+- title: '"Wendell Wallach''s Ethical Journey and Expertise"'
+  summary: Wendell shares his academic background and the evolution of his interest
+    in machine ethics and AI governance.
+  key_quotes:
+  - quote: There was much growing enthusiasm in the space of AI policy and governance
+      efforts.
+    speaker: Wendell Wallach
+    context: Discussing the increasing interest and activity in AI governance.
+- title: Evolution and Distinction of Machine Ethics and AI Alignment
+  summary: The conversation delves into the differences and overlaps between machine
+    ethics and AI alignment.
+  key_quotes:
+  - quote: Machine ethics attempts to imbue ethical decision-making faculties into
+      machines.
+    speaker: Wendell Wallach
+    context: Distinguishing machine ethics from value alignment in AI.
+- title: '"AI Governance Frameworks: Soft Law vs Hard Law"'
+  summary: '"A discussion on soft law and hard law, how they apply to AI governance,
+    and the governance coordinating committees'' potential."'
+  key_quotes:
+  - quote: Soft law is agile and adaptive; it can be proposed easily as technology
+      advances.
+    speaker: Wendell Wallach
+    context: Explaining the nature of soft law in the governance framework.
+- title: '"Challenges in AI Development: Competition and Cooperation"'
+  summary: Wendell talks about the balance between competition and cooperation in
+    the AI governance landscape.
+  key_quotes:
+  - quote: '"If we don''t have cooperation, we''re all damned."'
+    speaker: Wendell Wallach
+    context: Highlighting the necessity of collaboration in AI governance.
+- title: Future Speculations on AGI Governance
+  summary: Discussing the speculative nature of AGI and its implications for governance
+    frameworks.
+  key_quotes:
+  - quote: We may be dealing with the melodramatic possibility that we are inventing
+      the human species as we have known it out of existence.
+    speaker: Wendell Wallach
+    context: Expressing concerns regarding the future trajectory of AI technologies.
+websites_referenced:
+- url: '"https://www.futureoflife.org"'
+  name: Future of Life Institute
+  context: An organization that supports research and initiatives for the ethical
+    use of technology.
+  access_date: null
+tools_mentioned:
+- name: Moral Machines
+  url: ''
+  description: A book by Wendell Wallach and Colin Allen on machine ethics.
+  context: Addresses the integration of moral decision-making in machines.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: '"Moral Machines: Teaching Robots Right from Wrong"'
+  authors:
+  - Wendell Wallach
+  - Colin Allen
+  year: 2009
+  isbn: ''
+  context: A significant text in the field of machine ethics.
+organizations:
+  academic_institutions:
+  - name: Yale University
+    location: New Haven, CT, USA
+    context: Where Wendell Wallach contributes to ethical discussions on emerging
+      technologies.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Ethical use of technology and AI governance.
+    context: The organization that hosted workshops on AI ethics and policy.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: University of Oxford
+    field: Philosophy
+    context: A key figure in technology ethics, previously associated with Yale.
+  - name: Gary Marchant
+    institution: '"Sandra Day O''Connor School of Law"'
+    field: Law and Governance
+    context: Co-discussed governance frameworks for emerging technologies.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Governance Coordinating Committees
+  organization: ''
+  description: Proposed framework for agile and adaptive governance mechanisms for
+    emerging technologies.
+  status: Proposed
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: First International Congress for the Governance of Artificial Intelligence
+    date: '2020-04-16'
+    significance: A gathering aimed at discussing international governance mechanisms
+      for AI.
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Governance
+- Machine Ethics
+- Ethical AI
+categories:
+- Technology
+- Ethics
+- AI Policy
+intended_audience: Researchers, policymakers, and individuals interested in AI ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"A Dangerous Master: How to Keep Technology from Slipping Beyond Our Control"'
+  url: ''
+  type: Book
+  relevance: '"Wendell Wallach''s exploration of the societal impacts of emerging
+    technologies."'
+action_items:
+- Participate in discussions about the ethical implications of AI.
+- Visit the Future of Life Institute website for more information on AI governance.
+controversial_topics:
+- topic: Lethal Autonomous Weapons
+  different_viewpoints:
+  - perspective: These weapons can lead to ethical dilemmas and increased conflict.
+    proponents: Wendell Wallach, AI ethicists
+    key_arguments: The lack of human oversight may lead to unintended consequences
+      in warfare.

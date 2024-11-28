@@ -1,0 +1,202 @@
+title: Connor Leahy on AI Safety and Why the World is Fragile
+original_url: '"https://zencastr.com/z/zComIOXk"'
+date_published: 2023-01-26
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Connor Leahy
+  affiliation: Conjecture
+  title: CEO
+  bio: Connor Leahy is the CEO of Conjecture, an organization focused on scalable
+    AI alignment.
+  expertise_areas:
+  - AI safety
+  - AI alignment
+  - technology policy
+synopsis: In this episode, Connor Leahy discusses the risks associated with AI and
+  potential solutions, including the need for better AI alignment and industry regulation.
+  He explores the concept of AI safety, infohazards, and the fragility of our technological
+  civilization.
+key_topics:
+- AI safety
+- AI alignment
+- infohazards
+- AI regulation
+- technological fragility
+tags:
+- AI
+- safety
+- ethics
+- technology
+key_points:
+- AI can pose significant risks to humanity if not aligned properly.
+- Regulating AI development may not be sufficient to mitigate risks.
+- Understanding and addressing infohazards is crucial.
+- Societal fragility increases the potential impact of AI-related disasters.
+- Funding and political action are essential for AI safety initiatives.
+segments:
+- title: Introduction to AI Alignment and Safety
+  summary: Connor Leahy introduces the concept of AI safety and alignments, discussing
+    its implications and the need for regulation in AI development.
+  key_quotes:
+  - quote: If you do things too expansively, it just brings a lot of back -edge to
+      people.
+    speaker: Connor Leahy
+    context: Discussing the complexity of defining AI safety.
+- title: Understanding AI Safety and Control
+  summary: Leahy frames the AI control problem and provides insights on the challenges
+    of ensuring AI systems will act as intended.
+  key_quotes:
+  - quote: I want an AI system to do what I want it to do, whatever that means.
+    speaker: Connor Leahy
+    context: Describing the essence of AI control.
+- title: AI Infohazards and Unpredictability
+  summary: The conversation shifts to discuss potential scenarios in which AI could
+    malfunction or be misused, emphasizing the concept of infohazards.
+  key_quotes:
+  - quote: There is a massive change in culture overall.
+    speaker: Connor Leahy
+    context: Referencing changes in societal response to dangers like poisoning.
+- title: Fragility and New Threats
+  summary: Leahy discusses the fragility of current societal structures and how this
+    can exacerbate the dangers posed by AI.
+  key_quotes:
+  - quote: The world is fundamentally fragile in that humans generally build defenses
+      against...medium shocks.
+    speaker: Connor Leahy
+    context: Explaining the vulnerability of systems to large-scale threats.
+- title: Moral Constraints in AI Systems
+  summary: The implications of using AI systems in decision-making roles are explored,
+    particularly regarding sociopathic tendencies.
+  key_quotes:
+  - quote: AIs would be capable and perhaps, or they perhaps would not share our human
+      reluctance to hurt other people.
+    speaker: Connor Leahy
+    context: '"Discussing AI''s potential to act without moral constraints."'
+- title: Challenges in Solving AI Safety
+  summary: Leahy emphasizes the difficulty of aligning AI with human values and the
+    mixed records of humanity in managing dangerous technologies.
+  key_quotes:
+  - quote: The paths are clearly still open. We can still win.
+    speaker: Connor Leahy
+    context: Speaking on the potential for solving AI alignment challenges.
+- title: Government Role in AI Alignment
+  summary: The role of government in AI regulation and alignment is discussed, including
+    the challenges of bureaucratic inefficiency.
+  key_quotes:
+  - quote: '"You can help people be not stupid, because it''s also in their interest
+      to not be stupid."'
+    speaker: Connor Leahy
+    context: On the importance of informed decision-making in government.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: GPT-3
+  url: '"https://openai.com/gpt-3"'
+  description: A state-of-the-art language processing AI model.
+  context: Used as an example of tool AI systems that could be misaligned with human
+    goals.
+research_papers:
+- title: DeepMind Teaching Itself to Collect Diamonds in Minecraft
+  authors:
+  - DeepMind
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: ''
+    context: The organization that hosts the podcast.
+  companies:
+  - name: Conjecture
+    industry: AI Alignment
+    context: Organization focused on scalable AI alignment.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: ''
+    institution: ''
+    field: ''
+    context: ''
+  industry_leaders:
+  - name: Connor Leahy
+    company: Conjecture
+    role: CEO
+    context: Expert in AI safety and alignment.
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Tylenol Murders
+    date: null
+    significance: A series of poisoning that led to significant changes in medication
+      safety protocols.
+    context: Used as an example of an infohazard in the discussion.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI safety
+- AI alignment
+- technology risks
+- infohazards
+- societal fragility
+categories:
+- Technology
+- Ethics
+- AI
+- Policy
+intended_audience: Individuals interested in AI safety and ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Promote AI alignment research and funding.
+- Encourage discourse on the moral implications of AI development.
+- Engage with government officials to improve understanding of AI risks.
+controversial_topics:
+- topic: Regulation vs. Innovation in AI Development
+  different_viewpoints:
+  - perspective: Regulation is necessary to safeguard humanity from AI risks.
+    proponents: Connor Leahy, AI safety advocates.
+    key_arguments: Without regulation, AI development may proceed unchecked, leading
+      to catastrophic outcomes.
+  - perspective: Overregulation stifles innovation and slows down technological progress.
+    proponents: Tech industry leaders, some policymakers.
+    key_arguments: Restricting AI development could hinder advancements that could
+      otherwise benefit society.

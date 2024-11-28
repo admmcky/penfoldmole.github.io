@@ -1,0 +1,158 @@
+title: '"AIAP: Synthesizing a human''s preferences into a utility function with Stuart
+  Armstrong"'
+original_url: '"https://zencastr.com/z/r1CWyCj6"'
+date_published: '2019-09-17'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Stuart Armstrong
+  affiliation: Future of Humanity Institute
+  title: Researcher
+  bio: '"Stuart Armstrong is a researcher focusing on the safety and possibilities
+    of artificial intelligence, defining potential goals of AI, and mapping humanity''s
+    values into AI systems."'
+  expertise_areas:
+  - AI alignment
+  - Human values
+  - Decision theory
+synopsis: In this episode, Lucas Perry talks with Stuart Armstrong about synthesizing
+  human preferences into utility functions for AI alignment, exploring the complexities
+  of human values and their implications on AI systems.
+key_topics:
+- AI alignment
+- Human preferences
+- Utility functions
+- Philosophy of AI
+- Inverse reinforcement learning
+tags:
+- AI
+- Human values
+- Philosophy
+- Research
+key_points:
+- Human values are often contradictory and manipulable.
+- Synthesis of preferences is crucial for AI alignment.
+- Understanding internal models helps infer human preferences.
+segments:
+- title: Introduction to the Research Agenda
+  summary: Stuart introduces his research agenda focused on synthesizing human preferences
+    into utility functions.
+  key_quotes:
+  - quote: The story is not true in the sense of accurate. Instead, it is intended
+      to provide some inspiration as to the direction of this research agenda.
+    speaker: Stuart Armstrong
+    context: On the purpose of narrating human evolution in relation to preferences.
+- title: Challenges in Inferring Preferences
+  summary: Stuart discusses the difficulty of inferring human preferences due to their
+    complexity and changeability.
+  key_quotes:
+  - quote: '"We can''t infer the preferences without making assumptions about the
+      rationality."'
+    speaker: Stuart Armstrong
+    context: Explaining the limitations of inferring preferences from behavior.
+- title: Understanding Human Preferences
+  summary: An exploration of how human preferences arise and the inconsistencies within
+    them, especially regarding their impact on AI alignment.
+  key_quotes:
+  - quote: Human preferences are contradictory, changeable, manipulable, and under-defined.
+    speaker: Stuart Armstrong
+    context: Defining the nature of human preferences.
+- title: Synthesizing Human Preferences
+  summary: The conversation dives into how to effectively synthesize human preferences
+    into a coherent utility function.
+  key_quotes:
+  - quote: The synthesis process has to reach an outcome, which means that a vague
+      description is not sufficient.
+    speaker: Stuart Armstrong
+    context: Discussing the necessity for concrete outcomes in the synthesis process.
+- title: Ethical Considerations
+  summary: Stuart outlines the moral implications and potential pitfalls of synthesizing
+    preferences, including responses to anti-altruistic preferences.
+  key_quotes:
+  - quote: There is a sort of informal Goodell statement in humans about their own
+      preferences.
+    speaker: Stuart Armstrong
+    context: Highlighting the challenges of acceptance in synthesized preferences.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Organization focused on mitigating existential risks facing humanity.
+  access_date: null
+tools_mentioned:
+- name: Survey Monkey
+  url: ''
+  description: A tool for polling feedback from podcast listeners.
+  context: Mentioned as a way for listeners to provide feedback.
+research_papers:
+- title: Inverse Reinforcement Learning
+  authors:
+  - Stuart Armstrong
+  year: null
+  url: ''
+  key_findings: The paper explores how to infer preferences from observed behavior
+    and discusses the limitations of this method.
+  context: Fundamental to understanding the synthesis of preferences.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Future of Humanity Institute
+    location: Oxford
+    context: Research institute focused on global catastrophic risks.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Collaborates with researchers on AI safety and learning.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: Future of Humanity Institute
+    field: Philosophy and AI Safety
+    context: Well-known for his work on AI risks and ethics.
+  industry_leaders:
+  - name: Paul Cristiano
+    company: ''
+    role: Researcher
+    context: Known for work on AI alignment and safety.
+  policy_makers: []
+projects_mentioned:
+- name: AI Desiderata
+  organization: Future of Humanity Institute
+  description: Framework for designing AI systems that align with human values.
+  status: In development
+  url: ''
+  context: Key project to help shape AI alignment strategies.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI alignment
+- Utility function
+- Human values
+categories:
+- Technology
+- Ethics
+- Research
+intended_audience: Researchers, AI ethics advocates, policy makers
+expertise_level: Intermediate
+recommended_reading:
+- title: The Alignment Problem
+  url: ''
+  type: Book
+  relevance: Explores the challenges and strategies for aligning AI with human values.
+action_items:
+- Provide feedback through the Survey Monkey link.
+controversial_topics:
+- topic: Synthesis of Human Preferences in AI
+  different_viewpoints:
+  - perspective: Preference Synthesis is vital for AI alignment.
+    proponents: Stuart Armstrong and supporters in the AI alignment community.
+    key_arguments: Without synthesizing human preferences, AI alignment risks misalignment
+      with human values.
+  - perspective: Challenges of human values being synthesized can lead to ethical
+      dilemmas.
+    proponents: Critics within the ethics community.
+    key_arguments: Synthesized preferences may reflect biases and inaccuracies inherent
+      to individual values.

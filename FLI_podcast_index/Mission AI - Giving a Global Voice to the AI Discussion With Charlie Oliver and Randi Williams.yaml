@@ -1,0 +1,185 @@
+title: Mission AI - Giving a Global Voice to the AI Discussion With Charlie Oliver
+  and Randi Williams
+original_url: '"https://zencastr.com/z/-SSsIcrn"'
+date_published: '2018-06-29'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Charlie Oliver
+  affiliation: ServeFresh Media and Tech 2025
+  title: Founder and CEO
+  bio: Charlie Oliver is a New York-based entrepreneur and digital media strategist
+    focused on emerging technologies.
+  expertise_areas:
+  - Digital media
+  - Emerging technologies
+  - Community engagement
+- name: Randi Williams
+  affiliation: MIT Media Lab
+  title: Doctoral student
+  bio: '"Randi Williams is researching children''s interactions with AI and developing
+    educational platforms for non-experts."'
+  expertise_areas:
+  - Personal robotics
+  - Psychology
+  - Education
+  - AI ethics
+synopsis: '"This episode discusses the initiative ''Mission AI'', aimed at enhancing
+  public engagement with AI technologies through conversations between researchers
+  and the general public. Charlie Oliver and Randi Williams share insights on the
+  ethical implications and educational opportunities in AI."'
+key_topics:
+- AI education
+- Public engagement in AI
+- Emerging technologies
+- '"Children''s interactions with AI"'
+- Ethical concerns in AI
+tags:
+- AI
+- Public Engagement
+- Education
+- Emerging Technologies
+key_points:
+- Mission AI aims to bridge the gap between public understanding and academic research
+  on AI.
+- '"Ethical issues in children''s interaction with AI are under-researched."'
+- Diversity and inclusivity are crucial in AI discussions.
+segments:
+- title: Introduction to Mission AI
+  summary: The episode opens with a discussion on the Future of Life Institute and
+    its mission to broaden AI conversations, followed by an introduction to the Mission
+    AI initiative launched by Tech 2025.
+  key_quotes:
+  - quote: We want to see more voices in this conversation and not just AI researchers.
+    speaker: Arielle Kahn
+    context: Opening remarks about the goals of the Future of Life Institute.
+- title: Charlie Oliver on Emerging Tech Education
+  summary: Charlie discusses her experiences in bridging public understanding of emerging
+    technologies, focusing on the genesis of Mission AI and the reactions from various
+    audiences.
+  key_quotes:
+  - quote: '"There''s a big huge gap between how the general public is interpreting
+      this and what they expect and how researchers are interpreting this."'
+    speaker: Charlie Oliver
+    context: Speaking on the need for better public understanding of AI.
+- title: '"Randi Williams on Children''s Interaction with AI"'
+  summary: '"Randi explains her research on how children interact with AI, addressing
+    misconceptions and ethical dilemmas in AI''s influence on childhood development."'
+  key_quotes:
+  - quote: Children behave very differently when they interact with humans than when
+      they interact with these toys.
+    speaker: Randi Williams
+    context: '"Discussing behavior differences in children''s interactions."'
+- title: Ethical Concerns and Future Directions
+  summary: The guests explore the ethical implications of AI technologies and the
+    importance of inclusive dialogues that involve diverse voices in discussions surrounding
+    AI.
+  key_quotes:
+  - quote: We need to have conversations between researchers and the public that are
+      going to continue to surprise us.
+    speaker: Charlie Oliver
+    context: On the necessity of open dialogue in AI discussions.
+websites_referenced:
+- url: ''
+  name: Future of Life Institute
+  context: Focuses on AI safety and public engagement.
+  access_date: null
+tools_mentioned:
+- name: Tech 2025
+  url: ''
+  description: A platform for learning about emerging technologies.
+  context: Launch platform for Mission AI.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: Life 3.0
+  authors:
+  - Max Tegmark
+  year: 2017
+  isbn: ''
+  context: '"Influential book motivating the conversation about AI''s future."'
+organizations:
+  academic_institutions:
+  - name: MIT Media Lab
+    location: Cambridge, MA
+    context: Where Randi Williams conducts her research.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and public understanding
+    context: Host of the podcast and supporter of Mission AI.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: ''
+    institution: ''
+    field: ''
+    context: ''
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Mission AI
+  organization: Tech 2025
+  description: A program to broaden the conversation about AI.
+  status: Active
+  url: ''
+  context: Created to engage the public in discussions about AI.
+events:
+  historical:
+  - name: Launch of Tech 2025
+    date: '2017-01-01'
+    significance: Initiated a community conversation about emerging technologies.
+    context: Foundation for Mission AI.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI education
+- Public engagement
+- Diversity in AI
+categories:
+- Technology
+- Education
+- Society
+intended_audience: General public interested in AI and technology.
+expertise_level: Beginner to Intermediate
+recommended_reading:
+- title: AI Safety and Ethics
+  url: ''
+  type: Article
+  relevance: Discusses ethical considerations in AI development.
+action_items:
+- Encourage participation in AI discussions and events.
+- Explore AI educational resources for diverse audiences.
+controversial_topics:
+- topic: Ethical use of AI with children
+  different_viewpoints:
+  - perspective: AI can enhance educational opportunities for children.
+    proponents: Randi Williams, AI educators.
+    key_arguments: AI can support child development but raises privacy concerns.
+  - perspective: '"AI poses risks to children''s development and privacy."'
+    proponents: Parents, child psychologists.
+    key_arguments: AI may lead to dependency and reduce social interactions.

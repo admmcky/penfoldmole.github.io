@@ -1,0 +1,142 @@
+title: Steven Pinker and Stuart Russell on the Foundations, Benefits, and Possible
+  Existential Threat of AI
+original_url: '"https://zencastr.com/z/qIVJEVi2"'
+date_published: '2020-06-15'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Steven Pinker
+  affiliation: Harvard University
+  title: Professor
+  bio: '"Steven Pinker is a cognitive psychologist and linguist, author of multiple
+    bestselling books including ''The Better Angels of Our Nature'' and ''Enlightenment
+    Now''."'
+  expertise_areas:
+  - Cognitive Psychology
+  - Psycholinguistics
+  - Visual Cognition
+- name: Stuart Russell
+  affiliation: University of California, Berkeley
+  title: Professor
+  bio: '"Stuart Russell is a leading researcher in AI, co-author of the textbook ''Artificial
+    Intelligence: A Modern Approach''. He has advised the UN on arms control and has
+    been involved in AI safety research."'
+  expertise_areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - AI Safety
+synopsis: In this episode, Steven Pinker and Stuart Russell discuss the historical
+  foundations of AI, its risks and benefits, and the existential threats posed by
+  superintelligent AI.
+key_topics:
+- Historical Foundations of AI
+- AI and Human Cognition
+- Existential Risks of AI
+- Deep Learning Limitations
+tags:
+- Artificial Intelligence
+- Cognitive Science
+- Existential Risk
+- Deep Learning
+key_points:
+- '"AI''s historical roots trace back to Enlightenment thinkers."'
+- Deep learning systems face limitations compared to human cognition.
+- Superintelligent AI poses potential existential risks but requires careful goal
+  setting.
+- Understanding the problem of AI alignment is crucial for ensuring safety.
+segments:
+- title: Historical Roots of AI
+  summary: The discussion starts by exploring the philosophical foundations of AI
+    in the Enlightenment, citing figures like Hobbes, Hume, and Aristotle.
+  key_quotes:
+  - quote: Reasoning is but reckoning.
+    speaker: Hobbes
+    context: Reference to the nature of reasoning in AI.
+- title: Limitations of Deep Learning
+  summary: '"Pinker and Russell express concerns regarding deep learning''s shortcomings
+    and the recent trends in AI that have overlooked earlier contributions in reasoning
+    and knowledge."'
+  key_quotes:
+  - quote: The vast majority of the deep learning community, when you read their papers,
+      nothing is cited before 2012.
+    speaker: Steven Pinker
+    context: Critique on the lack of historical awareness in contemporary AI research.
+- title: Existential Risks and AI
+  summary: The conversation shifts to the potential existential risks posed by superintelligent
+    AI and the necessity of aligning AI goals with human values.
+  key_quotes:
+  - quote: The ability to achieve a goal is distinct from what the goal is.
+    speaker: Steven Pinker
+    context: Highlighting the misalignment risk in setting AI objectives.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: An organization focused on mitigating existential risks facing humanity.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced:
+- title: Human Compatible
+  authors:
+  - Stuart Russell
+  year: 2019
+  isbn: ''
+  context: Book discussing the future of AI and its implications for humanity.
+organizations:
+  academic_institutions:
+  - name: Harvard University
+    location: Cambridge, MA
+    context: Where Steven Pinker is a professor.
+  - name: University of California, Berkeley
+    location: Berkeley, CA
+    context: Where Stuart Russell is a professor.
+  companies: []
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Thomas Hobbes
+    institution: ''
+    field: Philosophy
+    context: Influenced concepts of reasoning in the Enlightenment.
+  - name: David Hume
+    institution: ''
+    field: Philosophy
+    context: Contributed ideas relevant to AI learning principles.
+  - name: Aristotle
+    institution: ''
+    field: Philosophy
+    context: Provided early theories on cognition and decision-making.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI Alignment
+- Deep Learning Limitations
+- Existential Risk
+- Cognitive Psychology
+categories:
+- Technology
+- Philosophy
+- Artificial Intelligence
+intended_audience: Researchers, AI practitioners, and anyone interested in AI safety.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider the implications of AI alignment in future research and development.
+- Engage with the community on AI risks to foster better practices in technology deployment.
+controversial_topics:
+- topic: Existential Risks of Superintelligent AI
+  different_viewpoints:
+  - perspective: Skeptical of existential risk scenarios.
+    proponents: Steven Pinker
+    key_arguments: Believes that concerns are often exaggerated and not reflective
+      of practical AI development.
+  - perspective: Concerned about future risks and alignment.
+    proponents: Stuart Russell
+    key_arguments: Advocates for careful consideration of AI goals to prevent unintended
+      harmful consequences.

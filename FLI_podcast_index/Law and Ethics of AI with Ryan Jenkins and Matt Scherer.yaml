@@ -1,0 +1,149 @@
+title: Law and Ethics of AI with Ryan Jenkins and Matt Scherer
+original_url: '"https://zencastr.com/z/f1vRDYOC"'
+date_published: '2017-03-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Matt Scherer
+  affiliation: Buchanan, Angeli, Altshull, and Sullivan LLP
+  title: Attorney and Legal Scholar
+  bio: Matt Scherer is an attorney based in Portland, Oregon, focusing on the intersection
+    of law and artificial intelligence.
+  expertise_areas:
+  - Law
+  - Artificial Intelligence
+- name: Ryan Jenkins
+  affiliation: California Polytechnic State University
+  title: Assistant Professor of Philosophy
+  bio: Ryan Jenkins is a Senior Fellow at the Ethics and Emerging Sciences Group,
+    specializing in the ethics of technology.
+  expertise_areas:
+  - Philosophy
+  - Ethics of Technology
+synopsis: In this episode, Arielle Kahn leads a discussion with legal expert Matt
+  Scherer and ethicist Ryan Jenkins about the ongoing legal and ethical challenges
+  posed by artificial intelligence, focusing on topics such as algorithmic bias, autonomous
+  weapons, and the implications of automation on society.
+key_topics:
+- Legal implications of AI
+- Ethical dilemmas of AI
+- Autonomous weapons
+- Bias in algorithms
+- Automation and labor
+tags:
+- Artificial Intelligence
+- Ethics
+- Law
+- Technology
+key_points:
+- The interplay between law and ethics is crucial in shaping AI regulation.
+- AI decisions can exhibit bias, raising ethical concerns, especially in criminal
+  justice.
+- The future of work may be adversely impacted by automation, with high unemployment
+  risks.
+segments:
+- title: '"Introduction to AI''s Legal and Ethical Issues"'
+  summary: The host introduces the guests and outlines the key themes of the discussion,
+    emphasizing the importance of legal and ethical issues in AI.
+  key_quotes:
+  - quote: Ethics does some of the sort of investigation about what kinds of things
+      matter morally.
+    speaker: Ryan Jenkins
+    context: Discussing the relationship between ethics and law in the context of
+      AI.
+- title: AI Decision-Making and Bias in Algorithms
+  summary: Discussion of ethical challenges stemming from algorithms, particularly
+    how biases can affect decisions in criminal justice.
+  key_quotes:
+  - quote: '"ProPublica did an audit of this software and they found that it''s actually
+      pretty troublingly unreliable."'
+    speaker: Ryan Jenkins
+    context: Referencing bias in risk assessment algorithms.
+- title: Future Ethical Issues of AI
+  summary: Exploration of potential future ethical dilemmas as AI capabilities advance,
+    especially around transparency and job displacement.
+  key_quotes:
+  - quote: '"Some studies say as many as 50% of American jobs could be eliminated
+      by automation."'
+    speaker: Ryan Jenkins
+    context: Warning about the future impacts of automation on employment.
+- title: '"AI as a Legal Blank Slate: Challenges and Integration"'
+  summary: Matt outlines the current lack of comprehensive legal frameworks for AI,
+    highlighting the need for new regulations.
+  key_quotes:
+  - quote: The law has basically been able to operate under the old assumptions.
+    speaker: Matt Scherer
+    context: Discussing how existing laws may not adequately address the challenges
+      posed by AI.
+- title: Accountability in Autonomous Warfare
+  summary: Exploration of the accountability challenges that arise with autonomous
+    weapons and decision-making in war.
+  key_quotes:
+  - quote: '"It''s going to get much blurrier when the decisions are not being made
+      by human soldiers."'
+    speaker: Matt Scherer
+    context: Discussing accountability in autonomous warfare.
+- title: '"AI''s Role in Fake News and Public Discourse"'
+  summary: Discussion on the ethical and legal implications of AI in the spread of
+    misinformation and the erosion of shared public discourse.
+  key_quotes:
+  - quote: The fake news problem is really that a lot of people are going to believe
+      any story that they read.
+    speaker: Ryan Jenkins
+    context: Examining the impact of fake news on public perception and democracy.
+websites_referenced:
+- url: '"https://lawandai.com"'
+  name: Law and AI Blog
+  context: '"Matt Scherer''s blog on law and AI issues."'
+  access_date: null
+organizations:
+  academic_institutions:
+  - name: California Polytechnic State University
+    location: San Luis Obispo, California
+    context: '"Ryan Jenkins'' affiliation."'
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and ethical implications
+    context: The organization hosting the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Ryan Jenkins
+    institution: California Polytechnic State University
+    field: Philosophy
+    context: Specializes in the ethics of technology.
+  industry_leaders:
+  - name: Matt Scherer
+    company: Buchanan, Angeli, Altshull, and Sullivan LLP
+    role: Attorney
+    context: Expert in AI legal implications.
+keywords:
+- AI ethics
+- algorithm bias
+- autonomous technology
+- legal frameworks
+categories:
+- Technology
+- Law
+- Ethics
+intended_audience: Individuals interested in AI, law, and ethics
+expertise_level: Intermediate
+recommended_reading:
+- title: The Ethics of Autonomous Weapons
+  url: ''
+  type: Article
+  relevance: Discusses moral implications of autonomous technology in warfare.
+action_items:
+- Encourage discussions on ethical considerations in AI development.
+- Consider advocating for clearer accountability frameworks for AI systems.
+controversial_topics:
+- topic: Accountability in AI decision-making
+  different_viewpoints:
+  - perspective: Machines can make reliable decisions in warfare.
+    proponents: Some technologists and military advocates.
+    key_arguments: Machines may reduce human error and bias.
+  - perspective: Delegating life-and-death decisions to machines is unethical.
+    proponents: Ethicists and human rights advocates.
+    key_arguments: Moral implications of removing human judgment in warfare.

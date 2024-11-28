@@ -1,0 +1,153 @@
+title: Katja Grace on the Largest Survey of AI Researchers
+original_url: '"https://zencastr.com/z/BF6HzcEP"'
+date_published: '2024-03-14'
+host:
+  name: Gus Darker
+  affiliation: Future of Life Institute
+guests:
+- name: Katja Grace
+  affiliation: AI Impacts
+  title: Researcher
+  bio: Katja Grace is a researcher at AI Impacts, known for her work on AI forecasting
+    and survey methodologies assessing the views of AI researchers.
+  expertise_areas:
+  - AI Forecasting
+  - AI Policy
+  - Survey Methodologies
+synopsis: In this episode, Gus Darker interviews Katja Grace about the latest AI Impacts
+  survey of AI researchers, discussing insights on human-level AI predictions, automation
+  timelines, extinction risks, and the implications of AI capabilities on society.
+key_topics:
+- AI Research Predictions
+- Human-Level AI Timelines
+- AI Automation
+- Extinction Risks and Public Opinion
+- Ethics and Regulation of AI
+tags:
+- AI
+- Research Survey
+- Policy
+key_points:
+- The estimated timeline for human-level AI has decreased significantly, now predicted
+  around 2050.
+- The 2023 AI survey engaged nearly 3,000 participants, significantly broadening its
+  data collection efforts.
+- '"Experts express lower confidence in predicting AI risks of extinction despite
+  increased awareness of AI''s capabilities."'
+- Predictions indicate rapid automate tasks within five years, but ethical considerations
+  about regulation remain complex.
+segments:
+- title: AI Survey Overview
+  summary: '"Katja Grace discusses the background and methodology of AI Impacts''
+    survey, its expansion beyond previous datasets, and the notable increase in participant
+    engagement."'
+  key_quotes:
+  - quote: The 2023 survey is the biggest one yet.
+    speaker: Katja Grace
+    context: Discussing the significance of participant numbers and venues included
+      for the survey.
+- title: Impact of ChatGPT on AI Predictions
+  summary: The conversation pivots to the influence of ChatGPT on expert timelines
+    for AI capabilities, illustrating a notable shift in expert predictions from previous
+    surveys.
+  key_quotes:
+  - quote: The estimated time to human level AI dropped anywhere from one to five
+      decades from the 2022 survey.
+    speaker: Katja Grace
+    context: Highlighting the effect of public attention on expert timelines.
+- title: Challenges in AI Forecasting
+  summary: Katja analyzes the complexities surrounding predictions about AI automation
+    and the discrepancies in expert opinions, emphasizing framing effects in survey
+    responses.
+  key_quotes:
+  - quote: '"If there''s such a large discrepancy between expert predictions, what
+      does that mean?"'
+    speaker: Gus Darker
+    context: '"Questioning the confidence of experts in forecasting AI''s future."'
+- title: Regulatory Considerations for AI Development
+  summary: Discussion includes a variety of views on whether AI development should
+    proceed faster or slower and implications of these speeds on society.
+  key_quotes:
+  - quote: It seems quite plausible... that we should be pushing for AI to go slower.
+    speaker: Katja Grace
+    context: Expressing concerns about the pace of AI development.
+websites_referenced:
+- url: '"https://aiimpacts.org"'
+  name: AI Impacts
+  context: Website for AI Impacts, which conducts research and surveys in AI forecasting.
+  access_date: '2024-03-01'
+tools_mentioned:
+- name: ChatGPT
+  url: '"https://openai.com/blog/chatgpt"'
+  description: A conversational AI model developed by OpenAI.
+  context: Referenced as a significant development influencing expert opinions.
+research_papers:
+- title: '"AI Forecasting: Results from the AI Impacts Survey"'
+  authors:
+  - Katja Grace
+  year: 2024
+  url: '"https://aiimpacts.org/survey-results"'
+  key_findings: Notable decreases in predicted timelines for human-level AI.
+  context: Discussed insights from the recent survey.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Global
+    context: An organization focused on mitigating existential risks such as those
+      related to AI.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: The organization behind ChatGPT and various AI research projects.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Elon Musk
+    institution: SpaceX, Tesla
+    field: '"Technology & AI"'
+    context: Noted for his views on AI risk and ethical AI development.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: AGI Safety Projects
+  organization: Various AI safety organizations
+  description: Efforts aimed at ensuring AI development is aligned with human values
+    and safety.
+  status: Ongoing
+  url: ''
+  context: Related to discussions surrounding the risks and benefits of AI.
+events:
+  historical:
+  - name: NeurIPS Conference
+    date: null
+    significance: One of the premier conferences for AI research.
+    context: Referenced as a venue included in the survey data collection.
+  upcoming: []
+keywords:
+- AI Research
+- Expert Predictions
+- Ethics
+categories:
+- Technology
+- '"AI & Machine Learning"'
+intended_audience: AI researchers, policymakers, and technologists interested in AI
+  forecasting.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Ethics of AI
+  url: '"https://example.com/ethics-of-ai"'
+  type: Article
+  relevance: A discussion of ethical concerns surrounding AI development.
+action_items:
+- Consider implications of rapid AI advancements on personal and professional investments.
+controversial_topics:
+- topic: Pace of AI Development
+  different_viewpoints:
+  - perspective: AI should progress faster to drive innovation.
+    proponents: Many tech industry leaders.
+    key_arguments: Faster AI development can lead to significant societal benefits.
+  - perspective: AI should progress slower to mitigate risks.
+    proponents: Responsible AI researchers and ethicists.
+    key_arguments: Slower development can allow for better oversight and regulation.

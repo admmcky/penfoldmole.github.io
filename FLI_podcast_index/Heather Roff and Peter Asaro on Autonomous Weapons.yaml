@@ -1,0 +1,173 @@
+title: Heather Roff and Peter Asaro on Autonomous Weapons
+original_url: '"https://zencastr.com/z/Pehu30Q_"'
+date_published: '2016-11-30'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Dr. Heather Roff
+  affiliation: Global Security Initiative at Arizona State University and University
+    of Oxford
+  title: Research Scientist and Senior Research Fellow
+  bio: Dr. Roff is an expert in autonomous weapons and has worked extensively on data
+    compilation related to autonomous systems.
+  expertise_areas:
+  - Autonomous Weapons
+  - International Relations
+  - Security Studies
+- name: Dr. Peter Asaro
+  affiliation: The New School
+  title: Philosopher of Science, Technology, and Media
+  bio: Dr. Asaro is a philosopher focusing on the ethical and legal implications of
+    autonomous systems and is involved in international arms control initiatives.
+  expertise_areas:
+  - Ethics of AI
+  - Autonomous Weapons
+  - International Law
+synopsis: In this episode, Drs. Heather Roff and Peter Asaro discuss the implications
+  of autonomous weapons, covering themes of responsibility, ethical challenges, and
+  the current state of military technologies.
+key_topics:
+- Autonomous Weapons Systems
+- Database of Autonomous Systems
+- Liability and Accountability
+- Human Control in Autonomous Systems
+- International Response to Autonomous Weapons
+tags:
+- Autonomous Systems
+- Ethics
+- AI in Warfare
+- International Law
+key_points:
+- A comprehensive database of autonomous weapons systems has been compiled to provide
+  insight into current capabilities.
+- Ethical and legal accountability for actions taken by autonomous systems presents
+  significant challenges.
+- '"The concept of ''meaningful human control'' over autonomous weapon decisions is
+  crucial for legal and moral responsibilities."'
+- Discussions at the UN regarding autonomous weapons focus on establishing meaningful
+  control and liability frameworks.
+segments:
+- title: Understanding Autonomous Weapon Systems
+  summary: An overview of the current state of autonomous weapons and the motivations
+    behind creating a comprehensive database of existing systems.
+  key_quotes:
+  - quote: The main impetus behind the creation of the database was a feeling that
+      the same autonomous systems were consistently brought out in discussions.
+    speaker: Dr. Roff
+    context: Describing the creation of a database to track various autonomous weapons
+      systems.
+- title: Ethical and Legal Implications
+  summary: Discussion on the moral dilemmas posed by autonomous weapons and the challenges
+    in assigning accountability.
+  key_quotes:
+  - quote: Delegating the authority to kill to them is unjustifiable.
+    speaker: Dr. Asaro
+    context: On moral issues associated with using autonomous systems in warfare.
+- title: Human Involvement and Decision-Making
+  summary: An exploration of the role of humans in operating autonomous systems and
+    implications for responsibility.
+  key_quotes:
+  - quote: The human in the loop is just a really unhelpful heuristic.
+    speaker: Dr. Asaro
+    context: Critiquing simplistic models of human control in decision-making for
+      autonomous weapons.
+- title: International Response to Autonomous Weapons
+  summary: '"Discussion of the international community''s engagement with issues surrounding
+    autonomous weapons and meaningful human control."'
+  key_quotes:
+  - quote: '"There is discussion going on, it''s hopefully going to move to a more
+      formal stage this year."'
+    speaker: Dr. Roff
+    context: On the ongoing international discussions at the UN regarding autonomous
+      weapons regulation.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization dedicated to reducing global catastrophic risks.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Arizona State University
+    location: Arizona, USA
+    context: Institution where Dr. Heather Roff is a research scientist.
+  - name: University of Oxford
+    location: Oxford, UK
+    context: Institution where Dr. Heather Roff is a senior research fellow.
+  - name: The New School
+    location: New York City, USA
+    context: Institution where Dr. Peter Asaro works.
+  companies: []
+  non_profits:
+  - name: International Committee for Robot Arms Control
+    focus_area: Regulation of autonomous weapons
+    context: Organization co-founded by Dr. Peter Asaro.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Dr. Heather Roff
+    institution: Arizona State University and University of Oxford
+    field: Autonomous Weapons
+    context: Researcher working on the implications and data surrounding autonomous
+      weapon systems.
+  - name: Dr. Peter Asaro
+    institution: The New School
+    field: Philosophy of Science and Technology
+    context: Philosopher focusing on the ethics and legality of autonomous weapons.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Autonomous Weapons Database
+  organization: Global Security Initiative
+  description: A comprehensive database detailing autonomous weapon systems and their
+    capabilities.
+  status: Ongoing
+  url: N/A
+  context: Developed to aid understanding and policy formulation regarding autonomous
+    weapons.
+events:
+  historical:
+  - name: United Nations Convention on Conventional Weapons
+    date: null
+    significance: Platform discussing limitations and regulations on weapon systems,
+      including autonomous weapons.
+    context: Key venue for discussions about international regulation of autonomous
+      weapons.
+  upcoming:
+  - name: CCW Review Conference
+    date: null
+    location: null
+    description: Expected meeting to discuss the progress on addressing autonomous
+      weapons.
+    url: N/A
+keywords:
+- Autonomous Weapons
+- Ethical AI
+- International Relations
+- Military Technology
+categories:
+- Technology
+- Security
+- Ethics
+- International Policy
+intended_audience: Policy makers, researchers, and individuals interested in military
+  ethics.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Engage with discussions on the ethical implications of autonomous weapons within
+  international law frameworks.
+controversial_topics:
+- topic: Human Control vs. Autonomous Decision-Making
+  different_viewpoints:
+  - perspective: Meaningful Human Control
+    proponents: Dr. Roff and Dr. Asaro
+    key_arguments: Human operators must retain control over lethal decisions to ensure
+      accountability and ethical compliance.
+  - perspective: Full Autonomy in Weapon Systems
+    proponents: None clearly represented in the podcast
+    key_arguments: Concerns raised about unintended consequences of machines making
+      life-and-death decisions.

@@ -1,0 +1,156 @@
+title: Andrew Critch on AI Research Considerations for Human Existential Safety
+original_url: '"https://zencastr.com/z/xqicr_yv"'
+date_published: '2020-09-16'
+host:
+  name: Lucas Parity
+  affiliation: AI Alignment Podcast
+guests:
+- name: Andrew Critch
+  affiliation: UC Berkeley, Center for Human-Compatible AI
+  title: Research Scientist
+  bio: Andrew Critch is a research scientist with a focus on AI existential safety
+    and AI alignment, holding a PhD in mathematics from UC Berkeley.
+  expertise_areas:
+  - AI safety
+  - Existential risk
+  - Machine learning
+synopsis: '"In this episode, Andrew Critch discusses his paper on AI Research Considerations
+  for Human Existential Safety, addressing key concepts of AI risks and their implications
+  for humanity''s future."'
+key_topics:
+- AI existential risk
+- Research agenda
+- AI alignment
+- Prepotent AI
+- Delegation in AI systems
+tags:
+- AI Safety
+- Existential Risk
+- Ethics
+- Research
+key_points:
+- The importance of defining existential safety distinct from general AI safety.
+- Analysis of prepotent AI and its implications for humanity.
+- The necessity for diverse stakeholders in AI governance.
+- Acknowledgment of the limitations in traditional AI alignment frameworks.
+segments:
+- title: Introduction and Overview
+  summary: '"Lucas introduces Andrew Critch and the key themes of the discussion,
+    focusing on the paper''s exploration of AI risks."'
+  key_quotes:
+  - quote: I care about existential safety. I want humans to be safe as a species.
+    speaker: Andrew Critch
+    context: Critch describes his motivations for addressing the topic of existential
+      safety.
+- title: Mainstream AI Risk Perspectives
+  summary: The conversation delves into AI risk perceptions within the mainstream
+    AI community and the lack of discourse around risks.
+  key_quotes:
+  - quote: The culture of computer science...is to always talk about the benefits
+      of science.
+    speaker: Andrew Critch
+    context: Critch highlights the cultural challenges faced in addressing AI risks.
+- title: Defining and Distinguishing AI Concepts
+  summary: The segments explore the definitions of existential safety, safety, and
+    alignment, emphasizing their interactions and distinctions.
+  key_quotes:
+  - quote: Existential safety is a problem for humanity on an existential timescale.
+    speaker: Andrew Critch
+    context: Critch explains the nuances in defining existential safety versus general
+      safety concepts.
+- title: Delegation and Multi-Stakeholder Dynamics
+  summary: Critch discusses the importance of delegation in AI systems and how stakeholder
+    dynamics impact AI governance.
+  key_quotes:
+  - quote: I think delegation is important because I think a lot of human society
+      is rightly arranged in a way that avoids absolute power.
+    speaker: Andrew Critch
+    context: The relevance of delegation in preventing unaccountable power dynamics
+      is discussed.
+- title: Risks from AI Development
+  summary: '"The discussion details the tiered risks outlined in Critch''s paper concerning
+    AI technologies and their potential catastrophic impacts."'
+  key_quotes:
+  - quote: '"If we don''t destroy ourselves first, I think there''s a very good chance
+      of that actually playing out."'
+    speaker: Andrew Critch
+    context: Critch comments on the existential risk posed by AI technologies.
+websites_referenced:
+- url: '"https://humancompatible.ai"'
+  name: Center for Human-Compatible AI
+  context: A research center focusing on ensuring AI technologies are developed in
+    alignment with human values.
+  access_date: null
+tools_mentioned:
+- name: Google Docs
+  url: '"https://docs.google.com"'
+  description: Collaborative document editing platform that enhances cooperative governance.
+  context: Critch uses Google Docs as an analogy for collaborative governance in AI
+    systems.
+research_papers:
+- title: AI Research Considerations for Human Existential Safety
+  authors:
+  - Andrew Critch
+  - David Kruger
+  year: 2020
+  url: '"https://arxiv.org/abs/2005.00495"'
+  key_findings: The paper outlines a research agenda for addressing existential risks
+    posed by AI, highlighting the need for multi-stakeholder engagement.
+  context: Main focus of the podcast discussion.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: University of California, Berkeley
+    location: Berkeley, CA
+    context: Where Andrew Critch conducts his research on AI safety.
+  companies: []
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: UC Berkeley
+    field: Artificial Intelligence
+    context: Co-director of the Center for Human-Compatible AI.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Center for Human-Compatible AI
+  organization: UC Berkeley
+  description: Research initiative focused on aligned AI and its implications for
+    humanity.
+  status: Active
+  url: '"https://humancompatible.ai"'
+  context: ''
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI alignment
+- existential risk
+- prepotent AI
+- stakeholder engagement
+categories:
+- Technology
+- Ethics
+- Research
+intended_audience: Researchers, policymakers, and individuals interested in AI safety.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  url: '"https://www.roberto.com/superintelligence"'
+  type: book
+  relevance: Context on existential risks related to AI development.
+action_items:
+- Encourage open discussions about AI risks and their implications.
+- Promote interdisciplinary approaches to AI alignment research.
+controversial_topics:
+- topic: Defining existential safety versus AI safety
+  different_viewpoints:
+  - perspective: Existential safety includes broader societal implications.
+    proponents: Andrew Critch, David Kruger
+    key_arguments: The distinction is crucial for framing the correct questions in
+      AI research.
+  - perspective: AI safety should encompass all safety concerns.
+    proponents: Mainstream AI researchers
+    key_arguments: Broad safety concerns inherently cover existential threats.

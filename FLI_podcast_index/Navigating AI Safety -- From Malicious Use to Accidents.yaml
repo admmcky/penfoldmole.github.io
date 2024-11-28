@@ -1,0 +1,155 @@
+title: Navigating AI Safety -- From Malicious Use to Accidents
+original_url: '"https://zencastr.com/z/D9MKr0Rm"'
+date_published: '2018-03-30'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Shahar Avin
+  affiliation: Center for the Study of Existential Risk
+  title: Research Associate
+  bio: Shahar Avin is a research associate focused on existential risk and AI safety.
+  expertise_areas:
+  - AI safety
+  - Existential risk
+- name: Victoria Krakovna
+  affiliation: DeepMind
+  title: Research Scientist
+  bio: Victoria Krakovna is a co-founder of the Future of Life Institute and a research
+    scientist at DeepMind specializing in AI safety.
+  expertise_areas:
+  - Technical AI safety
+  - AI alignment
+synopsis: In this episode, Arielle Kahn discusses the Malicious Use of Artificial
+  Intelligence report with experts Shahar Avin and Victoria Krakovna, exploring the
+  implications of AI safety research and the necessity of addressing potential malicious
+  uses and accidents associated with AI advancements.
+key_topics:
+- AI safety research
+- Malicious use of AI
+- Cybersecurity
+- Human vulnerabilities in AI attacks
+- AI ethics and alignment
+tags:
+- artificial intelligence
+- AI safety
+- malicious use
+- existential risks
+key_points:
+- AI safety research has gained more attention and become mainstream in recent years.
+- The Malicious Use of Artificial Intelligence report emphasizes the interdisciplinary
+  nature of AI risks.
+- Understanding and addressing the dual-use nature of AI technologies is critical
+  for development.
+- Human vulnerabilities are increasingly targeted in malicious AI applications.
+segments:
+- title: Introduction to AI Risk Report
+  summary: The episode opens with an overview of the Malicious Use of Artificial Intelligence
+    report, discussing its implications for society.
+  key_quotes:
+  - quote: The challenge is daunting and the stakes are high.
+    speaker: Arielle Kahn
+    context: Introduction to the podcast and its focus on AI risk.
+- title: Expert Credentials
+  summary: Shahar Avin and Victoria Krakovna elaborate on their roles and expertise
+    in AI safety research.
+  key_quotes:
+  - quote: AI safety was less mainstream in the AI research community than it is today.
+    speaker: Victoria Krakovna
+    context: Discussion on the evolution of AI safety research.
+- title: Malicious Use of AI
+  summary: The guests discuss the origins of the report and the importance of considering
+    malicious uses of AI.
+  key_quotes:
+  - quote: '"No one''s really looking at how artificial intelligence could be used
+      maliciously."'
+    speaker: Shahar Avin
+    context: Discussion on the oversight in AI research regarding potential harms.
+- title: Human Vulnerabilities in AI Attacks
+  summary: The discussion covers how AI can exploit human vulnerabilities, notably
+    through social engineering tactics.
+  key_quotes:
+  - quote: '"The ability to shape the message is the ability to influence people''s
+      decisions."'
+    speaker: Shahar Avin
+    context: Explaining how misinformation can affect electoral processes.
+- title: '"AI''s Transformative Potential"'
+  summary: Victoria and Shahar discuss the potential benefits of AI when appropriately
+    developed with safety measures.
+  key_quotes:
+  - quote: There are many ways in which AI can make our lives better.
+    speaker: Victoria Krakovna
+    context: Highlighting the positive impacts AI can have on various sectors.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Home organization of the podcast and discussion about AI safety.
+  access_date: '2023-10-01'
+tools_mentioned: []
+research_papers:
+- title: '"The Malicious Use of Artificial Intelligence: Forecasting, Prevention,
+    and Mitigation"'
+  authors:
+  - Shahar Avin
+  - Victoria Krakovna
+  year: 2018
+  url: '"https://maliciousai.org"'
+  key_findings: Highlights potential misuses of AI technologies and emphasizes interdisciplinary
+    research.
+  context: Central report discussed in the episode.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Center for the Study of Existential Risk
+    location: Cambridge, UK
+    context: Institution focusing on existential risks, including AI safety.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: AI research company known for its focus on ethical AI and safety.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and existential risks
+    context: Organization promoting the beneficial use of AI and mitigating risks.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Shahar Avin
+    institution: Center for the Study of Existential Risk
+    field: AI safety
+    context: Guest expert discussing malicious use of AI.
+  - name: Victoria Krakovna
+    institution: DeepMind
+    field: AI safety
+    context: Research scientist contributing to AI safety advancements.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI safety
+- malicious use of AI
+- existential risks
+categories:
+- Technology
+- Science
+- AI Ethics
+intended_audience: Researchers, policymakers, and individuals interested in AI safety.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider the implications of AI research in your work.
+- Stay informed on developments in AI safety and ethics.
+controversial_topics:
+- topic: Malicious Use of AI
+  different_viewpoints:
+  - perspective: AI has transformative potential that can benefit society.
+    proponents: Victoria Krakovna, Shahar Avin
+    key_arguments: '"Emphasizes the necessity of addressing safety to unlock AI''s
+      benefits."'
+  - perspective: The risks of AI misuse may outweigh the benefits.
+    proponents: Skeptics of AI development
+    key_arguments: Concerns regarding potential harms and manipulations that could
+      arise from unchecked AI advancements.

@@ -1,0 +1,171 @@
+title: '"AIAP: Inverse Reinforcement Learning and the State of AI Alignment with Rohin
+  Shah"'
+original_url: '"https://zencastr.com/z/UV_dyjbt"'
+date_published: '2018-12-18'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Rohin Shah
+  affiliation: University of California, Berkeley
+  title: PhD Student
+  bio: Rohin Shah is a fifth-year PhD student at UC Berkeley, working with the Center
+    for Human Compatible AI.
+  expertise_areas:
+  - AI alignment
+  - inverse reinforcement learning
+  - effective altruism
+synopsis: In this episode, Lucas Perry speaks with Rohin Shah about inverse reinforcement
+  learning and its implications for AI alignment. They discuss the challenges of inferring
+  human values and preferences in AI systems and how to approach future AI development
+  with evolving human norms.
+key_topics:
+- Inverse reinforcement learning
+- AI alignment
+- Cognitive biases
+- Human values
+tags:
+- AI
+- Machine Learning
+- Ethics
+key_points:
+- Inverse reinforcement learning relies on inferring human goals from behavior.
+- Cognitive biases can distort the understanding of human values.
+- The assumption of humans as perfect optimizers is flawed.
+- AI should evolve alongside human values rather than optimizing a static utility
+  function.
+segments:
+- title: Understanding Inverse Reinforcement Learning
+  summary: Rohin Shah explains inverse reinforcement learning (IRL) and its potential
+    application in AI alignment, emphasizing the significance of understanding human
+    motivations and cognitive biases.
+  key_quotes:
+  - quote: '"The idea with inverse reinforcement learning is you can look at the behavior
+      of some agent, perhaps a human, and tell what they''re trying to optimize."'
+    speaker: Rohin Shah
+    context: Discussing the conceptual framework of inverse reinforcement learning.
+- title: Challenges in Inferring Human Values
+  summary: The conversation shifts to the limitations of assuming humans act optimally
+    and how biases complicate the inference of human values.
+  key_quotes:
+  - quote: '"If you assume that they''re optimal, then whatever reward function you
+      infer is going to simply recover the human performance."'
+    speaker: Rohin Shah
+    context: Highlighting the flaws in the optimality assumption in behavioral inference.
+- title: Philosophical Tensions in AI Decision-Making
+  summary: An exploration of the philosophical implications of defining utility functions
+    and their relevance to AI alignment.
+  key_quotes:
+  - quote: '"It feels like we''ve taken a flawed paradigm to start with and changed
+      it so that it doesn''t have all the obvious flaws."'
+    speaker: Rohin Shah
+    context: On the issues surrounding the use of IRL for inferring utility functions
+      in AI.
+websites_referenced:
+- url: '"https://humancompatible.ai/"'
+  name: Center for Human Compatible AI
+  context: Affiliated organization where Rohin Shah conducts his research.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Alignment Newsletter
+  url: '"https://alignmentnewsletter.com/"'
+  description: A newsletter collecting recent work in AI alignment.
+  context: Rohin Shah curates and summarizes research relevant to AI alignment.
+research_papers:
+- title: Inverse Reinforcement Learning and Its Implications
+  authors:
+  - Rohin Shah
+  - Stuart Russell
+  year: 2018
+  url: ''
+  key_findings: IRL requires more sophisticated assumptions to effectively infer true
+    human values that often evolve.
+  context: Discussed the limitations and challenges associated with traditional IRL
+    methods.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of California, Berkeley
+    location: Berkeley, CA, USA
+    context: Where Rohin Shah is pursuing his PhD in AI alignment.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Effective Altruism
+    focus_area: Philosophy and social movement
+    context: Rohin has been involved with effective altruism for several years.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: University of California, Berkeley
+    field: Artificial Intelligence
+    context: Prominent AI researcher associated with the Center for Human Compatible
+      AI.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Alignment Newsletter
+  organization: Center for Human Compatible AI
+  description: A collection of recent progress in AI alignment.
+  status: Active
+  url: '"https://alignmentnewsletter.com/"'
+  context: Rohin Shah contributes to this project to help disseminate important findings
+    in AI alignment.
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI alignment
+- Human values
+- Inverse reinforcement learning
+categories:
+- Artificial Intelligence
+- Ethics
+- Philosophy
+intended_audience: AI researchers and enthusiasts interested in ethics and alignment.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  url: '"https://www.goodreads.com/book/show/20560193-superintelligence"'
+  type: Book
+  relevance: Covers the implications of advanced AI and the importance of aligning
+    it with human values.
+action_items:
+- Consider the implications of cognitive biases in AI and how they affect utility
+  inference.
+- Explore alternative frameworks for AI alignment beyond traditional utility functions.
+controversial_topics:
+- topic: Reliability of Utility Functions in AI
+  different_viewpoints:
+  - perspective: Utility functions can be complex and unreliable for long-term alignment.
+    proponents: Rohin Shah and contemporary alignment researchers.
+    key_arguments: Utility functions may fail to incorporate evolving human values
+      and norms.

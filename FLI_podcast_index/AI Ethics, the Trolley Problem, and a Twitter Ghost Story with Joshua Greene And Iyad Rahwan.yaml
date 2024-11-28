@@ -1,0 +1,164 @@
+title: AI Ethics, the Trolley Problem, and a Twitter Ghost Story with Joshua Greene
+  And Iyad Rahwan
+original_url: '"https://zencastr.com/z/u4ZAYlZh"'
+date_published: '2017-10-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Joshua Greene
+  affiliation: Harvard University
+  title: Professor of Psychology
+  bio: Joshua Greene is a professor of psychology and a member of the Center for Brain
+    Science faculty at Harvard University, studying moral judgment and the interplay
+    between emotion and reason.
+  expertise_areas:
+  - Moral Judgment
+  - Neuroscience
+  - Behavioral Methods
+- name: Iyad Rahwan
+  affiliation: MIT Media Lab
+  title: Associate Professor of Media Arts and Sciences
+  bio: '"Iyad Rahwan is an AT&T Career Development Professor who leads the Scalable
+    Cooperation Group at the MIT Media Lab. He focuses on the societal impacts of
+    AI and computational systems."'
+  expertise_areas:
+  - Scalable Cooperation
+  - AI and Decision Making
+  - Ethical Implications of AI
+synopsis: The podcast explores the ethical challenges posed by artificial intelligence,
+  particularly how moral dilemmas are applied to AI decision-making, such as in self-driving
+  cars. Guests Joshua Greene and Iyad Rahwan contribute their insights concerning
+  moral judgment and the societal implications of AI.
+key_topics:
+- Ethics in AI
+- Moral Judgment
+- Trolley Problem
+- Impacts of AI on Society
+- Autonomous Vehicles
+tags:
+- AI
+- Ethics
+- Moral Philosophy
+- Society
+- Technology
+key_points:
+- AI is seen as a technology that helps make better decisions using data.
+- There are moral dilemmas in programming autonomous vehicles, similar to the trolley
+  problem.
+- The displacement of human jobs due to AI raises ethical concerns and social implications.
+segments:
+- title: Ethical Challenges in AI
+  summary: Introduction to the ethical questions surrounding AI development, focusing
+    on the difficulties of programming morality into machines.
+  key_quotes:
+  - quote: '"How do we teach machines to be moral when people can''t even agree on
+      what moral behavior is?"'
+    speaker: Arielle Kahn
+    context: Introduction on ethical challenges in AI.
+- title: The Trolley Problem and AI
+  summary: Exploration of the trolley problem in relation to autonomous vehicles and
+    how moral decisions are made in programming these technologies.
+  key_quotes:
+  - quote: '"In one case, it seems like it''s the right thing to do. In the other
+      case, it seems like it''s the wrong thing to do."'
+    speaker: Joshua Greene
+    context: Discussion of the trolley problem variations.
+- title: Societal Implications
+  summary: Discussion on how AI impacts jobs and the economy, and the moral implications
+    of automated decision-making.
+  key_quotes:
+  - quote: I think AI could actually help improve that. I certainly think we should
+      be prepared for the possibility that it will make the situation worse.
+    speaker: Joshua Greene
+    context: '"Concern over AI''s impact on societal inequality."'
+- title: '"Introducing Shelly: AI for Horror Stories"'
+  summary: Introduction of a collaborative AI writing project called Shelly, which
+    generates horror stories.
+  key_quotes:
+  - quote: This is basically got a lot of human knowledge about what makes things
+      spooky and scary.
+    speaker: Iyad Rahwan
+    context: Description of the Shelly project.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on promoting beneficial AI and technology.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Shelly
+  url: '"https://shelly.ai"'
+  description: An AI chatbot that collaborates with users to create horror stories.
+  context: Showcased as part of a creative AI initiative.
+research_papers: []
+books_referenced:
+- title: '"Moral Tribes: Emotion, Reason, and the Gap Between Us and Them"'
+  authors:
+  - Joshua Greene
+  year: 2013
+  isbn: 978-0062266784
+  context: Book discussing moral psychology and its implications for society.
+organizations:
+  academic_institutions:
+  - name: Harvard University
+    location: Cambridge, MA
+    context: Where Joshua Greene conducts his research.
+  - name: MIT Media Lab
+    location: Cambridge, MA
+    context: Where Iyad Rahwan leads the Scalable Cooperation Group.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety
+    context: Non-profit dedicated to ensuring AI is beneficial and safe.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Joshua Greene
+    institution: Harvard University
+    field: Psychology
+    context: Expert in moral reasoning and decision-making.
+  - name: Iyad Rahwan
+    institution: MIT Media Lab
+    field: Media Arts and Sciences
+    context: Researcher in scalable cooperation and ethical implications of AI.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Scalable Cooperation
+  organization: MIT Media Lab
+  description: Research group focused on developing AI systems that cooperate on large
+    scales.
+  status: ''
+  url: ''
+  context: Led by Iyad Rahwan.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI Ethics
+- Moral Judgment
+- Automation
+categories:
+- Technology
+- Ethics
+- Society
+intended_audience: Individuals interested in AI, ethics, and societal implications.
+expertise_level: Intermediate
+recommended_reading:
+- title: Moral Tribes
+  url: '"https://www.amazon.com/Moral-Tribes-Emotion-Reason-Between/dp/0062266781"'
+  type: book
+  relevance: Offers insights into moral decision-making relevant to AI ethics.
+action_items:
+- Consider the ethical implications of AI in decision-making processes.
+- Engage in discussions about how to address the displacement of jobs by AI.
+controversial_topics:
+- topic: Moral Programming of Autonomous Vehicles
+  different_viewpoints:
+  - perspective: Utilitarian approach
+    proponents: Joshua Greene
+    key_arguments: Values can be assigned statistically to save the greater number.
+  - perspective: Moral absolutism
+    proponents: Iyad Rahwan
+    key_arguments: You cannot quantify the value of a human life.

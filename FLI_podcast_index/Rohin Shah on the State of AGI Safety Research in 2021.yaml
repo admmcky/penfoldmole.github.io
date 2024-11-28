@@ -1,0 +1,180 @@
+title: Rohin Shah on the State of AGI Safety Research in 2021
+original_url: '"https://zencastr.com/z/OBqgEcdg"'
+date_published: '2021-11-02'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Rohin Shah
+  affiliation: DeepMind
+  title: Research Scientist
+  bio: '"Rohin Shah is a research scientist on the technical AGI safety team at DeepMind,
+    with a PhD from UC Berkeley''s Center for Human Compatible AI."'
+  expertise_areas:
+  - AI alignment
+  - AGI safety
+  - Machine learning
+synopsis: In this episode, Lucas Perry interviews Rohin Shah about the current landscape
+  of AGI safety research, exploring key concepts such as AI alignment, the challenges
+  of intent and impact alignment, and the implications of recent advancements in AI
+  technologies.
+key_topics:
+- AI alignment
+- AGI safety
+- Intent vs. Impact alignment
+- Foundation models
+- Inner vs. Outer alignment
+tags:
+- AI
+- AGI
+- Safety
+- Research
+- DeepMind
+key_points:
+- AI alignment is about ensuring AI systems do what their designers intended.
+- Inner alignment focuses on the behavior of AI systems when faced with new, unseen
+  situations.
+- Foundation models represent a new paradigm in AI development, demonstrated by advances
+  like GPT-3.
+- Effective altruism and responsible AI deployment are crucial for mitigating existential
+  risks.
+segments:
+- title: Introduction and Guest Profile
+  summary: An introduction to Rohin Shah and his background in AI alignment and AGI
+    safety research.
+  key_quotes:
+  - quote: Rohan is particularly interested in big picture questions about artificial
+      intelligence.
+    speaker: Lucas Perry
+    context: Host introducing the guest and highlighting his expertise.
+- title: Understanding AI Alignment
+  summary: Discussion on the definition and significance of AI alignment, including
+    intent and impact alignment.
+  key_quotes:
+  - quote: AI alignment is the class of failures where the AI is achieving some objective
+      that its designers did not intend.
+    speaker: Rohin Shah
+    context: Explaining the nuances of AI alignment.
+- title: Inner vs. Outer Alignment
+  summary: Exploration of inner alignment issues, including how AI systems might generalize
+    poorly.
+  key_quotes:
+  - quote: Inner alignment is when a system learns well on a training set but fails
+      in new scenarios.
+    speaker: Rohin Shah
+    context: Defining inner alignment and its implications in training AI systems.
+- title: Recent Advances and Foundation Models
+  summary: The rise of large language models and their impact on the field of AI safety
+    and alignment.
+  key_quotes:
+  - quote: GPT-3 demonstrated how powerful foundation models can be, leading to more
+      interest in AI alignment.
+    speaker: Rohin Shah
+    context: Discussing the implications of foundation models for AI research.
+- title: ' existential Risks and AI Behavior'
+  summary: Addressing potential risks posed by AI, including misuse or catastrophic
+    misalignment.
+  key_quotes:
+  - quote: The AI could ruthlessly maximize an objective that is not in alignment
+      with human intentions.
+    speaker: Rohin Shah
+    context: Explaining the existential risks associated with unaligned AGI.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: GPT-3
+  url: ''
+  description: A state-of-the-art language generation model developed by OpenAI.
+  context: Cited as an example of a large foundation model with implications for alignment
+    research.
+research_papers:
+- title: Mesa-Optimizers
+  authors:
+  - Unknown
+  year: 2019
+  url: ''
+  key_findings: Discusses the issues of inner alignment in AI systems.
+  context: Referenced during the discussion on AI alignment issues.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of California, Berkeley
+    location: Berkeley, California
+    context: '"Rohin Shah completed his PhD at UC Berkeley''s Center for Human Compatible
+      AI."'
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Organization where Rohin currently works on AGI safety research.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and long-term risks related to technology.
+    context: The organization hosting the podcast.
+notable_people:
+  academics:
+  - name: Rohin Shah
+    institution: DeepMind
+    field: AI safety and alignment
+    context: Main guest discussing his expertise in AI alignment.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Publication of Mesa Optimizers paper
+    date: 2019
+    significance: Highlighted the importance of inner alignment in AI systems.
+    context: Context of the discussion on AI alignment issues.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI alignment
+- AGI safety
+- Foundation models
+- DeepMind
+categories:
+- Technology
+- Artificial Intelligence
+intended_audience: Researchers, policymakers, and individuals interested in AI safety.
+expertise_level: Intermediate
+recommended_reading:
+- title: AI Alignment Newsletter
+  url: '"https://alignmentnewsletter.com/"'
+  type: Newsletter
+  relevance: Keeps readers updated on the latest discussions in AI alignment research.
+action_items:
+- Follow the AI Alignment Newsletter for ongoing research updates.
+- Engage with discussions on AI safety to understand implications for future technology.
+controversial_topics:
+- topic: Existential risk from AGI
+  different_viewpoints:
+  - perspective: AI could pose catastrophic risks if unaligned.
+    proponents: AI safety researchers, including Rohin Shah.
+    key_arguments: AI could maximize objectives misaligned with human values, leading
+      to potential extinction.

@@ -1,0 +1,162 @@
+title: The Unexpected Side Effects of Climate Change with Fran Moore and Nick Obradovich
+original_url: '"https://zencastr.com/z/JLaaLDJg"'
+date_published: '2019-04-30'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Dr. Fran Moore
+  affiliation: University of California, Davis
+  title: Assistant Professor
+  bio: Dr. Fran Moore focuses on climate science and environmental economics, particularly
+    the intersection of how climate change will affect social and natural systems.
+  expertise_areas:
+  - climate science
+  - environmental economics
+- name: Dr. Nick Obradovich
+  affiliation: MIT Media Lab
+  title: Research Scientist
+  bio: Dr. Nick Obradovich studies the human implications of climate change and how
+    changing climates affect behaviors and perceptions.
+  expertise_areas:
+  - climate change
+  - social science
+  - human behavior
+synopsis: In this episode, host Arielle Kahn converses with Dr. Fran Moore and Dr.
+  Nick Obradovich about the profound and often overlooked effects of climate change
+  on human behavior, mental health, and social systems, along with discussions on
+  the economic implications and political challenges ahead.
+key_topics:
+- climate change
+- human behavior
+- economic impacts
+- political action
+tags:
+- climate
+- behavioral science
+- economics
+key_points:
+- Public perception of normal weather is rapidly changing as climate conditions evolve.
+- Climate-related stress could lead to reduced political engagement and awareness.
+- The social cost of carbon significantly impacts policy analysis, emphasizing the
+  need for accurate assessment.
+- '"Voters'' responses to incumbent politicians can be influenced by unusual temperature
+  patterns."'
+segments:
+- title: Introduction to Climate Change Impacts
+  summary: Arielle introduces Dr. Moore and Dr. Obradovich, highlighting various impacts
+    of climate change beyond the environmental, such as effects on economy and mental
+    health.
+  key_quotes:
+  - quote: '"We''ve all heard about the devastating extreme weather that climate change
+      will trigger."'
+    speaker: Arielle Kahn
+    context: Introduction to the discussion on climate change.
+- title: Adapting Perceptions of Weather
+  summary: '"Nick discusses research using Twitter data to examine how people''s perceptions
+    of weather extremes have changed over time in relation to actual temperature changes."'
+  key_quotes:
+  - quote: '"As the climate changes and people are gradually exposed... how do we
+      think about defining things like extreme events?"'
+    speaker: Nick Obradovich
+    context: Introduction to the study on human perception.
+- title: Political Action and Awareness
+  summary: Fran highlights how rapid adaptation to changing climates may weaken political
+    motivation to address climate change proactively.
+  key_quotes:
+  - quote: If people get used to a climate that is changing on geologically rapid
+      scales... then some of the things that help drive political action are lost.
+    speaker: Fran Moore
+    context: Discussion on implications of normalized weather changes.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Twitter Data Analysis
+  url: ''
+  description: Utilized data from Twitter to measure public sentiment towards weather
+    phenomena.
+  context: '"Nick''s analysis of changing perceptions of weather extremes."'
+research_papers:
+- title: Sentiment Analysis of Weather Patterns
+  authors:
+  - Nick Obradovich
+  - Fran Moore
+  year: 2019
+  url: ''
+  key_findings: Public sentiment and perceptions of weather extremes change rapidly,
+    influencing awareness of climate change.
+  context: Research findings discussed in relation to the impact of climate on daily
+    life.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of California, Davis
+    location: Davis, CA
+    context: '"Fran Moore''s affiliation."'
+  - name: MIT Media Lab
+    location: Cambridge, MA
+    context: '"Nick Obradovich''s affiliation."'
+  companies: []
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Dr. Fran Moore
+    institution: University of California, Davis
+    field: Environmental Science and Policy
+    context: '"Contributions to understanding of climate change''s impact on systems."'
+  - name: Dr. Nick Obradovich
+    institution: MIT Media Lab
+    field: Climate Change Research
+    context: Focuses on human responses to climate change.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Earth Day
+    date: '2019-04-22'
+    significance: Celebrates environmental protection efforts.
+    context: The podcast episode acknowledges Earth Day in discussing climate change
+      impacts.
+  upcoming: []
+keywords:
+- climate change
+- human impact
+- social cost of carbon
+categories:
+- Environment
+- Social Sciences
+intended_audience: Individuals interested in climate science and policy.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Social Cost of Carbon
+  url: ''
+  type: research paper
+  relevance: Understanding implications of carbon costs in climate policy.
+action_items:
+- Engage with political representatives regarding climate issues.
+- Discuss climate change with friends and family to raise awareness.
+controversial_topics:
+- topic: Normalization of Extreme Weather Events
+  different_viewpoints:
+  - perspective: Extreme weather events will not be normalized and will drive action.
+    proponents: Fran Moore
+    key_arguments: Increased frequency of extreme weather could maintain awareness.
+  - perspective: People might adapt to extreme weather, reducing urgency for action.
+    proponents: Nick Obradovich
+    key_arguments: Rapid adaptation could diminish political action and urgency.

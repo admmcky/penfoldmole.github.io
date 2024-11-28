@@ -1,0 +1,121 @@
+title: Connor Leahy on AI Progress, Chimps, Memes, and Markets
+original_url: '"https://zencastr.com/z/dwWq2x6_"'
+date_published: '2023-01-19'
+host:
+  name: Gus Dokker
+  affiliation: Future of Life Institute
+guests:
+- name: Connor Leahy
+  affiliation: Conjecture
+  title: CEO
+  bio: Connor Leahy is the CEO of Conjecture, an organization focused on researching
+    scalable AI alignment.
+  expertise_areas:
+  - AI alignment
+  - Artificial General Intelligence (AGI)
+  - Cognitive science
+synopsis: In this episode, Connor Leahy discusses the nuances of defining Artificial
+  General Intelligence (AGI) and the evolution of human intelligence compared to chimpanzees.
+  He shares insights on the future of AI progress, the importance of cooperation in
+  intelligence, and the challenges of setting meaningful benchmarks for AI development.
+key_topics:
+- Artificial General Intelligence (AGI)
+- Human vs. Chimpanzee Intelligence
+- AI progress and timelines
+- Benchmarks in AI development
+- Memetics and information sharing
+tags:
+- Artificial Intelligence
+- Cognitive Science
+- Evolution
+- AI Safety
+key_points:
+- AGI is characterized by systems that can learn and innovate beyond current capabilities.
+- Humans and chimpanzees differ not just in intelligence but also in social cooperation.
+- Benchmarks for AI progress can be misleading; they often serve more as coordination
+  technologies than scientific tools.
+- '"Understanding memetics is crucial for AI''s learning and development."'
+segments:
+- title: Defining AGI and Measuring AI Progress
+  summary: '"Connor shares his perspective on defining AGI and the metrics that could
+    be used to measure AI''s progress effectively."'
+  key_quotes:
+  - quote: '"AGI is defined as AI that has the thing that humans have that chimps
+      don''t."'
+    speaker: Connor Leahy
+    context: When discussing the criteria that differentiate AGI from current AI technologies.
+- title: Comparing Human and Chimpanzee Intelligence
+  summary: This segment explores the cognitive similarities and differences between
+    humans and chimpanzees, focusing on social cooperation and cognitive abilities.
+  key_quotes:
+  - quote: Humans are obviously extremely selected for parameter count.
+    speaker: Connor Leahy
+    context: Discussing the evolutionary advantages of larger brains in humans compared
+      to chimpanzees.
+- title: Challenges with AI Benchmarks
+  summary: Connor critiques the use of benchmarks in measuring AI progress and argues
+    for a more nuanced understanding of intelligence.
+  key_quotes:
+  - quote: I think all metrics are terrible.
+    speaker: Connor Leahy
+    context: Expressing skepticism about the value of current metrics used in AI research.
+websites_referenced:
+- url: '"https://en.wikipedia.org/wiki/Gross_domestic_product"'
+  name: Wikipedia on GDP
+  context: Discussed as a flawed metric for measuring economic value in the context
+    of AI development.
+  access_date: '2023-01-19'
+tools_mentioned: []
+research_papers: []
+books_referenced:
+- title: Chimpanzee Politics
+  authors:
+  - Frans de Waal
+  year: 1982
+  isbn: 978-0064335004
+  context: Recommended reading for understanding chimpanzee intelligence and social
+    behaviors.
+organizations:
+  academic_institutions: []
+  companies:
+  - name: Conjecture
+    industry: Artificial Intelligence
+    context: An organization focused on AI alignment research.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders:
+  - name: Connor Leahy
+    company: Conjecture
+    role: CEO
+    context: Discussed insights on AGI and AI development.
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI development
+- Cognitive evolution
+categories:
+- Technology
+- Science
+- Philosophy
+intended_audience: Researchers, AI practitioners, and those interested in cognitive
+  science.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider the implications of how we define intelligence and AGI in future AI research.
+controversial_topics:
+- topic: Defining AGI and the metrics for AI progress
+  different_viewpoints:
+  - perspective: Benchmarks for AI development are critical.
+    proponents: Various AI researchers and practitioners.
+    key_arguments: Benchmarks help facilitate understanding and coordination in AI
+      progress.
+  - perspective: Current benchmarks are inadequate and misleading.
+    proponents: Connor Leahy.
+    key_arguments: '"Metrics often misrepresent capabilities and don''t reflect true
+      progress."'

@@ -1,0 +1,178 @@
+title: '"Imagine A World: What if we designed and built AI in an inclusive way?"'
+original_url: '"https://zencastr.com/z/O5KXmMEK"'
+date_published: '2023-09-05'
+host:
+  name: Guillaume Reason
+  affiliation: Future of Life Institute
+guests:
+- name: Elaine Chek
+  affiliation: University of Bristol
+  title: PhD Candidate
+  bio: Elaine has a background in art and design and is studying the accessibility
+    of technologies for older adults.
+  expertise_areas:
+  - Accessibility of technology
+  - Art and design
+- name: Vanessa Hanschka
+  affiliation: University of Bristol
+  title: PhD Candidate
+  bio: Vanessa is studying responsible AI practices of technologists, using methods
+    like storytelling to promote diverse voices in AI research.
+  expertise_areas:
+  - Responsible AI practices
+  - Storytelling in AI research
+synopsis: '"In this episode, participants discuss the ''Crossing Points'' world, envisioning
+  a future where AI and human society interact inclusively. They explore the various
+  impacts of AI on society, culture, and the importance of considering diverse perspectives
+  in technology design."'
+key_topics:
+- Inclusivity in AI development
+- Impact of AI on society and culture
+- Human-centered design
+tags:
+- AI
+- Inclusivity
+- Technology
+- Future of Life
+key_points:
+- The need for diverse voices in technology design.
+- '"AI''s potential to empower marginalized communities."'
+- The importance of accessibility in technological innovation.
+segments:
+- title: '"Engaging with Technology: A Call to Action"'
+  summary: '"The host encourages critical thinking about technology and the need for
+    everyone''s involvement in shaping its future."'
+  key_quotes:
+  - quote: '"It''s very much getting everyone involved and making sure that everyone
+      is thinking about this."'
+    speaker: Guillaume Reason
+    context: Discussion on public participation in technology development.
+- title: '"Creating ''Crossing Points'': Team and Vision"'
+  summary: '"The guests describe the origins and objectives of their project titled
+    ''Crossing Points''. They highlight their diverse backgrounds and how it influences
+    their work."'
+  key_quotes:
+  - quote: We all were coming from sort of diverse backgrounds.
+    speaker: Elaine Chek
+    context: '"Talking about the team''s diverse perspectives."'
+- title: Human Fulfillment and Technological Impact
+  summary: A discussion on the dual aspects of self-expression and social connection
+    enabled by personalized AI technologies.
+  key_quotes:
+  - quote: If technology takes over a lot of the burden of work, then ideally we would
+      also have more time to engage with each other socially.
+    speaker: Vanessa Hanschka
+    context: '"Explaining AI''s impact on personal and social fulfillment."'
+- title: Inclusive Problem-Solving in Technology
+  summary: The conversation shifts to the challenges of accessibility and inclusion
+    in technology design, emphasizing human-centered approaches.
+  key_quotes:
+  - quote: '"There''s a constant sort of need to create accessibility."'
+    speaker: Elaine Chek
+    context: Discussing the ongoing challenge of making technology accessible.
+- title: AGI Systems and Global Conflict Management
+  summary: Exploring the role of AGI in conflict management and how it might mitigate
+    human aggression through designed competition.
+  key_quotes:
+  - quote: Having sort of something that is going to give people stakes where there
+      are higher stakes is some way to mitigate that aggression.
+    speaker: Vanessa Hanschka
+    context: Discussing alternatives to mitigate aggressiveness in human nature.
+- title: '"Diversity in AI: Challenges and Importance"'
+  summary: Participants discuss the significance of diversity in AI development and
+    challenge the current frameworks that overlook diverse voices.
+  key_quotes:
+  - quote: Diversity often means how can we get different people to be more like us
+      rather than how can we learn from others.
+    speaker: Vanessa Hanschka
+    context: Critique of current diversity initiatives in tech.
+websites_referenced:
+- url: '"https://www.futureoflife.org"'
+  name: Future of Life Institute
+  context: The nonprofit organization featured in the podcast.
+  access_date: null
+tools_mentioned:
+- name: Skill Jump
+  url: ''
+  description: A personalized AI tutor that helps individuals learn new skills.
+  context: '"A tool discussed in ''Crossing Points'' world for personal growth."'
+research_papers:
+- title: My Zelda Cane
+  authors: []
+  year: null
+  url: ''
+  key_findings: Looks at how accessibility can be achieved through unconventional
+    means.
+  context: Discussed in context of user adaptation of technology.
+books_referenced:
+- title: Radicals
+  authors:
+  - Jamie Bartlett
+  year: null
+  isbn: ''
+  context: Mentioned as a reference for understanding radical groups.
+organizations:
+  academic_institutions:
+  - name: University of Bristol
+    location: Bristol, UK
+    context: '"Institution attended by guests who contributed to ''Crossing Points''."'
+  - name: University of Edinburgh
+    location: Edinburgh, UK
+    context: Institution attended by team member Dr. Susan Lekelt.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Reducing large-scale risks from transformative technologies.
+    context: Host organization of the podcast aiming to promote beneficial technology.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Dr. Susan Lekelt
+    institution: University of Edinburgh
+    field: Emerging technologies
+    context: Researches the implications of advanced technologies.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Crossing Points
+  organization: Future of Life Institute
+  description: A conceptual world developed through a contest to explore positive
+    futures.
+  status: Completed
+  url: ''
+  context: The focus topic of this podcast episode.
+events:
+  historical:
+  - name: AI World Building Contest
+    date: null
+    significance: An initiative to gather diverse ideas about future scenarios using
+      AI.
+    context: '"The contest that inspired the discussion of ''Crossing Points'' in
+      the podcast."'
+  upcoming: []
+keywords:
+- AI
+- Accessibility
+- Innovation
+- Inclusivity
+categories:
+- Technology
+- Society
+- Futurism
+intended_audience: '"Individuals interested in technology''s impact on future society
+  and inclusivity."'
+expertise_level: Intermediate
+recommended_reading:
+- title: Understanding Ethical AI
+  url: ''
+  type: article
+  relevance: Discusses another angle of ethical implications in AI development.
+action_items:
+- Encourage diverse voices in technology discussions.
+- Promote accessibility in technology design from the start.
+controversial_topics:
+- topic: Data Privacy and Ownership
+  different_viewpoints:
+  - perspective: Data is essential and should be managed carefully.
+    proponents: Tech developers, policy makers.
+    key_arguments: Transparency and consent are vital for responsible data management.

@@ -1,0 +1,157 @@
+title: Sean Ekins on the Dangers of AI Drug Discovery
+original_url: '"https://zencastr.com/z/0GgoC5K1"'
+date_published: '2023-01-05'
+host:
+  name: Gus Ducker
+  affiliation: Future of Life Institute
+guests:
+- name: Sean Ekins
+  affiliation: Collaborations Pharmaceuticals
+  title: Pharmacologist
+  bio: Sean Ekins is a pharmacologist with expertise in computational toxicology and
+    AI applications in drug discovery.
+  expertise_areas:
+  - Drug discovery
+  - Computational toxicology
+  - Artificial intelligence in pharmaceuticals
+synopsis: In this episode, Sean Ekins discusses the transformative impact of AI on
+  drug discovery and the associated risks, particularly regarding misuse in the creation
+  of dangerous substances like chemical weapons. The conversation explores the evolution
+  of computational methods in pharmaceuticals and the ethical implications of cutting-edge
+  technologies.
+key_topics:
+- AI in drug discovery
+- Computational toxicology
+- Ethics in AI application
+- Dual-use technologies
+- Toxicology data sharing
+tags:
+- AI
+- Drug Discovery
+- Toxicology
+- Ethics
+key_points:
+- AI has the potential to reduce reliance on animal testing.
+- Access to large datasets can improve drug discovery outcomes.
+- There are significant ethical concerns regarding the misuse of AI technologies.
+- Pre-competitive data sharing is crucial for advancing research.
+segments:
+- title: Introduction to AI in Drug Discovery
+  summary: Sean Ekins outlines his background and how AI has influenced his career
+    in drug discovery, emphasizing the development of computational methods.
+  key_quotes:
+  - quote: '"I started to use computational approaches for drug discovery, and it''s
+      influenced my whole career since that moment."'
+    speaker: Sean Ekins
+    context: Discussing his 25 years of experience in the field.
+- title: Reducing Animal Testing with AI
+  summary: Sean explains how AI can help minimize the use of animals in drug testing
+    by simulating results using human data.
+  key_quotes:
+  - quote: '"If you can do a lot of the simulations in a computer, you''ve removed
+      animals altogether."'
+    speaker: Sean Ekins
+    context: Talking about the benefits of computational toxicology.
+- title: Risks of AI Misuse
+  summary: The conversation delves into the risks involved with using AI in drug development,
+    including the potential for designing harmful substances.
+  key_quotes:
+  - quote: '"We hadn''t previously thought about the risks, if I''m honest."'
+    speaker: Sean Ekins
+    context: Reflecting on the thought experiment regarding AI misuse.
+- title: Ethical Considerations in AI Development
+  summary: Sean discusses the ethical implications of AI technologies and the importance
+    of training scientists to avoid dual-use scenarios.
+  key_quotes:
+  - quote: There needs to be some responsibility... to think about the potential for
+      misuse.
+    speaker: Sean Ekins
+    context: Emphasizing the need for ethical training in using AI.
+websites_referenced:
+- url: '"https://pubchem.ncbi.nlm.nih.gov/"'
+  name: PubChem
+  context: A database housing large quantities of biological and toxicology data.
+  access_date: '2023-01-05'
+- url: '"https://kembel.org/"'
+  name: Kembel Database
+  context: A resource for toxicology and biological data.
+  access_date: '2023-01-05'
+tools_mentioned:
+- name: Collaborations Pharmaceuticals
+  url: ''
+  description: A company focused on computational drug design for rare and neglected
+    diseases.
+  context: Sean Ekins founded this company to utilize AI in drug discovery.
+research_papers:
+- title: AI and Malicious AI in the context of chemical weapons
+  authors:
+  - Sean Ekins
+  - Fabio Urbina
+  - Philippa
+  - Cedric
+  year: 2023
+  url: ''
+  key_findings: The potential misuse of AI in designing chemical weapons is a serious
+    concern that needs comprehensive guidelines and training for researchers.
+  context: '"Published after a significant public response to initial findings on
+    AI''s capabilities."'
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Global
+    context: Focuses on mitigating existential risks facing humanity, including those
+      from advanced technologies.
+  companies:
+  - name: Collaborations Pharmaceuticals
+    industry: Pharmaceuticals
+    context: Develops computational approaches for drug discovery.
+  non_profits: []
+  government_agencies:
+  - name: NIH (National Institutes of Health)
+    country: USA
+    context: Provided funding for technology development in drug discovery.
+notable_people:
+  academics: []
+  industry_leaders:
+  - name: Sean Ekins
+    company: Collaborations Pharmaceuticals
+    role: Pharmacologist
+    context: Expert in AI applications in drug discovery.
+  policy_makers: []
+projects_mentioned:
+- name: Kembel
+  organization: ''
+  description: A database for toxicology data among other biological datasets.
+  status: Available
+  url: '"https://kembel.org/"'
+  context: Referenced as an important resource for data in drug discovery.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI drug discovery
+- computational toxicology
+- ethical AI
+- dual-use technology
+categories:
+- Science
+- Technology
+- Ethics
+intended_audience: Researchers and policymakers in drug discovery and AI ethics.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Develop comprehensive guidelines for training on ethical AI use.
+- Increase awareness of dual-use technologies among scientists.
+controversial_topics:
+- topic: Misuse of AI in drug discovery
+  different_viewpoints:
+  - perspective: AI can significantly benefit drug discovery.
+    proponents: Many researchers in pharmaceuticals.
+    key_arguments: AI minimizes animal testing, speeds up drug development, and utilizes
+      large datasets.
+  - perspective: AI poses risks of designing harmful substances.
+    proponents: Critics of AI applications.
+    key_arguments: Inadequate controls can lead to the creation of dangerous compounds,
+      including chemical weapons.

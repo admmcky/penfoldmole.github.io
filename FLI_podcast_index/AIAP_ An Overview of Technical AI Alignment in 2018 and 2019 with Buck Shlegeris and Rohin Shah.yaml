@@ -1,0 +1,199 @@
+title: '"AIAP: An Overview of Technical AI Alignment in 2018 and 2019 with Buck Shlegeris
+  and Rohin Shah"'
+original_url: '"https://zencastr.com/z/UrEQgReq"'
+date_published: '2020-04-15'
+host:
+  name: Lucas Perry
+  affiliation: ''
+guests:
+- name: Buck Schlegeris
+  affiliation: Machine Intelligence Research Institute
+  title: Researcher
+  bio: Buck Schlegeris works to make the future good for sentient beings and believes
+    addressing existential risk from AI is critical.
+  expertise_areas:
+  - AI Safety
+  - Existential Risk
+  - Machine Learning
+- name: Rohin Shah
+  affiliation: Center for Human Compatible AI, UC Berkeley
+  title: PhD Student
+  bio: Rohin Shah focuses on building safe and aligned AI systems and has been involved
+    in effective altruism initiatives.
+  expertise_areas:
+  - AI Alignment
+  - Machine Learning
+  - Effective Altruism
+synopsis: The episode reviews the progress in technical AI alignment from 2018-2019,
+  discussing various research areas and insights on AI risks, intentions, and alignment
+  strategies.
+key_topics:
+- Technical AI Alignment
+- Existential Risk
+- Intent Alignment
+- Value Learning
+- Robustness
+- Scaling AI
+tags:
+- AI Alignment
+- Artificial Intelligence
+- Technical Research
+- Existential Risk
+key_points:
+- AI alignment is crucial to ensure that AI systems pursue user-intended objectives.
+- Robustness in AI is necessary to maintain alignment in varied situations.
+- Research should prioritize both understanding and mitigating existential risks posed
+  by AI.
+segments:
+- title: AI Alignment Progress Overview
+  summary: The discussion begins with an overview of technical AI alignment advancements
+    during 2018 and 2019.
+  key_quotes:
+  - quote: This podcast covers traditional arguments for AI as an x-risk, what AI
+      alignment is, and the modeling of agents.
+    speaker: Lucas Perry
+    context: '"Introduction to the podcast''s focus on AI alignment topics."'
+- title: Intent Alignment and Utility Maximization
+  summary: Exploration of intent alignment and how AI systems can pursue the right
+    objectives.
+  key_quotes:
+  - quote: When I think about AI alignment, I think about trying to make ways of building
+      AI systems such that we can apply them to tasks that are valuable.
+    speaker: Rohin Shah
+    context: Discussion of the importance of aligning AI objectives with user intentions.
+- title: Challenges in Value Learning
+  summary: A debate on the difficulties of value learning in AI alignment.
+  key_quotes:
+  - quote: I feel extremely pessimistic about more ambitious value learning kinds
+      of things.
+    speaker: Buck Schlegeris
+    context: Expressing skepticism regarding ambitious AI value learning methods.
+- title: Robustness in AI Systems
+  summary: Examining what robustness means for AI systems and its implications for
+    alignment.
+  key_quotes:
+  - quote: '"Robust agents don''t fail catastrophically in situations slightly different
+      from the ones they were designed for."'
+    speaker: Rohin Shah
+    context: Communication on the need for robust AI solutions.
+- title: AI Timelines and Existential Risk
+  summary: Discussion of AI development timelines and their potential implications
+    for existential risks.
+  key_quotes:
+  - quote: '"I want to give it something around 50%, which puts my media in around
+      2040."'
+    speaker: Buck Schlegeris
+    context: Estimation of AI development timelines.
+websites_referenced:
+- url: '"https://alignmentforum.org"'
+  name: AI Alignment Forum
+  context: A platform for discussions and resources related to AI alignment.
+  access_date: null
+- url: '"https://www.effectivealtruism.org"'
+  name: Effective Altruism
+  context: A social movement aimed at using evidence and reason to find the most effective
+    ways to benefit others.
+  access_date: null
+tools_mentioned:
+- name: Alignment Newsletter
+  url: ''
+  description: A newsletter summarizing work relevant to AI alignment.
+  context: Recommended by guest Rohin Shah for ongoing education in AI alignment.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: Superintelligence
+  authors:
+  - Nick Bostrom
+  year: 2014
+  isbn: '9780198739838'
+  context: A foundational book discussing the future of artificial intelligence and
+    existential risks.
+organizations:
+  academic_institutions:
+  - name: UC Berkeley
+    location: Berkeley, California, USA
+    context: Home institution of guest Rohin Shah.
+  companies:
+  - name: Machine Intelligence Research Institute
+    industry: Research
+    context: Affiliated with guest Buck Schlegeris.
+  non_profits:
+  - name: Effective Altruism
+    focus_area: Charity and Impact
+    context: Movement engaged by guest Rohin Shah.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: University of Oxford
+    field: Philosophy and AI Safety
+    context: '"Author of ''Superintelligence'', influential in AI alignment discussions."'
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: AI Risk for Computer Scientists Workshops
+  organization: MIRI
+  description: Workshops aimed at educating computer scientists about AI alignment
+    risks.
+  status: Ongoing
+  url: ''
+  context: Helpful for outreach and education in AI alignment.
+events:
+  historical:
+  - name: AI as an Existential Risk Debate
+    date: null
+    significance: Ongoing concerns about how AI could pose existential risks to humanity.
+    context: Referenced throughout the discussion.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Alignment
+- Existential Risk
+- Ethics
+- Research
+categories:
+- Technology
+- Philosophy
+- Non-Profit
+intended_audience: Researchers, practitioners, and anyone interested in AI and its
+  implications.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"AI Alignment: Why It''s Hard and Where to Start"'
+  url: ''
+  type: Article
+  relevance: An overview article about AI alignment challenges.
+action_items:
+- Follow the Alignment Newsletter for ongoing updates in AI safety.
+- Engage with policy regarding AI alignment where relevant.
+controversial_topics:
+- topic: Effectiveness of Early AI Safety Arguments
+  different_viewpoints:
+  - perspective: Early arguments were significant but flawed.
+    proponents: Various AI safety advocates.
+    key_arguments: Disagreement on the strength and validity of original safety arguments.
+  - perspective: Previous arguments still hold valid concerns.
+    proponents: Buck Schlegeris.
+    key_arguments: Expectation of convergent instrumental sub-goals represents a real
+      threat.

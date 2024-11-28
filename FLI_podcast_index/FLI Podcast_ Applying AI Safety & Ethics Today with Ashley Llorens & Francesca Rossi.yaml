@@ -1,0 +1,194 @@
+title: '"Applying AI Safety & Ethics Today with Ashley Llorens & Francesca Rossi"'
+original_url: '"https://zencastr.com/z/zCPmEbjs"'
+date_published: '2019-05-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Ashley Llorens
+  affiliation: Johns Hopkins Applied Physics Laboratory
+  title: Founding Chief, Intelligence Systems Center
+  bio: Ashley Llorens directs research and development in machine learning, robotics,
+    autonomous systems, and neuroscience, contributing to national security and global
+    challenges.
+  expertise_areas:
+  - AI and automation
+  - Robotics
+  - Neuroscience
+- name: Francesca Rossi
+  affiliation: IBM TJ Watson Research Lab
+  title: IBM AI Ethics Global Leader
+  bio: Francesca Rossi focuses on ethics in artificial intelligence and is involved
+    in several influential AI ethics initiatives globally.
+  expertise_areas:
+  - AI ethics and safety
+  - Machine learning
+  - Value alignment
+synopsis: This episode explores the safety and ethical challenges in artificial intelligence
+  as discussed by industry experts Ashley Llorens and Francesca Rossi, focusing on
+  recent applications, challenges, and future developments in AI.
+key_topics:
+- AI safety
+- Ethics in AI
+- Human-machine collaboration
+- AI for Good
+- Uncertainty in AI
+tags:
+- AI
+- Ethics
+- Safety
+- Technology
+key_points:
+- The importance of human-machine collaboration in AI systems.
+- Addressing uncertainty in AI implementation.
+- Educational initiatives for developers focusing on AI ethics.
+- The role of AI in supporting sustainable development goals.
+segments:
+- title: Introduction to AI Safety Discussion
+  summary: The host introduces the topic of AI safety and ethics, presenting the guests
+    and their background in AI.
+  key_quotes:
+  - quote: '"It''s important to ensure that AI adds value for humanity in real-world,
+      uncertain environments."'
+    speaker: Ashley Llorens
+    context: Discussing the goals of AI in context.
+- title: '"Exploring AI''s Potential in Various Sectors"'
+  summary: Ashley Llorens discusses his research at Johns Hopkins and his vision for
+    AI in applications from national security to health.
+  key_quotes:
+  - quote: AI-enabled systems need to act with greater autonomy in addressing critical
+      challenges.
+    speaker: Ashley Llorens
+    context: Referring to future applications of AI.
+- title: Challenges and Ethics in AI-Human Collaboration
+  summary: Francesca Rossi highlights the need for AI systems that work alongside
+    humans, augmenting capabilities rather than replacing them.
+  key_quotes:
+  - quote: The focus should be on how AI can effectively collaborate with humans.
+    speaker: Francesca Rossi
+    context: Discussing the purpose of AI.
+- title: AI for Good Summit and Ethical Considerations
+  summary: The conversation shifts to the AI for Good Summit and its emphasis on sustainable
+    development goals.
+  key_quotes:
+  - quote: '"This year''s AI for Good Summit saw an impressive increase in participation,
+      highlighting growing interest in AI ethics."'
+    speaker: Francesca Rossi
+    context: Referring to her experience at the summit.
+- title: Handling Uncertainty and AI Safety
+  summary: Ashley discusses the challenges associated with uncertainty in AI systems
+    and the importance of structuring uncertainty for ethical implementations.
+  key_quotes:
+  - quote: Machines must deal with uncertainty in real-world situations to function
+      correctly.
+    speaker: Ashley Llorens
+    context: Emphasizing the need for handling uncertainty.
+websites_referenced:
+- url: '"https://www.un.org/sustainabledevelopment/sustainable-development-goals/"'
+  name: United Nations Sustainable Development Goals
+  context: '"Francesca references the UN''s goals during discussions on future AI
+    applications."'
+  access_date: '2023-10-20'
+tools_mentioned:
+- name: Everyday AI Ethics Guide for Designers and Developers
+  url: ''
+  description: A guide for developers addressing key ethical considerations in AI
+    development.
+  context: Francesca mentions the guide in the context of educating developers about
+    fairness and bias.
+research_papers:
+- title: '"AI Safety and Ethics: A Multidisciplinary Approach"'
+  authors:
+  - Ashley Llorens
+  - Francesca Rossi
+  year: 2019
+  url: ''
+  key_findings: Need for collaborative efforts in addressing AI ethics and safety.
+  context: Discussion of future collaboration within AI safety community.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Johns Hopkins University
+    location: Baltimore, MD, USA
+    context: Affiliated with Ashley Llorens and his research efforts.
+  - name: IBM TJ Watson Research Lab
+    location: Yorktown Heights, NY, USA
+    context: Affiliated with Francesca Rossi in AI research.
+  companies:
+  - name: IBM
+    industry: Technology
+    context: '"Francesca Rossi''s affiliation and a key player in AI ethics."'
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and ethics
+    context: The organization hosting the podcast and driving AI discussions.
+  government_agencies:
+  - name: United Nations
+    country: International
+    context: Introduced goals relevant to sustainable AI development.
+notable_people:
+  academics:
+  - name: Francesca Rossi
+    institution: IBM TJ Watson Research Lab
+    field: AI ethics
+    context: ''
+  industry_leaders:
+  - name: Ashley Llorens
+    company: Johns Hopkins Applied Physics Laboratory
+    role: Founding Chief
+    context: ''
+  policy_makers: []
+projects_mentioned:
+- name: Partnership on AI
+  organization: Various
+  description: An initiative aimed at studying and formulating best practices on AI
+    technologies.
+  status: ''
+  url: ''
+  context: '"Francesca''s involvement in the policy aspect of AI ethics."'
+events:
+  historical:
+  - name: AI for Good Summit
+    date: null
+    significance: A gathering aimed at leveraging AI for achieving the sustainable
+      development goals.
+    context: Francesca references the summit to illustrate growing interest in AI
+      ethics.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Artificial Intelligence
+- Ethics
+- Safety
+- Human-Machine Collaboration
+- Sustainable Development Goals
+categories:
+- Technology
+- Ethics and Governance
+- Research and Development
+intended_audience: Professionals in AI, ethics enthusiasts, policymakers
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Artificial Intelligence: A Guide for Thinking Humans"'
+  url: '"https://www.amazon.com/Artificial-Intelligence-Guide-Thinking-Humans/dp/1617294159/"'
+  type: Book
+  relevance: Offers insights into the ethics of AI.
+action_items:
+- Consider the ethical implications when developing AI systems.
+- Participate in discussions about AI safety and governance.
+controversial_topics:
+- topic: AI Accountability
+  different_viewpoints:
+  - perspective: Individual vs. Ensemble Accountability
+    proponents: Ashley Llorens, Francesca Rossi
+    key_arguments: Shifting from traditional accountability models to ensemble-based
+      accountability over time for AI systems.

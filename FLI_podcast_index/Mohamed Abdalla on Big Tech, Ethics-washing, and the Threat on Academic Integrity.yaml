@@ -1,0 +1,142 @@
+title: Mohamed Abdalla on Big Tech, Ethics-washing, and the Threat on Academic Integrity
+original_url: '"https://zencastr.com/z/WIl-et05"'
+date_published: '2020-11-17'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Muhammad Abdallah
+  affiliation: University of Toronto
+  title: PhD Student
+  bio: Muhammad Abdallah is a PhD student in the Natural Language Processing Group
+    in the Department of Computer Science at the University of Toronto and a Veneer
+    Scholar.
+  expertise_areas:
+  - Natural Language Processing
+  - AI Ethics
+  - Academic Integrity
+synopsis: '"In this episode, Muhammad Abdallah discusses his paper, ''The Gray Hoodie
+  Project,'' which explores the similarities in tactics between Big Tobacco and Big
+  Tech in relation to their influence on academic integrity and public perception."'
+key_topics:
+- Influence of Big Tech on academia
+- Comparison between Big Tobacco and Big Tech
+- Tactics of ethical obfuscation
+- Impact of corporate funding on research
+- Need for regulatory frameworks
+tags:
+- Big Tech
+- Academic Integrity
+- Ethics
+- Influence
+key_points:
+- Big Tech employs tactics similar to those used by Big Tobacco to shape public perception
+  and funding in academia.
+- Corporate funding can lead to biased research outcomes and unethical practices.
+- The importance of separating industry-funded research from academic inquiry.
+- Regulation is necessary to protect academic integrity from industry influence.
+segments:
+- title: The Gray Hoodie Project Overview
+  summary: Muhammad outlines the findings from his paper comparing the tactics of
+    Big Tobacco and Big Tech in manipulating public perception and influencing academic
+    research.
+  key_quotes:
+  - quote: '"It''s a very restrictive set on what we believe the big tech companies
+      are."'
+    speaker: Muhammad Abdallah
+    context: Discussing the definition of big tech companies in his research.
+- title: Corporate Influence on Research
+  summary: Exploring how industry funding can dictate research agendas and foster
+    environments of self-censorship among academics.
+  key_quotes:
+  - quote: '"Disclosing a conflict of interest is not a solution; it''s just highlighting
+      the fact that a problem exists."'
+    speaker: Muhammad Abdallah
+    context: Discussing the inadequacy of disclosure in research funding.
+- title: Regulatory Needs
+  summary: The discussion concludes with a focus on the need for effective regulation
+    to safeguard academic integrity and to curtail undue influence from corporations.
+  key_quotes:
+  - quote: Creating a governmental body whose role it is to sue these companies when
+      they violate social norms is necessary.
+    speaker: Muhammad Abdallah
+    context: Proposing structural solutions to the issues discussed.
+websites_referenced:
+- url: '"https://futureoflife.org/ai-policy/"'
+  name: Future of Life Institute AI Policy
+  context: '"Resource related to FLI''s work on AI policy."'
+  access_date: '2023-10-10'
+tools_mentioned: []
+research_papers:
+- title: The Gray Hoodie Project
+  authors:
+  - Muhammad Abdallah
+  year: 2020
+  url: ''
+  key_findings: Explores the influence and tactics of Big Tech akin to those of Big
+    Tobacco, particularly in research and funding.
+  context: Main subject of the podcast episode.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: University of Toronto
+    location: Toronto, Canada
+    context: Affiliation of guest Muhammad Abdallah.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Ethics
+    context: Organization hosting the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Frank Rudzic
+    institution: University of Toronto
+    field: Computer Science
+    context: Advisor to Muhammad Abdallah.
+  - name: Graham Hurst
+    institution: University of Toronto
+    field: Computer Science
+    context: Advisor to Muhammad Abdallah.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Partnership on AI
+  organization: Various including Big Tech companies
+  description: Established to study and formulate best practices on AI technologies.
+  status: Active
+  url: ''
+  context: Mentioned as a public relations effort similar to actions taken by Big
+    Tobacco.
+events:
+  historical:
+  - name: Cambridge Analytica Scandal
+    date: '2016-01-01'
+    significance: A pivotal event that impacted public perception of Facebook and
+      big tech companies.
+    context: Used as an example of how public opinion towards Big Tech shifted.
+  upcoming: []
+keywords:
+- Ethics
+- AI
+- Academic Freedom
+- Corporate Sponsorship
+categories:
+- Ethics
+- Tech
+- Academia
+intended_audience: Individuals interested in technology, ethics, and academic integrity.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Followers should push for greater transparency regarding funding in academic research.
+controversial_topics:
+- topic: Corporate Influence in Academia
+  different_viewpoints:
+  - perspective: Industry funding can benefit research.
+    proponents: Some academics argue that industry funding drives innovation.
+    key_arguments: Access to resources, funding for cutting-edge research, industry
+      collaboration.
+  - perspective: Corporate funding undermines academic integrity.
+    proponents: Muhammad Abdallah and others believe it leads to bias and self-censorship.
+    key_arguments: Funding dictates research agendas and stifles dissenting voices.

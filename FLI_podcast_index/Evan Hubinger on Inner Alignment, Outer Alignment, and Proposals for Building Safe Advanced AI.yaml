@@ -1,0 +1,151 @@
+title: Evan Hubinger on Inner Alignment, Outer Alignment, and Proposals for Building
+  Safe Advanced AI
+original_url: '"https://zencastr.com/z/kTPhjc33"'
+date_published: '2020-07-01'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Evan Hubinger
+  affiliation: MIRI, former intern at OpenAI
+  title: AI Safety Researcher
+  bio: Evan Hubinger is an AI safety researcher who has worked on topics such as inner
+    alignment and advanced machine learning safety at MIRI and previously interned
+    at OpenAI.
+  expertise_areas:
+  - AI alignment
+  - Machine learning safety
+  - Functional programming
+synopsis: In this episode, Evan Hubinger discusses the concepts of inner and outer
+  alignment in AI, highlights 11 proposals for building safe advanced AI, and explores
+  the challenges posed by learned optimization in machine learning systems.
+key_topics:
+- Inner alignment
+- Outer alignment
+- AI safety proposals
+- Optimization in AI
+tags:
+- AI Alignment
+- Machine Learning
+- Safety
+key_points:
+- Inner alignment focuses on ensuring AI models align with their training objectives.
+- Outer alignment is concerned with defining good objectives to optimize.
+- Evan discusses various AI alignment proposals, including amplification, debate,
+  and Microscope AI.
+segments:
+- title: Introduction to AI Alignment
+  summary: The host introduces Evan Hubinger and outlines the key concepts of inner
+    and outer alignment in AI, along with the significance of the proposals for building
+    AI safety.
+  key_quotes:
+  - quote: '"This podcast is a bit jargony, but if you don''t have a background in
+      computer science, don''t worry."'
+    speaker: Lucas Perry
+    context: Contextual introduction, making the content accessible.
+- title: Understanding AI Alignment
+  summary: Evan explains the distinctions between inner and outer alignment, emphasizing
+    their roles in mitigating existential risks associated with AI.
+  key_quotes:
+  - quote: I see AI alignment as the problem of trying to prevent that existential
+      risk.
+    speaker: Evan Hubinger
+    context: Discussing the overarching goal of AI alignment.
+- title: Challenges in Inner and Outer Alignment
+  summary: The discussion dives deep into the challenges associated with inner alignment
+    problems, particularly Mesa optimization, and the solutions proposed to address
+    these issues.
+  key_quotes:
+  - quote: Inner alignment is about how do we align the objectives of mesa optimizers.
+    speaker: Evan Hubinger
+    context: Describing the focus on optimizing internal objectives of AI models.
+- title: Evaluating AI Safety Proposals
+  summary: Evan outlines 11 proposals for building safe AI systems with a focus on
+    training and performance competitiveness, including amplification and AI safety
+    via debate.
+  key_quotes:
+  - quote: We need to produce AI proposals that actually reduce the probability of
+      existential risk.
+    speaker: Evan Hubinger
+    context: Discussing competitiveness in AI alignment proposals.
+websites_referenced:
+- url: '"https://www.alignmentforum.org/"'
+  name: AI Alignment Forum
+  context: A platform for discussions and writings on AI safety research.
+  access_date: null
+- url: '"https://zencastr.com/z/kTPhjc33"'
+  name: Podcast Episode Link
+  context: Direct link to the podcast episode.
+  access_date: null
+tools_mentioned: []
+research_papers:
+- title: Risks from Learned Optimization in Advanced Machine Learning Systems
+  authors:
+  - Evan Hubinger
+  - Paul Christiano
+  - Others
+  year: 2020
+  url: ''
+  key_findings: Discusses inner alignment issues and proposes various alignment strategies.
+  context: A foundational work that informs the discussion in the podcast.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: MIRI
+    location: USA
+    context: Machine Intelligence Research Institute focused on AI alignment.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Research organization dedicated to ensuring AGI benefits all of humanity.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Paul Christiano
+    institution: OpenAI
+    field: AI Alignment
+    context: Contributed to AI alignment discussions and research.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Coconut
+  organization: ''
+  description: A functional programming language designed for Python.
+  status: Completed
+  url: ''
+  context: Created by Evan Hubinger.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI Safety
+- Machine Learning
+- Advanced AI
+categories:
+- Technology
+- Artificial Intelligence
+- Research
+intended_audience: AI researchers, enthusiasts, and policy-makers interested in AI
+  safety.
+expertise_level: Intermediate
+recommended_reading:
+- title: An Overview of 11 Proposals for Building Safe Advanced AI
+  url: '"https://www.alignmentforum.org"'
+  type: Article
+  relevance: Detailed examination of various AI safety proposals discussed in the
+    podcast.
+action_items:
+- Consider the implications of inner and outer alignment when designing AI systems.
+- Explore additional resources on AI alignment methods and proposals.
+controversial_topics:
+- topic: Inner Alignment vs Outer Alignment
+  different_viewpoints:
+  - perspective: Emphasis on Inner Alignment
+    proponents: Evan Hubinger
+    key_arguments: Inner alignment is a more pressing issue due to difficulties in
+      aligning optimizer objectives.
+  - perspective: Focus on Outer Alignment
+    proponents: MIRI traditionalists
+    key_arguments: Outer alignment concerns should be prioritized to ensure the foundational
+      goals of AI are good.

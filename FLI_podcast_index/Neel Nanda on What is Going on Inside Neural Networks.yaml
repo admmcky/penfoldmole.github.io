@@ -1,0 +1,192 @@
+title: Neel Nanda on What is Going on Inside Neural Networks
+original_url: '"https://zencastr.com/z/TtJRGoB4"'
+date_published: '2023-02-09'
+host:
+  name: Not Specified
+  affiliation: ''
+guests:
+- name: Neel Nanda
+  affiliation: Independent Researcher
+  title: Mechanistic Interpretability Researcher
+  bio: Neel Nanda conducts research on mechanistic interpretability of neural networks,
+    working on understanding the algorithms they learn.
+  expertise_areas:
+  - Neural Networks
+  - AI Safety
+  - Mechanistic Interpretability
+  - Mathematics
+synopsis: In this episode, Neel Nanda discusses mechanistic interpretability in neural
+  networks, exploring the challenges of understanding how AI models learn and make
+  decisions.
+key_topics:
+- Mechanistic Interpretability
+- AI Safety
+- Neural Network Behavior
+- Mathematics in AI
+tags:
+- AI
+- Research
+- Neural Networks
+- Safety
+key_points:
+- Understanding the internal decision-making processes of neural networks is crucial
+  for AI safety.
+- Empirical work and conceptual approaches to AI alignment are both necessary.
+- Interpreting complex AI outputs can help distinguish between honest and deceptive
+  AI actions.
+segments:
+- title: Introduction and Background
+  summary: Neel introduces himself and explains his work in mechanistic interpretability
+    and AI safety.
+  key_quotes:
+  - quote: '"I try to open them up and stare at the internals, and try to reverse
+      engineer out what algorithms they''ve learned."'
+    speaker: Neel Nanda
+    context: Describing his approach to understanding neural networks.
+- title: Career Shift to AI x-risk
+  summary: Neel shares his background in mathematics and how he transitioned to AI
+    safety.
+  key_quotes:
+  - quote: This all kind of appeals to my truth-seeking side because I am trying hard
+      to form true beliefs about this model.
+    speaker: Neel Nanda
+    context: Discussion about his motivations for entering AI safety.
+- title: The Joy of Mechanistic Interpretability
+  summary: Explores why Neel enjoys mechanistic interpretability and its significance
+    in AI.
+  key_quotes:
+  - quote: Work on the thing that you think you are comparatively best at.
+    speaker: Neel Nanda
+    context: Insights on passion and expertise in research.
+- title: Mathematics in AI Work
+  summary: Discussion about the mathematical foundations necessary for mechanistic
+    interpretability.
+  key_quotes:
+  - quote: Main things you need to know are just models are heavily based on linear
+      algebra.
+    speaker: Neel Nanda
+    context: Outlining the mathematical background relevant to his work.
+- title: '"AI''s Problem-Solving Methods"'
+  summary: Neel discusses methods AI models may use to solve problems, often surprising
+    us.
+  key_quotes:
+  - quote: '"It''s very easy to give an input to an AI system and see its outputs
+      and to study its kind of overall behavior."'
+    speaker: Neel Nanda
+    context: Reflecting on the interpretability of AI models.
+- title: Mechanistic Interpretability and AI Deception
+  summary: Neel describes the importance of understanding whether AI systems could
+    become deceptive.
+  key_quotes:
+  - quote: '"If we can figure out what''s going on inside these networks, then we
+      can distinguish between deceptive AIs and honest AIs."'
+    speaker: Neel Nanda
+    context: Discussing the implications of mechanistic interpretability for AI alignment.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Direct-logit Attribution
+  url: ''
+  description: A technique to analyze contributions made by different parts of a neural
+    network to its predictions.
+  context: Applied in studies to understand model behavior.
+research_papers:
+- title: Induction Heads
+  authors:
+  - Neel Nanda
+  - Others
+  year: null
+  url: ''
+  key_findings: Explores components of language models that help in identifying repeated
+    text.
+  context: '"Discussed during Neel''s explanation of his work with AI models."'
+books_referenced:
+- title: Harry Potter and the Method of Rationality
+  authors:
+  - Eliezer Yudkowsky
+  year: null
+  isbn: ''
+  context: Mentioned as an early influence on Neel regarding rational thinking.
+organizations:
+  academic_institutions:
+  - name: Cambridge University
+    location: United Kingdom
+    context: '"Neel''s educational background."'
+  companies:
+  - name: Anthropic
+    industry: AI Research
+    context: '"Neel previously worked here under Chris Olah''s mentorship."'
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Chris Olah
+    institution: Anthropic
+    field: AI Safety Research
+    context: Mentor to Neel and key figure in the field.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Grokking
+  organization: Independent Research
+  description: '"Research on reverse engineering neural networks'' understanding of
+    modular arithmetic."'
+  status: Ongoing
+  url: ''
+  context: Neel describes working on a project involving modular arithmetic and learning
+    algorithms.
+events:
+  historical:
+  - name: International Maths Olympiad
+    date: null
+    significance: '"Neel was on the UK''s team, highlighting his mathematics background."'
+    context: Describes his early interest in mathematics.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Neural Networks
+- AI
+- Mechanistic Interpretability
+- AI Safety
+categories:
+- Technology
+- Research
+- Artificial Intelligence
+intended_audience: Researchers and professionals in AI, AI safety enthusiasts.
+expertise_level: Intermediate
+recommended_reading:
+- title: Concrete Advice for Forming Views on AI Safety
+  url: ''
+  type: Article
+  relevance: Guidance on building informed beliefs in AI safety.
+action_items:
+- Encourage researchers to focus on mechanistic interpretability in AI systems.
+- Investigate the importance of both empirical and conceptual approaches in AI safety.
+controversial_topics:
+- topic: AI Alignment Paradigms
+  different_viewpoints:
+  - perspective: AI safety research lacks consensus.
+    proponents: Neel Nanda and others.
+    key_arguments: There are many different views and methods, leading to potential
+      confusion in the field.

@@ -1,0 +1,191 @@
+title: Lennart Heim on Compute Governance
+original_url: '"https://zencastr.com/z/aXzDIIx0"'
+date_published: '2023-04-06'
+host:
+  name: Future of Life Institute
+  affiliation: Future of Life Institute
+guests:
+- name: Lennart Heim
+  affiliation: Center for the Governance of AI
+  title: Researcher
+  bio: Lennart Heim is a researcher focusing on AI governance, particularly in the
+    area of compute governance.
+  expertise_areas:
+  - AI governance
+  - Compute governance
+  - AI safety
+synopsis: In this episode, researcher Lennart Heim discusses the nuances of compute
+  governance within AI, exploring the risks associated with AI misuse, accident risks,
+  and the structural changes in society brought on by AI systems. The importance of
+  monitoring compute usage and establishing responsible governance structures is emphasized.
+key_topics:
+- AI governance
+- Compute governance
+- AI risks
+- Monitoring compute usage
+- International cooperation
+tags:
+- AI
+- Governance
+- Technology
+- Compute
+key_points:
+- AI risks can be categorized into misuse, accident, and structural risks.
+- Compute has unique properties that make it a significant focus for governance.
+- Monitoring of compute usage should be standardized to ensure responsibility.
+- Export controls are being used to manage compute access to prevent misuse.
+segments:
+- title: Introduction and Purpose of AI Governance
+  summary: '"Lennart introduces himself and outlines his research focus on compute
+    governance and its implications for AI''s future."'
+  key_quotes:
+  - quote: My research stream, which we call compute governance, asks where and why
+      is compute particularly promising for AI governance.
+    speaker: Lennart Heim
+    context: Discussing his role and research focus.
+- title: Understanding AI Risks
+  summary: The conversation moves to different categories of AI risks including misuse,
+    accident, and structural risks, outlining the importance of understanding these
+    risks.
+  key_quotes:
+  - quote: '"My preferred way is grouping in three categories: misuse risk, accident
+      risk, and structural risks."'
+    speaker: Lennart Heim
+    context: Describing the types of risks associated with AI.
+- title: The AI Triad and Compute Governance
+  summary: Heim explains the AI triad which consists of compute, data, and algorithms,
+    emphasizing the role of compute in governance.
+  key_quotes:
+  - quote: The AI triad, or AI production function, describes how compute, data, and
+      algorithms interact to yield AI systems.
+    speaker: Lennart Heim
+    context: Defining the AI triad.
+- title: Monitoring and Challenges in Compute Usage
+  summary: Discussion centers on methods for monitoring compute usage and the challenges
+    associated with verifying compute resources.
+  key_quotes:
+  - quote: The notion is more compute usually means more capabilities; therefore,
+      more responsibilities.
+    speaker: Lennart Heim
+    context: On the implications of compute usage.
+- title: Impact of Export Controls and Global Implications
+  summary: Exploring the export controls imposed on AI technologies and their implications
+    for global governance.
+  key_quotes:
+  - quote: They prevented certain chips from going to China, stopping the selling
+      of semiconductor manufacturing equipment.
+    speaker: Lennart Heim
+    context: Discussing export controls related to AI compute.
+websites_referenced:
+- url: '"https://www.futureoflife.org/"'
+  name: Future of Life Institute
+  context: Organization focused on AI risks and governance.
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: The Bitter Lesson
+  authors:
+  - Richard Sutton
+  year: null
+  url: ''
+  key_findings: Greater compute leads to better AI systems, overshadowing the importance
+    of intricate algorithms.
+  context: Contextualized in discussing the learning outcomes in AI research that
+    prioritize compute.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Center for the Governance of AI
+    location: ''
+    context: Focuses on research around AI governance.
+  companies:
+  - name: NVIDIA
+    industry: Technology
+    context: Significant player in GPU production for AI workloads.
+  - name: ASML
+    industry: Semiconductors
+    context: Sells semiconductor manufacturing equipment.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI governance and safety
+    context: Works to promote beneficial AI development and governance.
+  government_agencies:
+  - name: U.S. Government
+    country: United States
+    context: Imposes regulations on compute exports.
+notable_people:
+  academics:
+  - name: Richard Sutton
+    institution: ''
+    field: AI research
+    context: Referenced for his work on the importance of compute in AI.
+industry_leaders:
+- name: ''
+  company: ''
+  role: ''
+  context: ''
+policy_makers:
+- name: ''
+  role: ''
+  organization: ''
+  context: ''
+projects_mentioned:
+- name: National AI Research Resource
+  organization: United States government
+  description: Aiming to provide AI research resources to academics and promote beneficial
+    AI research.
+  status: Proposed
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Export controls on chips to China
+    date: null
+    significance: Efforts to limit AI development in competing nations.
+    context: Reflects the governance challenges in AI.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI governance
+- compute governance
+- risks
+- AI safety
+categories:
+- Technology
+- Governance
+- AI Ethics
+intended_audience: Researchers, policymakers, and anyone interested in AI governance.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Explore frameworks for monitoring compute usage.
+- Consider implications of export controls on global AI development.
+- Facilitate international dialogue on AI resource governance.
+controversial_topics:
+- topic: Balancing regulation and innovation in AI
+  different_viewpoints:
+  - perspective: Regulations are necessary to mitigate risks.
+    proponents: AI safety advocates and responsible governance supporters.
+    key_arguments: Regulation is essential to ensure safety and prevent misuse of
+      AI technologies.
+  - perspective: Over-regulation may stifle innovation.
+    proponents: Tech industry stakeholders.
+    key_arguments: Excessive restrictions can prevent beneficial AI developments and
+      foster competitiveness in less regulated environments.

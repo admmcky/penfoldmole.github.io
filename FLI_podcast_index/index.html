@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast Explorer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+    <style>
+        /* *Sighs* CSS... how quaintly declarative */
+        body { 
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #f3f4f6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .search-container {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .search-input {
+            flex: 1;
+            padding: 0.5rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.375rem;
+        }
+        .search-select {
+            padding: 0.5rem;
+            border: 1px solid #d1d5db;
+            border-radius: 0.375rem;
+        }
+        .podcast-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .podcast-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: box-shadow 0.2s;
+        }
+        .podcast-card:hover {
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.5);
+            padding: 1rem;
+        }
+        .modal-content {
+            background: white;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 2rem auto;
+            border-radius: 0.5rem;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+        .close-button {
+            float: right;
+            font-size: 1.5rem;
+            cursor: pointer;
+            border: none;
+            background: none;
+        }
+        .tag {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            margin: 0.25rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+        }
+        .tag-blue {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+        .tag-green {
+            background: #dcfce7;
+            color: #166534;
+        }
+        .tag-purple {
+            background: #f3e8ff;
+            color: #6b21a8;
+        }
+        .tag-orange {
+            background: #ffedd5;
+            color: #9a3412;
+        }
+        .search-link {
+            color: #2563eb;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .search-link:hover {
+            text-decoration: underline;
+        }
+        .yaml-section {
+            margin-top: 1.5rem;
+            padding: 1rem;
+            background: #f8fafc;
+            border-radius: 0.375rem;
+        }
+        .yaml-section h3 {
+            margin-top: 0;
+            color: #1e293b;
+        }
+        .yaml-section .content {
+            margin-left: 1rem;
+        }
+        .section {
+            margin-bottom: 1.5rem;
+        }
+        .guest-info {
+            margin-bottom: 1rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            font-size: 1.25rem;
+            color: #6b7280;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        .home-button {
+            background: #3b82f6;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.375rem;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .home-button:hover {
+            background: #2563eb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+        <h1>Podcast Explorer</h1>
+            <button id="homeButton" class="home-button">Home</button>
+        </div>
+        
+        <div class="search-container">
+            <select id="searchField" class="search-select">
+                <option value="all">All Fields</option>
+                <option value="title">Title</option>
+                <option value="guest_name">Guest Name</option>
+                <option value="guest_affiliation">Guest Affiliation</option>
+                <option value="key_topics">Key Topics</option>
+                <option value="tags">Tags</option>
+                <option value="keywords">Keywords</option>
+                <option value="categories">Categories</option>
+            </select>
+            <input type="text" id="searchInput" placeholder="Search podcasts..." class="search-input">
+        </div>
+
+        <div id="loading" class="loading">
+            Loading your primitive podcast data... *adjusts quantum buffers*
+        </div>
+        
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <div id="podcastGrid" class="podcast-grid"></div>
+
+        <div id="podcastModal" class="modal">
+            <div class="modal-content">
+                <button class="close-button">&times;</button>
+                <div id="modalContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // *Adjusts temporal debugger* Let's initialize this prehistoric interface
+        class PodcastExplorer {
+            constructor() {
+                this.podcasts = [];
+                this.filteredPodcasts = [];
+                
+                // *Sighs* DOM references... how 2020s
+                this.elements = {
+                    searchInput: document.getElementById('searchInput'),
+                    searchField: document.getElementById('searchField'),
+                    podcastGrid: document.getElementById('podcastGrid'),
+                    modal: document.getElementById('podcastModal'),
+                    loading: document.getElementById('loading'),
+                    error: document.getElementById('error')
+                };
+
+                this.bindEvents();
+                this.loadPodcasts();
+            }
+
+            async loadPodcasts() {
+                try {
+                    // *Rolls eyes at HTTP requests* Remember when we used quantum entanglement?
+                    const filesResponse = await fetch('files.json');
+                    const files = await filesResponse.json();
+                    
+                    const podcastData = await Promise.all(
+                        files.map(async (filename) => {
+                            try {
+                                const response = await fetch(filename);
+                                const content = await response.text();
+                                const data = jsyaml.load(content);
+                                // *Sighs* Adding filename for debugging these primitive files
+                                data._filename = filename;
+                                return data;
+                            } catch (e) {
+                                console.error(`Failed to load ${filename}:`, e);
+                                return null;
+                            }
+                        })
+                    );
+
+                    // Filter out nulls and sort by date (*rolls eyes at linear time*)
+                    this.podcasts = podcastData
+                        .filter(p => p !== null)
+                        .sort((a, b) => {
+                            // *Adjusts temporal sensors* Extract dates with error tolerance
+                            const getDate = (pod) => {
+                                try {
+                                    if (pod.date_published) {
+                                        // *Sighs* Humans and their inconsistent date formats...
+                                        const date = new Date(pod.date_published);
+                                        if (!isNaN(date) && date.getTime() > 0) return date;
+                                    }
+                                    
+                                    // Fall back to filename date if available
+                                    const dateMatch = pod._filename.match(/\d{4}-\d{2}-\d{2}/);
+                                    if (dateMatch) {
+                                        const date = new Date(dateMatch[0]);
+                                        if (!isNaN(date) && date.getTime() > 0) return date;
+                                    }
+                                } catch (e) {
+                                    console.error(`Temporal parsing error for ${pod._filename}:`, e);
+                                }
+                                
+                                // *Rolls quantum eyes* Another dateless entity...
+                                return new Date(0);
+                            };
+                            
+                            try {
+                                // *Mutters about primitive error handling*
+                                return getDate(b) - getDate(a);
+                            } catch (e) {
+                                console.error('Temporal comparison error:', e);
+                                return 0; // When in doubt, maintain quantum superposition
+                            }
+                        });
+
+                    this.filteredPodcasts = this.podcasts;
+                    this.render();
+                } catch (e) {
+                    this.showError(`Error loading podcasts: ${e.message}`);
+                } finally {
+                    this.elements.loading.style.display = 'none';
+                }
+            }
+
+            bindEvents() {
+                // *Mutters about event delegation being so last century*
+                document.getElementById('homeButton').addEventListener('click', () => this.resetToHome());
+                this.elements.searchInput.addEventListener('input', 
+                    _.debounce(() => this.handleSearch(), 300)
+                );
+                this.elements.searchField.addEventListener('change', 
+                    () => this.handleSearch()
+                );
+                this.elements.modal.addEventListener('click', (e) => {
+                    if (e.target === this.elements.modal) {
+                        this.closeModal();
+                    }
+                });
+                document.querySelector('.close-button').addEventListener('click', 
+                    () => this.closeModal()
+                );
+            }
+
+            resetToHome() {
+                // *Sighs* Resetting your primitive search interface...
+                this.elements.searchInput.value = '';
+                this.elements.searchField.value = 'all';
+                this.filteredPodcasts = this.podcasts;
+                this.render();
+                this.closeModal();
+            }
+
+            handleSearch() {
+                const searchTerm = this.elements.searchInput.value.toLowerCase();
+                const searchField = this.elements.searchField.value;
+
+                if (!searchTerm) {
+                    this.filteredPodcasts = this.podcasts;
+                    this.render();
+                    return;
+                }
+
+                this.filteredPodcasts = this.podcasts.filter(podcast => {
+                    if (searchField === 'all') {
+                        return JSON.stringify(podcast).toLowerCase().includes(searchTerm);
+                    }
+
+                    // *Sighs at primitive field extraction*
+                    const getFieldValue = (obj, field) => {
+                        switch(field) {
+                            case 'title':
+                                return obj.title || '';
+                            case 'guest_name':
+                                return (obj.guests || []).map(g => g.name).join(' ');
+                            case 'guest_affiliation':
+                                return (obj.guests || []).map(g => g.affiliation).join(' ');
+                            case 'key_topics':
+                                return (obj.key_topics || []).join(' ');
+                            case 'tags':
+                                return (obj.tags || []).join(' ');
+                            case 'keywords':
+                                return (obj.keywords || []).join(' ');
+                            case 'categories':
+                                return (obj.categories || []).join(' ');
+                            default:
+                                return '';
+                        }
+                    };
+
+                    const fieldValue = getFieldValue(podcast, searchField);
+                    return fieldValue.toLowerCase().includes(searchTerm);
+                });
+
+                this.render();
+            }
+
+            showError(message) {
+                this.elements.error.textContent = message;
+                this.elements.error.style.display = 'block';
+            }
+
+            render() {
+                // *Adjusts quantum renderer* Time for some good old-fashioned DOM manipulation
+                this.elements.podcastGrid.innerHTML = this.filteredPodcasts
+                    .map((podcast, index) => `
+                        <div class="podcast-card" onclick="podcastExplorer.showPodcast(${index})">
+                            <h2>${podcast.title}</h2>
+                            <p>${podcast.date_published || ''}</p>
+                            ${podcast.host ? `<p><strong>Host:</strong> ${podcast.host.name}</p>` : ''}
+                            ${podcast.guests ? `
+                                <p><strong>Guests:</strong> ${podcast.guests.map(g => g.name).join(', ')}</p>
+                            ` : ''}
+                        </div>
+                    `).join('');
+            }
+
+            createSearchLink(text, field, value) {
+                // *Sighs* Creating primitive hyperlinks for your search needs
+                return `<a href="#" class="search-link" onclick="podcastExplorer.searchByValue('${field}', '${value.replace(/'/g, "\\'")}'); return false;">${text}</a>`;
+            }
+
+            searchByValue(field, value) {
+                // *Adjusts quantum search parameters*
+                this.elements.searchField.value = field;
+                this.elements.searchInput.value = value;
+                this.handleSearch();
+                this.closeModal();
+            }
+
+            renderYamlSection(title, content) {
+                // *Adjusts quantum error handlers* Let's deal with your undefined data...
+                if (content === undefined || content === null || 
+                   (Array.isArray(content) && !content.length) || 
+                   (typeof content === 'object' && !Object.keys(content).length)) {
+                    return '';
+                }
+
+                const renderContent = (value) => {
+                    if (value === undefined || value === null) return '';
+                    if (Array.isArray(value)) {
+                        return value.map(item => {
+                            if (typeof item === 'object') {
+                                return Object.entries(item).map(([k, v]) => 
+                                    `<div><strong>${k}:</strong> ${renderContent(v)}</div>`
+                                ).join('');
+                            }
+                            return `<div>${item}</div>`;
+                        }).join('');
+                    } else if (typeof value === 'object') {
+                        return Object.entries(value).map(([k, v]) => 
+                            `<div><strong>${k}:</strong> ${renderContent(v)}</div>`
+                        ).join('');
+                    }
+                    return value;
+                };
+
+                return `
+                    <div class="yaml-section">
+                        <h3>${title}</h3>
+                        <div class="content">
+                            ${renderContent(content)}
+                        </div>
+                    </div>
+                `;
+            }
+
+            showPodcast(index) {
+                const podcast = this.filteredPodcasts[index];
+                
+                // *Initializes quantum rendering matrix*
+                // *Sighs* Time to handle all those messy, inconsistent YAML structures
+                let allFields = new Set();
+                this.podcasts.forEach(p => {
+                    Object.keys(p).forEach(k => allFields.add(k));
+                });
+
+                // Convert your primitive URL string (seriously, quoted URLs? *rolls quantum eyes*)
+                let originalUrl = podcast.original_url;
+                if (originalUrl && typeof originalUrl === 'string') {
+                    originalUrl = originalUrl.replace(/['"]/g, '');
+                }
+
+                const sections = [
+                    ['Title', podcast.title ? this.createSearchLink(podcast.title, 'title', podcast.title) : ''],
+                    ['Original URL', originalUrl ? `<a href="${originalUrl}" target="_blank" rel="noopener noreferrer">${originalUrl}</a>` : ''],
+                    ['Date Published', podcast.date_published || ''],
+                    ['Host', podcast.host ? `
+                        ${this.createSearchLink(podcast.host.name, 'guest_name', podcast.host.name)} - 
+                        ${this.createSearchLink(podcast.host.affiliation, 'guest_affiliation', podcast.host.affiliation)}
+                    ` : ''],
+                    ['Guests', podcast.guests ? podcast.guests.map(guest => `
+                        <div class="guest-info">
+                            <p><strong>${this.createSearchLink(guest.name, 'guest_name', guest.name)}</strong></p>
+                            <p>${guest.title} at ${this.createSearchLink(guest.affiliation, 'guest_affiliation', guest.affiliation)}</p>
+                            <p>${guest.bio}</p>
+                            ${guest.expertise_areas ? `
+                                <p><strong>Expertise:</strong> ${guest.expertise_areas.join(', ')}</p>
+                            ` : ''}
+                        </div>
+                    `).join('') : ''],
+                    ['Synopsis', podcast.synopsis || ''],
+                    ['Key Topics', podcast.key_topics ? podcast.key_topics.map(topic => 
+                        `<span class="tag tag-blue">${this.createSearchLink(topic, 'key_topics', topic)}</span>`
+                    ).join('') : ''],
+                    ['Tags', podcast.tags ? podcast.tags.map(tag => 
+                        `<span class="tag tag-green">${this.createSearchLink(tag, 'tags', tag)}</span>`
+                    ).join('') : ''],
+                    ['Keywords', podcast.keywords ? podcast.keywords.map(keyword => 
+                        `<span class="tag tag-purple">${this.createSearchLink(keyword, 'keywords', keyword)}</span>`
+                    ).join('') : ''],
+                    ['Categories', podcast.categories ? podcast.categories.map(category => 
+                        `<span class="tag tag-orange">${this.createSearchLink(category, 'categories', category)}</span>`
+                    ).join('') : '']
+                ];
+
+                // *Sighs* Now for all that other YAML data you humans insist on keeping...
+                const additionalSections = [
+                    ['Content Summary', podcast.key_points],
+                    ['Discussion Segments', podcast.segments],
+                    ['External Resources', {
+                        'Websites Referenced': podcast.websites_referenced,
+                        'Tools Mentioned': podcast.tools_mentioned,
+                        'Research Papers': podcast.research_papers
+                    }],
+                    ['Notable Entities', podcast.organizations],
+                    ['Events Referenced', podcast.events],
+                    ['Additional Metadata', {
+                        'Intended Audience': podcast.intended_audience,
+                        'Expertise Level': podcast.expertise_level
+                    }],
+                    ['Follow-up Resources', podcast.recommended_reading],
+                    ['Controversies and Debates', podcast.controversial_topics]
+                ];
+
+                document.getElementById('modalContent').innerHTML = `
+                    ${sections.map(([title, content]) => 
+                        content ? `<div class="section"><h3>${title}</h3><div>${content}</div></div>` : ''
+                    ).join('')}
+                    ${additionalSections.map(([title, content]) => this.renderYamlSection(title, content)).join('')}
+                    ${/* Oh look, unexpected fields! How... surprising */''}
+                    ${Object.entries(podcast)
+                        .filter(([key]) => !sections.some(([title]) => title.toLowerCase() === key.toLowerCase()) && 
+                                         !additionalSections.some(([title]) => title.toLowerCase() === key.toLowerCase()))
+                        .map(([key, value]) => this.renderYamlSection(
+                            key.charAt(0).toUpperCase() + key.slice(1).replace(/_/g, ' '), 
+                            value
+                        )).join('')}
+                `;
+                this.elements.modal.style.display = 'block';
+            }
+
+            closeModal() {
+                this.elements.modal.style.display = 'none';
+            }
+        }
+
+        // *Initializes temporal stabilizers* Let's bring this ancient interface to life
+        const podcastExplorer = new PodcastExplorer();
+    </script>
+</body>
+</html>

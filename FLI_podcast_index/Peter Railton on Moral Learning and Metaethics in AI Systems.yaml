@@ -1,0 +1,137 @@
+title: Peter Railton on Moral Learning and Metaethics in AI Systems
+original_url: '"https://zencastr.com/z/ZIexdL-I"'
+date_published: '2020-08-18'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Peter Railton
+  affiliation: University of Michigan Ann Arbor
+  title: Professor of Philosophy
+  bio: Peter Railton is a professor of philosophy at the University of Michigan Ann
+    Arbor. He has a PhD from Princeton and primarily researches ethics and the philosophy
+    of science, focusing on the nature of objectivity, value, norms, and explanation.
+  expertise_areas:
+  - Ethics
+  - Metaethics
+  - Moral Psychology
+  - Philosophy of Science
+synopsis: In this episode, Peter Railton discusses how metaethics, moral learning,
+  and the interplay of these concepts with AI systems are central to achieving ethical
+  AI alignment. He explores the implications of moral epistemology in designing autonomous
+  systems that understand and engage with moral values.
+key_topics:
+- Metaethics
+- Moral Learning
+- AI Alignment
+- Ethics of AI
+tags:
+- AI Ethics
+- Metaethics
+- Moral Philosophy
+key_points:
+- AI systems need to incorporate moral understanding for alignment with human values.
+- Moral learning can be structured similarly to how children learn morality through
+  experience.
+- The distinction between metaethical realism and anti-realism affects how moral knowledge
+  is developed in AI systems.
+- Collaboration between philosophers and AI researchers is crucial for the future
+  of ethical AI design.
+segments:
+- title: Introduction to AI Alignment
+  summary: Lucas Perry introduces Peter Railton and sets the stage for a discussion
+    on metaethics and its relevance to AI.
+  key_quotes:
+  - quote: As systems become more and more autonomous, it will become increasingly
+      necessary for AI systems to be familiar with and sensitive to morally salient
+      features of the world.
+    speaker: Peter Railton
+    context: Discussing the core challenges AI systems face in moral learning.
+- title: The Role of Metaethics in AI
+  summary: Peter Railton explains the importance of understanding metaethical concepts
+    to better inform AI alignment strategies.
+  key_quotes:
+  - quote: Metaethics concerns questions about the nature of morality, its foundation,
+      and how we might acquire moral knowledge.
+    speaker: Peter Railton
+    context: Describing the broader implications of metaethics for AI systems.
+- title: Moral Criticism and Its Importance
+  summary: A discussion on how moral criticism plays a crucial role in evaluating
+    ethical frameworks within AI.
+  key_quotes:
+  - quote: A decent ethics for AI would build into the concept the possibility of
+      correction and criticism.
+    speaker: Peter Railton
+    context: Arguing for the necessity of moral learning in AI.
+- title: '"Children''s Moral Development and AI"'
+  summary: '"Exploring parallels between children''s moral learning and potential
+    learning structures for AI."'
+  key_quotes:
+  - quote: The learning of children is accomplished not via explicit teaching but
+      by their own experience.
+    speaker: Peter Railton
+    context: Drawing comparisons about natural learning processes in humans and machines.
+- title: Collaboration Between Philosophers and AI
+  summary: Railton emphasizes the need for philosophers and AI researchers to work
+    together on ethical AI.
+  key_quotes:
+  - quote: Philosophy has been folding its arms and sort of poo-pooing artificial
+      intelligence; we need constructive interaction.
+    speaker: Peter Railton
+    context: Discussing the urgency of integrating ethical considerations in AI design.
+websites_referenced: []
+tools_mentioned: []
+research_papers: []
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: University of Michigan Ann Arbor
+    location: Ann Arbor, MI
+    context: Institution where Peter Railton is a professor.
+  companies: []
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Peter Singer
+    institution: Princeton University
+    field: Ethics
+    context: Previously discussed metaethical views with Peter Railton.
+  - name: Derek Parfit
+    institution: ''
+    field: Metaethics
+    context: Notable philosopher engaged in discussions on moral realism and metaethics.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Moral Learning in AI
+  organization: ''
+  description: A proposed framework for understanding how AI can engage in moral learning
+    akin to human development.
+  status: ''
+  url: ''
+  context: Peter Railton discusses moral learning methods relevant to AI.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI alignment
+- moral learning
+- metaethics
+categories:
+- Philosophy
+- Artificial Intelligence
+- Ethics
+intended_audience: AI researchers, ethicists, philosophers, and anyone interested
+  in AI alignment.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Engage with philosophers working on AI ethics to integrate ethical considerations
+  in AI development.
+controversial_topics:
+- topic: Objective Morality vs. Moral Anti-Realism
+  different_viewpoints:
+  - perspective: Moral anti-realism suggests morality is subjective.
+    proponents: Supported by various figures in computer science and alignment communities.
+    key_arguments: Challenges in defining a unique value system for AI alignment.

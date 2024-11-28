@@ -1,0 +1,155 @@
+title: Jason Crawford on Progress and Risks from AI
+original_url: '"https://zencastr.com/z/nZ210tvc"'
+date_published: '2023-07-21'
+host:
+  name: Gus Docker
+  affiliation: Future of Life Institute
+guests:
+- name: Jason Crawford
+  affiliation: Roots of Progress
+  title: Founder
+  bio: Jason Crawford is the founder of Roots of Progress, an organization studying
+    the philosophy of progress for the 21st century.
+  expertise_areas:
+  - Progress Studies
+  - Philosophy of Technology
+  - Economic Growth
+synopsis: '"In this episode, Jason Crawford explores the history of progress, the
+  potential for future economic growth, and the risks associated with technological
+  advancements, particularly in AI. He discusses the concept of a ''flywheel'' effect
+  in progress and addresses concerns about stagnation."'
+key_topics:
+- History of Progress
+- Economic Growth
+- Technological Risks
+- AI Alignment
+- Stagnation vs Progress
+tags:
+- AI
+- Economic Growth
+- Progress Studies
+- Technology and Society
+key_points:
+- Progress compounds and accelerates, leading to super-exponential growth.
+- Technological stagnation observed over the last 50 years.
+- Safety and progress can coexist; safety should be integrated into technological
+  advancement.
+- The relationship between progress and risk in technology needs a more developed
+  model.
+segments:
+- title: History of Progress
+  summary: '"Jason summarizes human history as consisting of three major eras: hunter-gatherer,
+    agricultural, and industrial. He discusses the concept of compounded progress."'
+  key_quotes:
+  - quote: The most important thing to understand about progress is that it compounds
+      and therefore it accelerates.
+    speaker: Jason Crawford
+    context: Summarizing how progress has evolved over human history.
+- title: Future Growth and the Computational Era
+  summary: The discussion explores potential future growth modes and whether we are
+    transitioning into a computational era.
+  key_quotes:
+  - quote: I think it makes sense to wonder about or predict or think about such a
+      thing in the future.
+    speaker: Jason Crawford
+    context: '"Speculating about the computational era''s impact on economic growth."'
+- title: Challenges of Sustaining Exponential Growth
+  summary: Jason discusses the necessity of increasing resources for sustaining technological
+    growth and the potential limits arising from population dynamics.
+  key_quotes:
+  - quote: If we want to keep exponential growth going in technological advancement,
+      we have to put in exponentially more resources.
+    speaker: Jason Crawford
+    context: Explaining the resource demands for ongoing technological growth.
+- title: Technological Stagnation
+  summary: The podcast juxtaposes the progress in technology from 1870 to 1920 with
+    the current era, suggesting a relative stagnation in overall economic growth.
+  key_quotes:
+  - quote: I think there has been a slowdown in at least economic growth and technological
+      progress over the last 50 years.
+    speaker: Jason Crawford
+    context: Proposing that stagnation has occurred despite technological advances.
+- title: AI and Risk Management
+  summary: Jason outlines his perspectives on AI risks, discussing the models of AI
+    alignment and the philosophical underpinnings of safety in technology.
+  key_quotes:
+  - quote: '"I think it''s certainly true that progress overall decreases at least
+      day-to-day risk."'
+    speaker: Jason Crawford
+    context: Addressing the complexity of technological advancement versus risk management.
+websites_referenced:
+- url: '"https://www.rootsofprogress.org"'
+  name: Roots of Progress
+  context: '"Jason Crawford''s organization focused on studying progress."'
+  access_date: '2023-07-21'
+tools_mentioned: []
+research_papers:
+- title: The Great Stagnation
+  authors:
+  - Tyler Cowen
+  year: 2011
+  url: ''
+  key_findings: Discussion of stagnation in American economic growth over several
+    decades.
+  context: Referenced in the discussion of slow economic growth.
+- title: The Rise and Fall of American Growth
+  authors:
+  - Robert Gordon
+  year: 2015
+  url: ''
+  key_findings: Examines historical American growth and its deceleration.
+  context: Another reference point for stagnation in economic growth.
+books_referenced: []
+organizations:
+  academic_institutions: []
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Research on the existential risks from advanced technologies.
+    context: '"The host''s affiliation and organization interested in technological
+      safety."'
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Paul Romer
+    institution: Stanford University
+    field: Economics
+    context: Mentioned as part of the discussion on economic growth theories.
+  - name: Chad Jones
+    institution: ''
+    field: Economics
+    context: Also referenced regarding growth and technological advancement.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical:
+  - name: Industrial Revolution
+    date: null
+    significance: Marked a significant shift in human progress and industrial capabilities.
+    context: Foundation of the modern economy and technological advances.
+  upcoming: []
+keywords:
+- economic growth
+- AI risk
+- progress studies
+- technological change
+categories:
+- Technology
+- Economics
+- Philosophy
+intended_audience: Individuals interested in technology, economics, and progress studies.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider integrating safety measures in the development of new technologies.
+controversial_topics:
+- topic: AI Risks vs Benefits
+  different_viewpoints:
+  - perspective: AI poses existential risks to humanity.
+    proponents: Experts in AI safety.
+    key_arguments: The unpredictability of advanced AI may lead to catastrophic outcomes.
+  - perspective: AI can be controlled and managed effectively.
+    proponents: Advocates of technological innovation.
+    key_arguments: Technological advancements are often coupled with improved safety
+      measures.

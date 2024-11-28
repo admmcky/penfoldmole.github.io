@@ -1,0 +1,178 @@
+title: '"Imagine A World: What if some people could live forever?"'
+original_url: '"https://zencastr.com/z/0n5mUHF2"'
+date_published: 2023-09-26
+host:
+  name: Guillaume Reason
+  affiliation: Future of Life Institute
+guests:
+- name: Mako Yas
+  affiliation: Independent
+  title: Philosopher-Designer
+  bio: '"Mako Yas is a philosopher-designer based in Auckland, New Zealand. He focuses
+    on creating media that encourages the protection of humanity''s future."'
+  expertise_areas:
+  - World-building
+  - Philosophy
+  - AI Safety
+  - Game Design
+synopsis: '"In this episode of Imagine a World, host Guillaume Reason speaks with
+  Mako Yas, the creator of ''To Light'', the winning entry of the Future of Life Institute''s
+  world-building contest. They discuss innovative approaches to immortality, technology,
+  and the societal impacts of a transformed future."'
+key_topics:
+- World-building
+- Immortality technologies
+- AI Safety
+- Societal transformations by 2045
+tags:
+- future
+- AI
+- transhumanism
+- philosophy
+key_points:
+- '"Mako Yas''s world envisions a future with advanced technologies like immortality
+  drugs and AI-designed solutions."'
+- Challenges exist in integrating advanced technologies within society, particularly
+  with those resistant to change.
+- '"The need for AI alignment and understanding human desires are crucial in Mako''s
+  world."'
+segments:
+- title: '"Introduction to ''Imagine a World''"'
+  summary: The podcast opens with an introduction to the concept of world-building
+    and its significance for future thinking. It presents the winning entry of the
+    world-building contest.
+  key_quotes:
+  - quote: '"Thinking creatively about some kind of ambitious things we could do...
+      is really useful for sort of bringing people''s thinking up."'
+    speaker: Guillaume Reason
+    context: Discussing the importance of world-building for future perspectives.
+- title: '"Mako Yas: Background and Philosophy"'
+  summary: '"The segment covers Mako Yas''s background, his motivations for participating
+    in the contest, and his philosophical approach to world design."'
+  key_quotes:
+  - quote: I think the joy of making things comes from programming.
+    speaker: Mako Yas
+    context: On the joy and satisfaction derived from creating solutions.
+- title: Technological Changes and Societal Impacts
+  summary: Mako discusses the transformative technologies in his world, such as life-extending
+    drugs and wealth distribution.
+  key_quotes:
+  - quote: The real challenge is convincing people to accept and utilize these life-saving
+      treatments.
+    speaker: Mako Yas
+    context: On societal acceptance of new life-extension technologies.
+- title: AI Alignment and Global Collaboration
+  summary: In this segment, Mako explores AI alignment challenges and the importance
+    of global cooperation in developing safe AI systems.
+  key_quotes:
+  - quote: The alignment problem is finding ways to ensure AI systems pursue human-aligned
+      goals.
+    speaker: Mako Yas
+    context: Defining the alignment problem and its significance in AI development.
+websites_referenced:
+- url: '"https://www.worldbuild.ai"'
+  name: WorldBuild
+  context: '"A platform to explore Mako''s world and other winning entries from the
+    world-building contest."'
+  access_date: null
+tools_mentioned:
+- name: Bright Moss
+  url: ''
+  description: An AI-designed miracle pill that extends lifespan.
+  context: '"Part of Mako''s vision for a future where humans can achieve immortality."'
+research_papers:
+- title: Elephants in the Brain
+  authors:
+  - Robin Hanson
+  year: 2018
+  url: ''
+  key_findings: Explores hidden motivations behind human behavior.
+  context: Referenced by Mako Yas to discuss understanding human desires.
+books_referenced:
+- title: The Transparent Society
+  authors:
+  - David Brin
+  year: null
+  isbn: ''
+  context: Discusses the implications of transparency in society and governance.
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Global
+    context: Nonprofit organization focused on reducing risks from transformative
+      technologies.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Futuristic Technologies
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Mako Yas
+    institution: Independent
+    field: Philosophy and Design
+    context: '"Creator of the winning world ''To Light'' in the FLI contest."'
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: To Light
+  organization: Future of Life Institute
+  description: A visionary world that explores themes of immortality, AI, and societal
+    transformation.
+  status: '"Winning entry in FLI''s world-building contest."'
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Future of Life Institute World Building Contest
+    date: 2023
+    significance: A global competition to envision positive futures.
+    context: '"Mako Yas''s world was selected as the winning entry."'
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- transhumanism
+- philosophy
+- AI safety
+- world-building
+categories:
+- Technology
+- Society
+- Futurism
+intended_audience: Individuals interested in the future of technology, AI, and philosophical
+  discussions.
+expertise_level: Intermediate
+recommended_reading:
+- title: Terrara Ignota
+  url: ''
+  type: book
+  relevance: '"Influences Mako''s vision of a positive future and the tensions within
+    it."'
+action_items:
+- '"Explore Mako''s world at WorldBuild and engage in discussions about positive futures."'
+controversial_topics:
+- topic: AI Alignment and Control
+  different_viewpoints:
+  - perspective: Concerns about powerful AI systems
+    proponents: AI safety researchers
+    key_arguments: The potential for misaligned AI to make decisions counter to human
+      interests.

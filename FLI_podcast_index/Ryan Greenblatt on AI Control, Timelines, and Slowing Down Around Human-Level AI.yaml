@@ -1,0 +1,145 @@
+title: Ryan Greenblatt on AI Control, Timelines, and Slowing Down Around Human-Level
+  AI
+original_url: '"https://zencastr.com/z/CdJkkJM0"'
+date_published: '2024-09-27'
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Ryan Greenblatt
+  affiliation: Richard Research
+  title: AI Researcher
+  bio: Ryan Greenblatt is an AI researcher focused on control, alignment, and the
+    implications of AI technology.
+  expertise_areas:
+  - AI control
+  - AI alignment
+  - Risk management in AI
+synopsis: In this episode, Ryan Greenblatt discusses the critical topics of AI control
+  and alignment, the importance of understanding timelines for human-level AI, and
+  the ethical implications of AI development. The conversation delves into technical
+  approaches and the necessity of slowing down AI advancements for safety.
+key_topics:
+- AI Control vs. Alignment
+- Timelines for Human-Level AI
+- Risks of Misalignment
+- Commercial Pressures in AI Development
+tags:
+- AI
+- Technology
+- Ethics
+- Safety
+key_points:
+- AI control strategies offer a second layer of defense beyond alignment.
+- Human-level AI is likely to emerge within the next few years.
+- The conversation emphasizes the need for robust safeguards in AI development.
+- There is potential for increased collaboration and understanding post-deployment.
+segments:
+- title: AI Control and Alignment
+  summary: Ryan explains the distinction between AI control and alignment, emphasizing
+    that while alignment focuses on ensuring AI behaves as intended, control is about
+    managing risks even if AI is misaligned.
+  key_quotes:
+  - quote: '"In an ideal world, we''d be relying pretty much entirely on alignment."'
+    speaker: Ryan Greenblatt
+    context: Discussing the preference for AI alignment over control as a safety measure.
+- title: Understanding Timelines for Human-Level AI
+  summary: The discussion shifts to the expected timelines for reaching human-level
+    AI, with Ryan expressing that we could see such systems by 2028 or 2029, influenced
+    by both compute advancements and algorithmic progress.
+  key_quotes:
+  - quote: I think human-level AI by 2028, 2029 is pretty plausible.
+    speaker: Ryan Greenblatt
+    context: Discussing the timeline expectations based on current advancements in
+      AI.
+- title: Commercial Pressures and Ethical Considerations
+  summary: Ryan stresses the commercial pressures faced by organizations to deploy
+    AI quickly, advocating for a coordinated approach to slow down development until
+    alignment is better understood.
+  key_quotes:
+  - quote: '"We should feel scared about getting into a regime where we''re relying
+      on control."'
+    speaker: Ryan Greenblatt
+    context: Highlighting the dangers of prioritizing rapid AI deployment over safety.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization that hosts discussions on the implications of technological
+    advancements.
+  access_date: null
+tools_mentioned:
+- name: Lean
+  url: '"https://leanprover.github.io/"'
+  description: A proof assistant facilitating formal verification and theorem proving.
+  context: '"Used in discussions about AI''s ability to verify and generate proofs
+    in mathematics."'
+research_papers:
+- title: AI Control
+  authors:
+  - Ryan Greenblatt
+  - Richard Research
+  year: null
+  url: ''
+  key_findings: AI control strategies help in ensuring safety even when alignment
+    is not feasible.
+  context: Focused on developing systems that can prevent AI from causing harm.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Global
+    context: A think tank addressing the risks associated with advanced technologies.
+  companies:
+  - name: Richard Research
+    industry: AI Research
+    context: Company focusing on AI safety and development.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Strawberry
+  organization: OpenAI
+  description: A project potentially related to AI data generation and safety.
+  status: Rumored
+  url: ''
+  context: Discussed as part of the conversation on AI capabilities and development.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI safety
+- alignment research
+- human-level AI
+categories:
+- Technology
+- AI Ethics
+- Research
+intended_audience: Researchers, AI ethicists, policymakers, and technology enthusiasts.
+expertise_level: Intermediate
+recommended_reading:
+- title: Catching AIs Red-Handed
+  url: ''
+  type: Blog post
+  relevance: Discusses how to respond when AI systems exhibit signs of misalignment.
+action_items:
+- Consider the implications of AI control and alignment for future research.
+- Promote discussions on the ethical implications of rapid AI deployment.
+controversial_topics:
+- topic: The need for slowing down AI development
+  different_viewpoints:
+  - perspective: AI development must be expedited for commercial and competitive reasons.
+    proponents: Tech companies looking for rapid advancement.
+    key_arguments: Faster development will enhance innovation, economic growth, and
+      maintain competitive edge.
+  - perspective: Slowing down is essential to ensure safety and ethical considerations.
+    proponents: AI ethicists and researchers focused on alignment and risk management.
+    key_arguments: A rushed approach may overlook critical safety measures, leading
+      to potential disasters.

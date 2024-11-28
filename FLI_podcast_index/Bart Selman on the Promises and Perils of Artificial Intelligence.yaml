@@ -1,0 +1,170 @@
+title: Bart Selman on the Promises and Perils of Artificial Intelligence
+original_url: '"https://zencastr.com/z/QdjDRScQ"'
+date_published: '2021-05-20'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Bart Selman
+  affiliation: Cornell University
+  title: Professor of Computer Science
+  bio: Bart Selman is a professor at Cornell University, co-founder of the Center
+    for Human Compatible AI, and president of the Association for the Advancement
+    of Artificial Intelligence.
+  expertise_areas:
+  - Artificial Intelligence
+  - AI Safety and Alignment
+  - Computational and Representational Issues
+synopsis: Bart Selman discusses the potential futures with artificial intelligence,
+  touching on both its promises and risks, including governance, ethical implications,
+  and the alignment problem.
+key_topics:
+- AI Safety and Alignment
+- Impacts of AI on Society
+- Autonomous Weapons
+- AI and Governance
+tags:
+- Artificial Intelligence
+- AI Alignment
+- Ethics
+- Policymaking
+key_points:
+- AI has the potential to transform various fields, including healthcare and governance.
+- The importance of managing AI risks, such as income inequality and autonomous weapons.
+- AI alignment with human values is a crucial and complex challenge.
+segments:
+- title: Introduction to AI Futures
+  summary: Bart Selman introduces his views on the possible positive and negative
+    futures involving AI technology.
+  key_quotes:
+  - quote: I see AI as complementing our cognitive capabilities.
+    speaker: Bart Selman
+    context: Discussing the positive potential of AI.
+- title: Challenges of AI and Workforce Disruption
+  summary: The conversation explores the disruption AI may cause to the workforce
+    and the importance of governance in ensuring equitable resource distribution.
+  key_quotes:
+  - quote: AI technology in some sense amplifies your ability to do things.
+    speaker: Bart Selman
+    context: Referring to how AI can lead to increased economic inequality.
+- title: AI Safety and the Alignment Problem
+  summary: Selman emphasizes the significance of AI alignment and safety, along with
+    the complexities of defining common values across diverse groups.
+  key_quotes:
+  - quote: The alignment problem is a fundamental research question.
+    speaker: Bart Selman
+    context: Laying out the critical nature of aligning AI systems with human values.
+- title: Concerns surrounding Autonomous Weapons
+  summary: Discussion on the threats posed by lethal autonomous weapons and the need
+    for international agreements to regulate their development.
+  key_quotes:
+  - quote: There is a real risk... that could be very risky to the global system.
+    speaker: Bart Selman
+    context: Addressing the implications of militarized AI.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Triple AI Presidential Panel on the Risks of AI
+  authors:
+  - Eric Horvitz
+  - Bart Selman
+  year: 2008
+  url: ''
+  key_findings: Early acknowledgment of the risks associated with AI development.
+  context: '"Roots of Selman''s concerns regarding AI safety."'
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Cornell University
+    location: Ithaca, NY, USA
+    context: Where Bart Selman serves as a professor.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Benefits and risks of advanced technology.
+    context: Organization that hosts the podcast.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Bart Selman
+    institution: Cornell University
+    field: Artificial Intelligence
+    context: Vocal advocate for AI safety.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Center for Human Compatible AI
+  organization: ''
+  description: A research initiative focused on ensuring artificial intelligences
+    are beneficial to humanity.
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: AI Safety and Governance Discussions
+    date: null
+    significance: Growing awareness and analysis of the risks associated with AI.
+    context: Referring to the establishment of panels and discussions since 2008.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Governance
+- Ethics in AI
+- Future of Technology
+categories:
+- Technology
+- Science
+- Ethics
+intended_audience: Individuals interested in the impact of AI on society.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- '"Encourage policymakers to focus on AI''s positive aspects and governance to manage
+  its risks."'
+controversial_topics:
+- topic: Existential Risk from AI
+  different_viewpoints:
+  - perspective: AI could lead to severe societal inequality without proper governance.
+    proponents: Bart Selman, AI ethicists
+    key_arguments: AI profits concentrated in the hands of a few could exacerbate
+      existing inequalities.
+  - perspective: AI can provide significant benefits if aligned with human values.
+    proponents: AI researchers, pro-technology advocates
+    key_arguments: Greater efficiency and new solutions to global challenges can emerge
+      through AI advancements.

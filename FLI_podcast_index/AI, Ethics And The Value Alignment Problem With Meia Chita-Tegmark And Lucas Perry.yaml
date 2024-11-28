@@ -1,0 +1,195 @@
+title: AI, Ethics And The Value Alignment Problem With Meia Chita-Tegmark And Lucas
+  Perry
+original_url: '"https://zencastr.com/z/D6ZlsQUZ"'
+date_published: '2018-02-28'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Maya Akita Tagmark
+  affiliation: Future of Life Institute
+  title: Co-founder
+  bio: Maya is a co-founder of the Future of Life Institute, interested in how social
+    sciences can contribute to keeping AI beneficial, with a background in social
+    psychology.
+  expertise_areas:
+  - AI Ethics
+  - Social Psychology
+- name: Lucas Perry
+  affiliation: Future of Life Institute
+  title: AI and Nuclear Weapons Risk Project Lead
+  bio: Lucas works on AI and nuclear weapons risk-related projects at FLI, with a
+    philosophical background focusing on ethics.
+  expertise_areas:
+  - AI Ethics
+  - Philosophy
+synopsis: In this episode, host Arielle Kahn engages with Maya Akita Tagmark and Lucas
+  Perry from the Future of Life Institute to discuss the complexities of AI ethics
+  and the critical value alignment problem, emphasizing the need for interdisciplinary
+  collaboration to ensure beneficial AI.
+key_topics:
+- AI Ethics
+- Value Alignment
+- Interdisciplinary Collaboration
+- Existential Risks
+tags:
+- AI
+- Ethics
+- Value Alignment
+- Existential Risks
+key_points:
+- The importance of aligning AI goals with human values.
+- Complexities of defining ethical standards across cultures.
+- Need for interdisciplinary collaboration in AI ethics.
+- Concerns about existential risks posed by AI.
+segments:
+- title: Introduction to AI Ethics Discussion
+  summary: '"The episode opens with introductions and an outline of the discussion''s
+    focus on AI ethics and the value alignment problem."'
+  key_quotes:
+  - quote: '"How can we train AIs to respond ethically to situations when the people
+      involved still can''t come to an agreement about what an ethical response should
+      be?"'
+    speaker: Arielle Kahn
+    context: Discussing the complications in ethical training for AI.
+- title: AI Understanding and Value Alignment
+  summary: Exploration of what value alignment means in the context of AI and its
+    significance in AI ethics.
+  key_quotes:
+  - quote: '"Value alignment is bringing AI''s goals, actions, intentions, and decision-making
+      processes in accordance with what humans deem to be the good."'
+    speaker: Lucas Perry
+    context: Describing the essence of value alignment.
+- title: Challenges in Aligning AI with Human Ethics
+  summary: The conversation dives deeper into the complexities of aligning AI behavior
+    with human ethical standards.
+  key_quotes:
+  - quote: Humans have all sorts of cognitive and emotional limitations that make
+      acting according to our values difficult.
+    speaker: Maya Akita Tagmark
+    context: Highlighting the psychological complexities involved.
+- title: Existential Risks and AI
+  summary: Discussion about how value alignment relates to the existential risks associated
+    with AI development.
+  key_quotes:
+  - quote: Value alignment fits in by constraining the set of all possible futures.
+    speaker: Lucas Perry
+    context: Connecting value alignment with existential risk management.
+- title: Outcomes of Interdisciplinary Workshops
+  summary: Maya and Lucas share insights from a recent interdisciplinary workshop
+    focused on the value alignment problem.
+  key_quotes:
+  - quote: '"The workshop was a start... we couldn''t even agree on the minimal conditions
+      for which it would be okay to safely deploy AGI."'
+    speaker: Maya Akita Tagmark
+    context: Reflecting on the challenges discussed in the workshop.
+websites_referenced:
+- url: '"https://futureoflife.org/value-alignment-map"'
+  name: Future of Life Institute Value Alignment Map
+  context: Resource mentioned for understanding the value alignment landscape.
+  access_date: null
+tools_mentioned:
+- name: Value Alignment Conceptual Landscape
+  url: ''
+  description: A conceptual mapping of the value alignment problem created by the
+    Future of Life Institute.
+  context: A tool for understanding the interrelated components of AI ethics and governance.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: Toward a Code of Ethics for Artificial Intelligence
+  authors:
+  - Paula Bodington
+  year: null
+  isbn: ''
+  context: Book referenced discussing ethical considerations in AI.
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Cambridge, MA
+    context: An organization focused on mitigating existential risks from advanced
+      technologies.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Max Tegmark
+    institution: Future of Life Institute
+    field: Physics/AI Safety
+    context: President of FLI, known for discussing risks posed by AI.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Interdisciplinary Workshop on Value Alignment
+    date: 2017-12
+    significance: Brought together diverse experts to discuss the multi-faceted nature
+      of the value alignment problem.
+    context: Vital for initiating comprehensive conversations on AI ethics.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Ethics
+- Value Alignment Problem
+- Interdisciplinary Collaboration
+categories:
+- Technology
+- Ethics
+- Philosophy
+intended_audience: Researchers, policymakers, and individuals interested in AI and
+  ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: AI Safety and Ethical Guidelines
+  url: ''
+  type: Article
+  relevance: To provide insights into ongoing research and guidelines for AI development.
+action_items:
+- Encourage interdisciplinary collaboration in AI ethics.
+- Advocate for the inclusion of ethics education in technical fields.
+controversial_topics:
+- topic: Control Over AI Systems
+  different_viewpoints:
+  - perspective: Humans should maintain full control over AI systems.
+    proponents: Many ethicists and technologists.
+    key_arguments: Important to ensure systems align with human values and prevent
+      potential risks.
+  - perspective: If value alignment succeeds, AI systems could be more moral than
+      humans.
+    proponents: Lucas Perry, Maya Akita Tagmark.
+    key_arguments: AI could operate with better ethics and rationality than humans,
+      reducing the need for control.

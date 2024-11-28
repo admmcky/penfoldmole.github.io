@@ -1,0 +1,173 @@
+title: The Art Of Predicting With Anthony Aguirre And Andrew Critch
+original_url: '"https://zencastr.com/z/PZJg5xds"'
+date_published: '2017-07-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Anthony Aguirre
+  affiliation: University of California at Santa Cruz
+  title: Professor of Physics
+  bio: Anthony Aguirre is a professor of physics, co-founder of the Future of Life
+    Institute, and co-founder of Metaculous, dedicated to crowdsourcing predictions
+    about the future of science and technology.
+  expertise_areas:
+  - Physics
+  - Cosmology
+  - Artificial Intelligence (AI)
+- name: Andrew Critch
+  affiliation: '"UC Berkeley''s Center for Human-Compatible AI"'
+  title: ''
+  bio: '"Andrew Critch is a researcher with interests in AI safety and prediction,
+    currently on leave from Miry to work at UC Berkeley''s Center for Human-Compatible
+    AI."'
+  expertise_areas:
+  - AI Safety
+  - Game Theory
+  - Investment Prediction
+synopsis: In this episode, Anthony Aguirre and Andrew Critch explore the art of making
+  predictions about the future, emphasizing the importance of specificity, calibration,
+  and the role of collective wisdom in improving prediction accuracy.
+key_topics:
+- Forecasting
+- Prediction Calibration
+- Artificial Intelligence
+- Crowdsourcing Predictions
+tags:
+- Prediction
+- AI
+- Forecasting
+- Collective Intelligence
+key_points:
+- Good predictions should be specific, probabilistic, valid, and well-calibrated.
+- Collective prediction platforms like Metaculous can enhance accuracy by pooling
+  expertise.
+- Understanding the underlying processes behind predictions is crucial for accuracy.
+segments:
+- title: Introduction to Predictions
+  summary: The segment introduces the concept of predictions, contrasting clear predictions
+    like eclipses with more uncertain predictions like the weather.
+  key_quotes:
+  - quote: We can fairly accurately predict that not only will the sun come up tomorrow,
+      but also at what time.
+    speaker: Arielle Kahn
+    context: Introduction to the episode.
+- title: The Art of Forecasting
+  summary: Anthony Aguirre defines key characteristics of effective predictions, emphasizing
+    specificity and calibration.
+  key_quotes:
+  - quote: A good prediction should be specific and well-defined.
+    speaker: Anthony Aguirre
+    context: Discussing hallmarks of a good prediction.
+- title: Predicting Complex Systems
+  summary: The discussion shifts to the challenges of predicting complex systems such
+    as finance and weather.
+  key_quotes:
+  - quote: Predicting the stock market is difficult because the prices adjust to reflect
+      the actions of others.
+    speaker: Andrew Critch
+    context: Challenges in finance predictions.
+- title: The Future of AI and Humanity
+  summary: The guests discuss the complexities of predicting future developments in
+    AI and society.
+  key_quotes:
+  - quote: Simple extrapolation can often yield surprisingly accurate predictions.
+    speaker: Anthony Aguirre
+    context: Methods for predicting future trends in AI.
+- title: Harnessing Collective Wisdom
+  summary: Anthony explains the benefits of collective prediction and the potential
+    for individual growth through prediction practice.
+  key_quotes:
+  - quote: The more people you have doing it, the more accurate the predictions tend
+      to become.
+    speaker: Anthony Aguirre
+    context: Discussing Metaculous and collective wisdom.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on ensuring that technology is beneficial to humanity.
+  access_date: null
+tools_mentioned:
+- name: Metaculous
+  url: '"https://metaculous.com"'
+  description: An online platform for crowdsourcing predictions about science and
+    technology.
+  context: Discussion of how Metaculous helps in making accurate predictions.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of California at Santa Cruz
+    location: California, USA
+    context: Affiliation of guest Anthony Aguirre.
+  companies:
+  - name: Miry
+    industry: Investment
+    context: '"Andrew Critch''s previous affiliation."'
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Societal Impact
+    context: Organization fostering safe technology development.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Max Tegmark
+    institution: Future of Life Institute
+    field: Physics and AI
+    context: Co-founder of Future of Life Institute.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Metaculous
+  organization: Metaculous Community
+  description: A crowdsourced platform for making accurate predictions about scientific
+    and technological advances.
+  status: Active
+  url: '"https://metaculous.com"'
+  context: '"Metaculous aims to improve society''s ability to forecast future developments."'
+events:
+  historical:
+  - name: 2017 Solar Eclipse
+    date: '2017-08-21'
+    significance: A total solar eclipse visible in North America.
+    context: Mentioned in the context of predictable events like eclipses.
+  upcoming: []
+keywords:
+- Predictive Analytics
+- AI Future
+- Collective Intelligence
+categories:
+- Science
+- Technology
+- AI Policy
+intended_audience: Individuals interested in the science of prediction and the future
+  of technology.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Visit Metaculous.com to start participating in predictions.
+controversial_topics:
+- topic: Accuracy of Expert Predictions
+  different_viewpoints:
+  - perspective: Domain expertise is necessary for accurate predictions.
+    proponents: Anthony Aguirre, Andrew Critch
+    key_arguments: Experts may lack predictive skills despite domain knowledge.
+  - perspective: The crowd can lead to better predictions if properly aggregated.
+    proponents: Metaculous community advocates.
+    key_arguments: Collective predictions from diverse participants can mitigate individual
+      biases.

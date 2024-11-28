@@ -1,0 +1,183 @@
+title: '"AIAP: China''s AI Superpower Dream with Jeffrey Ding"'
+original_url: '"https://zencastr.com/z/DKeBLzCo"'
+date_published: '2019-08-16'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Jeffrey Ding
+  affiliation: Future of Humanity Institute
+  title: China Lead, Center for the Governance of AI
+  bio: '"Jeffrey Ding specializes in AI strategy and China''s approach to strategic
+    technologies. He is a Rhodes Scholar reading for a PhD in international relations
+    at the University of Oxford."'
+  expertise_areas:
+  - AI strategy
+  - '"China''s AI development"'
+  - International relations
+synopsis: '"In this episode, Lucas Perry engages with Jeffrey Ding to explore China''s
+  ambitions in becoming the leading AI superpower by 2030, analyzing the country''s
+  technological developments, policies, and the implications for global AI dynamics."'
+key_topics:
+- '"China''s AI ambitions"'
+- US-China AI relations
+- AI governance principles
+- Impact of AI on society and economy
+tags:
+- AI
+- China
+- international relations
+- technology policy
+key_points:
+- '"China''s AI development is supported by a comprehensive national strategy initiated
+  in 2017."'
+- The AI arms race between the US and China may be mischaracterized; cooperation is
+  also significant.
+- Language barriers contribute to a knowledge asymmetry in AI research between China
+  and the West.
+- '"China''s AI strategy includes ethical considerations comparable to Western frameworks."'
+segments:
+- title: '"Introduction to China''s AI Aspirations"'
+  summary: '"Lucas Perry introduces Jeffrey Ding, outlining the importance of discussing
+    China''s role in global AI development and its strategic ambitions."'
+  key_quotes:
+  - quote: China is probably second only to the US in terms of comprehensive national
+      AI capabilities measurement.
+    speaker: Jeffrey Ding
+    context: '"Discussing China''s positioning in the global AI landscape."'
+- title: '"Historical Context of China''s AI Strategy"'
+  summary: '"Ding elaborates on the 2017 ''New Generation Artificial Intelligence
+    Development Plan'' which sets ambitious goals for AI development in China."'
+  key_quotes:
+  - quote: This officially marked the development of the AI sector as a national priority.
+    speaker: Jeffrey Ding
+    context: '"Describing China''s strategic focus on AI to become a leading AI power
+      by 2030."'
+- title: Comparative AI Capabilities
+  summary: The discussion moves to assessing AI capabilities in China relative to
+    the US, including a development index.
+  key_quotes:
+  - quote: China trails the US in every driver except for access to data.
+    speaker: Jeffrey Ding
+    context: Summarizing the AI potential index findings.
+- title: Impact of AI Strategies on Governance and Society
+  summary: '"Ding discusses how China''s AI ambitions could influence social governance
+    and international relations."'
+  key_quotes:
+  - quote: AI will play an irreplaceable role in maintaining social stability.
+    speaker: Jeffrey Ding
+    context: '"Emphasizing the implications of AI in China''s governance strategies."'
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Institute focused on the implications of AI and technology.
+  access_date: null
+tools_mentioned:
+- name: China AI newsletter
+  url: null
+  description: A newsletter featuring translations on AI-related issues from Chinese
+    media.
+  context: '"Jeffrey Ding''s effort to bring awareness to Chinese perspectives on
+    AI."'
+research_papers:
+- title: '"Deciphering China''s AI Dream"'
+  authors:
+  - Jeffrey Ding
+  year: 2018
+  url: null
+  key_findings: '"Analyses China''s AI strategy in context to global technologies
+    and implications for safety and ethics."'
+  context: '"Ding''s foundational work on AI strategy."'
+books_referenced:
+- title: Surveillance Capitalism
+  authors:
+  - Shoshana Zuboff
+  year: 2019
+  isbn: null
+  context: Discusses the implications of surveillance and data privacy.
+organizations:
+  academic_institutions:
+  - name: University of Oxford
+    location: Oxford, UK
+    context: Where Jeffrey Ding is a PhD candidate.
+  companies:
+  - name: Baidu
+    industry: Technology
+    context: Leading AI firm actively engaged in research.
+  - name: Tencent
+    industry: Technology
+    context: Major player in the Chinese AI space.
+  - name: Alibaba
+    industry: Technology
+    context: Key competitor in the AI industry in China.
+  non_profits:
+  - name: Center for the Governance of AI
+    focus_area: AI Strategy
+    context: Research center where Jeffrey Ding works.
+  government_agencies:
+  - name: State Council of China
+    country: China
+    context: Government body responsible for AI policy development.
+notable_people:
+  academics:
+  - name: Jeffrey Ding
+    institution: Future of Humanity Institute
+    field: AI Strategy
+    context: '"Expert on China''s AI development."'
+  industry_leaders:
+  - name: Xiang Li
+    company: Baidu
+    role: CEO
+    context: Involved in the development of AI within Baidu.
+  policy_makers:
+  - name: President Xi Jinping
+    role: President
+    organization: Government of China
+    context: '"Involved in promoting China''s AI initiatives."'
+projects_mentioned:
+- name: New Generation Artificial Intelligence Development Plan
+  organization: State Council of China
+  description: A national strategy aimed at developing AI capabilities.
+  status: Ongoing
+  url: null
+  context: '"Significant for understanding China''s AI ambitions."'
+events:
+  historical:
+  - name: Release of New Generation AI Development Plan
+    date: 2017-07
+    significance: Established AI as a national priority for China by 2030.
+    context: '"Foundation for China''s AI strategy."'
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI development
+- China
+- US-China relations
+- technology governance
+categories:
+- Technology
+- International Relations
+intended_audience: Researchers, policymakers, and anyone interested in AI technology
+  and its global implications.
+expertise_level: Intermediate
+recommended_reading:
+- title: Governing Artificial Intelligence
+  url: '"https://example.com"'
+  type: paper
+  relevance: Explores governance frameworks for AI technologies.
+action_items:
+- Follow the China AI newsletter for updates on AI developments in China.
+- Share insights from this episode on social media.
+controversial_topics:
+- topic: US-China AI Arms Race
+  different_viewpoints:
+  - perspective: AI is a militaristic competition.
+    proponents: Peter Thiel, some US policymakers.
+    key_arguments: Emphasizes the need for national security investments.
+  - perspective: Cooperation is vital in AI research.
+    proponents: Jeffrey Ding, various international actors.
+    key_arguments: Benefits all of humanity in terms of research and application.

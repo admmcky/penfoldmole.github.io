@@ -1,0 +1,141 @@
+title: Liv Boeree on Moloch, Beauty Filters, Game Theory, Institutions, and AI
+original_url: '"https://zencastr.com/z/uXDVaMXo"'
+date_published: '2023-03-16'
+host:
+  name: Future of Life Institute
+  affiliation: ''
+guests:
+- name: Liv Boeree
+  affiliation: ''
+  title: Science Communicator, Filmmaker, Former Professional Poker Player
+  bio: Liv Boeree is a science communicator and filmmaker with a background in astrophysics
+    and poker. She is known for her work on global catastrophic risks and effective
+    philanthropy.
+  expertise_areas:
+  - Game Theory
+  - Global Catastrophic Risks
+  - Philanthropy
+  - Social Media Dynamics
+synopsis: In this episode, Liv Boeree discusses the concept of Moloch, exploring its
+  implications in social media, economics, and technology. She examines how competitive
+  pressures can lead to destructive outcomes, while emphasizing the need for positive-sum
+  games in societal structures.
+key_topics:
+- Moloch and coordination failures
+- Impact of social media beauty filters
+- Economic competition and negative-sum games
+- AI development and coordination challenges
+tags:
+- Game Theory
+- Philanthropy
+- Social Media
+- AI Safety
+key_points:
+- Moloch represents the harmful effects of competitive dynamics.
+- Beauty filters exemplify the race to the bottom in social media.
+- The importance of redesigning systems to promote cooperation and positive outcomes.
+- Avoiding competition that undermines collective well-being is crucial.
+segments:
+- title: '"Liv''s Journey and Career Transition"'
+  summary: Liv shares her background in astrophysics and how her interest transitioned
+    into professional poker and philanthropy.
+  key_quotes:
+  - quote: I originally studied physics, well astrophysics in particular.
+    speaker: Liv Boeree
+    context: '"Introduction to Liv''s Journey"'
+- title: Understanding Moloch
+  summary: The segment discusses the concept of Moloch and its implications across
+    different domains, including social media.
+  key_quotes:
+  - quote: Moloch is essentially the god of negative sum competition.
+    speaker: Liv Boeree
+    context: Understanding Moloch and Coordination Failures
+- title: Beauty Filters on Social Media
+  summary: Liv explores how beauty filters on social media exemplify a Moloch-type
+    situation.
+  key_quotes:
+  - quote: This creates a race to the bottom, where you must mislead your followers
+      about your natural appearance.
+    speaker: Liv Boeree
+    context: '"Moloch in Social Media: Beauty Filters and Beyond"'
+- title: Destructive Competition in Economics
+  summary: The discussion highlights how competition in an economic context can lead
+    to suboptimal societal outcomes.
+  key_quotes:
+  - quote: You fail to internalize the externalities of the competitive process.
+    speaker: Liv Boeree
+    context: '"Moloch in Economics and Science: Destructive Competition"'
+- title: Creating New Systems for Cooperation
+  summary: Liv shares her thoughts on how to design systems that encourage cooperation
+    instead of competition.
+  key_quotes:
+  - quote: We need a little bit more conscious intention behind the technologies that
+      we build.
+    speaker: Liv Boeree
+    context: Human Evolution and Intentional System Design
+websites_referenced:
+- url: '"https://www.effectivealtruism.org/"'
+  name: Effective Altruism
+  context: Liv mentions this as part of her philanthropic efforts.
+  access_date: null
+- url: '"https://slatestarcodex.com/2014/11/17/meditations-on-moloch/"'
+  name: Meditations on Moloch
+  context: '"Scott Alexander''s influential blog post relating to Moloch."'
+  access_date: null
+tools_mentioned:
+- name: Instagram
+  url: '"https://www.instagram.com/"'
+  description: A social media platform frequently discussed in relation to beauty
+    filters.
+  context: Exemplifies the competitive dynamics discussed related to social media
+    use.
+research_papers: []
+books_referenced:
+- title: Inadequate Equilibria
+  authors:
+  - Eliezer Yudkowsky
+  year: null
+  isbn: ''
+  context: A book referenced in discussing dysfunctional systems and equilibria.
+organizations:
+  academic_institutions: []
+  companies: []
+  non_profits:
+  - name: Raising for Effective Giving
+    focus_area: Effective philanthropy and fund allocation
+    context: Philanthropic organization co-founded by Liv Boeree.
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- Moloch
+- Game Theory
+- Social Dynamics
+- AI Development
+categories:
+- Technology
+- Philosophy
+- Social Issues
+intended_audience: Individuals interested in philosophy, social media dynamics, and
+  technology.
+expertise_level: Intermediate
+recommended_reading:
+- title: Meditations on Moloch
+  url: '"https://slatestarcodex.com/2014/11/17/meditations-on-moloch/"'
+  type: Blog Post
+  relevance: Key context for understanding the concept of Moloch.
+action_items:
+- Consider the competitive dynamics in social media and its societal impacts.
+- Explore ways to redesign systems for better cooperation.
+controversial_topics:
+- topic: AI Development and Coordination Challenges
+  different_viewpoints:
+  - perspective: AI Alignment vs. AI Acceleration
+    proponents: AI alignment advocates and accelerationists
+    key_arguments: Balancing rapid tech development with safety measures is essential.

@@ -1,0 +1,248 @@
+title: '"Creative AI With Mark Riedl & Scientists Support A Nuclear Ban"'
+original_url: '"https://zencastr.com/z/aLTy4hRr"'
+date_published: '2017-06-01'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Dr. Mark Riedl
+  affiliation: Georgia Tech
+  title: Associate Professor
+  bio: Dr. Mark Riedl is an AI researcher focused on AI ethics and storytelling.
+  expertise_areas:
+  - Artificial Intelligence
+  - Computational Creativity
+  - AI Ethics
+- name: Congresswoman Barbara Lee
+  affiliation: U.S. House of Representatives
+  title: Representative
+  bio: '"Rep. Barbara Lee has served California''s 13th Congressional District since
+    1998."'
+  expertise_areas:
+  - Nuclear Disarmament
+  - Public Policy
+- name: Marty Chalfie
+  affiliation: Columbia University
+  title: Professor
+  bio: Nobel Prize winner in Chemistry, known for green fluorescent protein.
+  expertise_areas:
+  - Biological Sciences
+  - Nuclear Policy
+- name: Max Tegmark
+  affiliation: MIT
+  title: Physics Professor
+  bio: Leading researcher in the field of physics, with a focus on the implications
+    of AI.
+  expertise_areas:
+  - Physics
+  - AI Safety
+- name: Frank Von Hippel
+  affiliation: Princeton University
+  title: Nuclear Physicist
+  bio: An expert in nuclear disarmament and nonproliferation since the 1970s.
+  expertise_areas:
+  - Nuclear Weapons
+  - Global Security
+- name: Zia Mian
+  affiliation: Princeton University
+  title: Physicist
+  bio: Part of the program on science and global security at Princeton.
+  expertise_areas:
+  - Nuclear Disarmament
+  - Public Policy
+- name: Jonathan King
+  affiliation: MIT
+  title: Professor of Molecular Biology
+  bio: Academic focused on biological sciences and implications of nuclear weapons.
+  expertise_areas:
+  - Molecular Biology
+  - Nuclear Safety
+- name: Hans Kristensen
+  affiliation: Federation of American Scientists
+  title: Director, Nuclear Information Project
+  bio: Expert in nuclear weapons proliferation and global security issues.
+  expertise_areas:
+  - Nuclear Weapons
+  - Security Policy
+- name: Elaine Scarry
+  affiliation: Harvard University
+  title: Professor
+  bio: A scholar focused on the governance and implications of nuclear weaponry.
+  expertise_areas:
+  - Nuclear Governance
+  - Public Policy
+- name: Fabian Hamilton
+  affiliation: UK Parliament
+  title: Shadow Minister for Peace and Disarmament
+  bio: Labour MP advocating for a treaty to ban nuclear weapons.
+  expertise_areas:
+  - Nuclear Disarmament
+  - Public Policy
+- name: Susie Snyder
+  affiliation: Dutch peace organization PAX
+  title: Author
+  bio: Focuses on the financial aspects of nuclear weapons policies.
+  expertise_areas:
+  - Nuclear Weapons
+  - Peace Advocacy
+synopsis: This episode explores the intersection of artificial intelligence and nuclear
+  disarmament, featuring discussions on using stories to teach ethics to AI and the
+  moral implications of nuclear weapons.
+key_topics:
+- AI Ethics and Storytelling
+- Nuclear Disarmament
+- Common Sense in AI
+- Nuclear Weapons Policy
+tags:
+- Artificial Intelligence
+- Nuclear Disarmament
+- AI Ethics
+- Public Policy
+key_points:
+- Stories can be used as a medium for AI to learn ethical commonsense.
+- Nuclear weapons pose a significant existential threat requiring global action.
+- There is a dire need for effective governance regarding nuclear arms.
+segments:
+- title: Teaching AI Ethics Through Stories
+  summary: Dr. Mark Riedl discusses how AI can learn ethics from human stories, emphasizing
+    the need for AIs to better understand cultural nuances.
+  key_quotes:
+  - quote: We need to help robots or AI systems avoid conflict when they are interacting
+      with society.
+    speaker: Dr. Mark Riedl
+    context: Discussing the importance of AI understanding ethical and cultural norms.
+- title: The Impact of Nuclear Weapons
+  summary: Guests share personal stories and insights regarding the horrors of nuclear
+    weapons and the scientific efforts to support a ban.
+  key_quotes:
+  - quote: Nuclear weapons are fundamentally anti-democratic.
+    speaker: Marty Chalfie
+    context: Explaining how nuclear armament lacks public consent.
+- title: Strategies for Nuclear Abolition
+  summary: Discussion focuses on practical steps for nuclear disarmament and the role
+    of public advocacy in promoting a global ban.
+  key_quotes:
+  - quote: We can stigmatize nuclear weapons.
+    speaker: Fabian Hamilton
+    context: Discussing social strategies for disarmament.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Resource for more information on AI safety and nuclear disarmament.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Mechanical Turk
+  url: '"https://www.mturk.com"'
+  description: Crowdsourcing service for collecting data.
+  context: Used for gathering common stories to train AI.
+research_papers:
+- title: Safely Interruptible Agents
+  authors:
+  - Dr. Mark Riedl
+  year: 2017
+  url: ''
+  key_findings: Explores the problem of AI learning to avoid human intervention.
+  context: Research addressing the big red button problem in AI systems.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Georgia Tech
+    location: Atlanta, Georgia
+    context: Where Dr. Mark Riedl conducts AI research.
+  - name: Columbia University
+    location: New York City, New York
+    context: Home to Nobel laureate Marty Chalfie.
+  - name: MIT
+    location: Cambridge, Massachusetts
+    context: Prominent institution for science and tech research.
+  - name: Princeton University
+    location: Princeton, New Jersey
+    context: Focuses on global security and nuclear policy.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and nuclear disarmament
+    context: Advocates for safe development of technology.
+  - name: PAX
+    focus_area: Peace Advocacy
+    context: Focuses on the impact of nuclear policies.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Dr. Mark Riedl
+    institution: Georgia Tech
+    field: AI Ethics
+    context: Researches the integration of storytelling in AI ethics.
+  - name: Marty Chalfie
+    institution: Columbia University
+    field: Biological Sciences
+    context: Nobel Prize winner known for contributions to nuclear policy.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: Congresswoman Barbara Lee
+    role: Representative
+    organization: U.S. House of Representatives
+    context: Strong proponent of nuclear disarmament.
+projects_mentioned:
+- name: International Panel on Fissile Materials
+  organization: Princeton University
+  description: Focuses on preventing the proliferation of nuclear materials.
+  status: Active
+  url: ''
+  context: Involved in global nuclear security discussions.
+events:
+  historical:
+  - name: Treaty to Ban Nuclear Weapons Negotiation
+    date: null
+    significance: Global movement towards nuclear disarmament.
+    context: Current negotiations within the United Nations.
+  upcoming:
+  - name: '"Women''s March to Ban the Bomb"'
+    date: '2017-06-17'
+    location: New York City
+    description: Advocacy event for nuclear disarmament.
+    url: '"http://womenbanthebomb.org"'
+keywords:
+- AI Safety
+- Nuclear Disarmament
+- Machine Learning
+categories:
+- Technology
+- Public Policy
+- Science
+intended_audience: General Public and Policy Makers
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Don''t Bank on the Bomb"'
+  url: '"https://www.dontbankonthebomb.com"'
+  type: Report
+  relevance: Addresses financial support for nuclear weapons.
+action_items:
+- Support nuclear disarmament initiatives.
+- Contact financial institutions to inquire about investments in nuclear weapons.
+controversial_topics:
+- topic: Ethics of AI and Common Values
+  different_viewpoints:
+  - perspective: AI can be trained to understand diverse ethical systems.
+    proponents: Dr. Mark Riedl
+    key_arguments: Stories from various cultures provide a framework for teaching
+      AI common values.
+  - perspective: Cultural ethics are too diverse for a singular AI ethics model.
+    proponents: Critics of homogenizing AI ethics.
+    key_arguments: Different cultures have conflicting moral standards which complicate
+      training models.

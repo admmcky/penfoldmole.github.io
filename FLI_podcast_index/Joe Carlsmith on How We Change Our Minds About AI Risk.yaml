@@ -1,0 +1,197 @@
+title: Joe Carlsmith on How We Change Our Minds About AI Risk
+original_url: '"https://zencastr.com/z/F5CpqhTa"'
+date_published: '2023-06-22'
+host:
+  name: Gus Dauker
+  affiliation: Future of Life Institute
+guests:
+- name: Joe Karlsmith
+  affiliation: Open Philanthropy
+  title: Senior Research Analyst
+  bio: Joe Karlsmith is a senior research analyst at Open Philanthropy, focusing on
+    existential risks from artificial intelligence. He holds a PhD in philosophy from
+    Oxford University.
+  expertise_areas:
+  - Existential Risks
+  - Artificial Intelligence
+  - Philosophy
+  - Futurism
+synopsis: '"In this episode, Joe Karlsmith discusses how individuals update their
+  beliefs about AI risk in response to technological advancements. He delves into
+  the nuances of human biases, the implications of AI''s evolving capabilities, and
+  the philosophical considerations surrounding AI safety and existential risk."'
+key_topics:
+- AI Risk Perception
+- Existential Risk
+- Human Biases
+- AI Capabilities
+- Philosophical Implications
+tags:
+- AI
+- Philosophy
+- Existential Risk
+- Machine Learning
+key_points:
+- People often exhibit predictable biases when updating their beliefs about AI risk.
+- '"There''s a distinction between AI capability and AI danger."'
+- Philosophical discussions on AI alignment are critical as AI evolves.
+segments:
+- title: Introduction and Background
+  summary: The episode begins with an introduction to Joe Karlsmith and his role at
+    Open Philanthropy. Joe discusses his background in philosophy and his focus on
+    AI risk.
+  key_quotes:
+  - quote: I work as a senior research analyst at Open Philanthropy, focusing on existential
+      risks from artificial intelligence.
+    speaker: Joe Karlsmith
+    context: Joe introduces himself and outlines his area of expertise.
+- title: Predictably Updating Beliefs
+  summary: '"Joe explains the concept of predictably updating beliefs regarding AI
+    risk and how people''s perceptions change with advancements in AI technology."'
+  key_quotes:
+  - quote: If you were able to predict that you were going to see evidence later,
+      then you should have factored that into your current beliefs.
+    speaker: Joe Karlsmith
+    context: Discussing Bayesian reasoning in the context of AI advancements.
+- title: The Human Bias
+  summary: The discussion shifts to human cognitive biases and how they affect perceptions
+    of risk—especially in response to AI developments.
+  key_quotes:
+  - quote: There are a variety of ways humans diverge from ideal Bayesianism.
+    speaker: Joe Karlsmith
+    context: Highlighting the flaws in human reasoning regarding AI.
+- title: AI Capabilities vs. Dangers
+  summary: Joe explores the relationship between the capability of AI systems and
+    the potential dangers they pose.
+  key_quotes:
+  - quote: Capability is really crucially connected with the concern.
+    speaker: Joe Karlsmith
+    context: Discussing how increased AI capabilities correlate with risks.
+- title: Philosophical Questions on AI
+  summary: The conversation touches on the philosophical implications of AI risk,
+    including questions of digital sentience and ethics.
+  key_quotes:
+  - quote: I think philosophy matters here.
+    speaker: Joe Karlsmith
+    context: Expressing the importance of philosophy in the discourse on AI.
+- title: Action Items and Future Considerations
+  summary: Joe outlines potential action items and considerations for the future,
+    particularly regarding the alignment of AI systems.
+  key_quotes:
+  - quote: We should be more wary of ways in which emergency inflected memes can commandeer
+      your resources.
+    speaker: Joe Karlsmith
+    context: Discussing the need for cautious approaches to the urgency of AI risk.
+websites_referenced:
+- url: '"https://www.openphilanthropy.org"'
+  name: Open Philanthropy
+  context: Organization focused on existential risks and effective philanthropy.
+  access_date: null
+tools_mentioned:
+- name: RLHF
+  url: ''
+  description: Reinforcement Learning from Human Feedback - a technique used to align
+    AI behavior with human values.
+  context: Technique discussed regarding AI training and supervision.
+research_papers:
+- title: Power-Seeking AI as an Existential Risk
+  authors:
+  - Joe Karlsmith
+  year: 2021
+  url: ''
+  key_findings: Explores the risks associated with AI systems that exhibit power-seeking
+    behavior.
+  context: Joe references his own paper discussing risks of AI.
+books_referenced:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  authors:
+  - Nick Bostrom
+  year: 2014
+  isbn: '9780198739838'
+  context: A seminal work discussing the implications of superintelligence.
+organizations:
+  academic_institutions:
+  - name: Oxford University
+    location: United Kingdom
+    context: Where Joe Karlsmith completed his PhD in philosophy.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Leading research organization in AI capabilities.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Existential risk and technology
+    context: Organization hosting the podcast.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: University of Oxford
+    field: Philosophy
+    context: Involved in discussions of AI risk and superintelligence.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Power-Seeking AI Report
+  organization: Open Philanthropy
+  description: A research report analyzing the existential risks of power-seeking
+    AI.
+  status: Published
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ChatGPT Release
+    date: '2022-11-30'
+    significance: A significant AI development that contributed to public awareness
+      of AI capabilities.
+    context: Discussed as a critical point for changing perceptions of AI risk.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Risk
+- Philosophy
+- Existential Risk
+- Human Biases
+categories:
+- Technology
+- Philosophy
+- Ethics
+- Artificial Intelligence
+intended_audience: Individuals interested in AI, technology ethics, and existential
+  risks.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  url: '"https://www.amazon.com/dp/0198739834"'
+  type: book
+  relevance: Fundamental insights on AI and existential risks.
+action_items:
+- Encourage engagement with AI safety and ethics discussions in academic and policy-making
+  circles.
+- Consider the implications of AI risk in personal and professional planning.
+controversial_topics:
+- topic: AI Risk vs. AI Benefits
+  different_viewpoints:
+  - perspective: AI risk is exaggerated and unsubstantiated.
+    proponents: Some industry leaders and skeptics.
+    key_arguments: '"Emphasizes AI''s potential benefits and dismisses exaggerated
+      fears."'
+  - perspective: AI poses significant existential risks needing immediate address.
+    proponents: Researchers and ethicists focusing on long-term impacts.
+    key_arguments: Highlights potential for catastrophic outcomes without proper safeguards.

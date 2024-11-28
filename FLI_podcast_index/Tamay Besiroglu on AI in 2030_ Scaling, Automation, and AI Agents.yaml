@@ -1,0 +1,148 @@
+title: '"Tamay Besiroglu on AI in 2030: Scaling, Automation, and AI Agents"'
+original_url: '"https://zencastr.com/z/QpNlDpuz"'
+date_published: '2024-10-11'
+host:
+  name: Gus Docker
+  affiliation: Future of Life Institute
+guests:
+- name: Tamay Basuro-Glu
+  affiliation: Epoch AI
+  title: Associate Director
+  bio: Tamay Besuro-Glu is the Associate Director of Epoch AI, a research organization
+    focusing on AI impacts and advancements.
+  expertise_areas:
+  - Artificial Intelligence
+  - Compute Scaling
+  - Algorithmic Innovations
+  - Policy Impacts of AI
+synopsis: In this episode, Tamay Besuro-Glu discusses the role of scaling in AI performance,
+  future trends in AI compute, and the socio-economic impacts of AI automation by
+  2030.
+key_topics:
+- Scaling in AI
+- Compute Trends and Predictions
+- Algorithmic Innovations
+- AI and Labor Automation
+tags:
+- AI
+- Future Technology
+- Research
+- Automation
+key_points:
+- Scaling compute is essential for AI advancements.
+- Predictions indicate a 10,000-fold increase in compute capability by 2030.
+- Algorithmic innovation plays a significant role alongside compute scaling.
+- Displacement and economic shifts due to AI automation are significant societal concerns.
+segments:
+- title: Introduction and Overview of Epoch AI
+  summary: '"Tamay introduces Epoch AI''s mission and its role in researching AI impacts."'
+  key_quotes:
+  - quote: Epoch AI is a research organization that works to do research, build models
+      and data sets to inform people in policy and in government, civil society about
+      AI and its impacts.
+    speaker: Tamay Basuro-Glu
+    context: '"Overview of Epoch AI''s contributions."'
+- title: The Role of Scaling in AI Performance
+  summary: Discussion on the importance of scaling and its contribution to AI performance.
+  key_quotes:
+  - quote: About two thirds of the kind of variation in performance is due to scaling
+      of pre-training compute.
+    speaker: Tamay Basuro-Glu
+    context: '"Insights into scaling''s impact on AI performance metrics."'
+- title: Predicting Future AI Compute Trends
+  summary: Review of compute growth rates and predictions for the future of AI capabilities.
+  key_quotes:
+  - quote: '"We find that it''s quite likely that we can continue scaling up roughly
+      at the rate that we''ve observed historically."'
+    speaker: Tamay Basuro-Glu
+    context: Predictions on compute scaling through the decade.
+- title: Challenges and Diminishing Returns in AI Scaling
+  summary: Discussing the potential diminishing returns of continued AI compute scaling.
+  key_quotes:
+  - quote: It becomes increasingly expensive to train models and to get this kind
+      of increment of performance improvement.
+    speaker: Tamay Basuro-Glu
+    context: Examining the economics of AI scaling.
+- title: Advancements and Limitations in AI Programming and Math
+  summary: Exploration of current benchmarks in programming and mathematical problem-solving
+    capabilities of AI.
+  key_quotes:
+  - quote: AI has made progress in programming through some part of this range of
+      human abilities.
+    speaker: Tamay Basuro-Glu
+    context: '"Discussing AI''s capabilities in programming."'
+- title: Funding and Economic Impacts of AI Scaling
+  summary: Discussing how AI scaling will be financed and its economic implications.
+  key_quotes:
+  - quote: It is worth spending really quite a lot of money on trying to automate
+      this kind of most expensive factor of production.
+    speaker: Tamay Basuro-Glu
+    context: Economic rationale for funding AI development.
+- title: Societal Impacts of AI Automating Human Labor
+  summary: Examination of the societal implications as AI increasingly automates human
+    labor.
+  key_quotes:
+  - quote: I think there will be much higher wages, and then there will be a lot of
+      displacement.
+    speaker: Tamay Basuro-Glu
+    context: Predictions about labor market shifts due to AI.
+websites_referenced:
+- url: '"https://epochai.org/"'
+  name: Epoch AI
+  context: Resource for research and insights on AI impacts.
+  access_date: '2024-10-11'
+tools_mentioned: []
+research_papers:
+- title: The Returns to Compute Scaling and Contributions from Algorithmic Innovations
+  authors:
+  - Tamay Basuro-Glu
+  year: 2024
+  url: ''
+  key_findings: Majority of AI performance improvements are driven by compute scaling.
+  context: Presented at NeurIPS on compute scaling research.
+books_referenced: []
+organizations:
+  academic_institutions: []
+  companies:
+  - name: Epoch AI
+    industry: Research and Technology
+    context: Focused on AI research and its impacts.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Discussed in the context of industry expectations for AI capabilities.
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI Scaling
+- Compute Power
+- Labor Automation
+- Economic Impact
+categories:
+- Technology
+- Economics
+- Artificial Intelligence
+intended_audience: AI researchers, policy makers, and technology enthusiasts.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider implications of AI scaling on job displacement and economic policy.
+controversial_topics:
+- topic: Impact of AI on Labor
+  different_viewpoints:
+  - perspective: Optimistic
+    proponents: Tamay Basuro-Glu
+    key_arguments: AI will increase wealth and efficiency but may displace certain
+      jobs.
+  - perspective: Pessimistic
+    proponents: '"[Not specified]"'
+    key_arguments: AI could lead to significant unemployment and reduced control for
+      workers.

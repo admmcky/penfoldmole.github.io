@@ -1,0 +1,190 @@
+title: Iason Gabriel on Foundational Philosophical Questions in AI Alignment
+original_url: '"https://zencastr.com/z/YqfCqJMZ"'
+date_published: '2020-09-03'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Yasoon Gabriel
+  affiliation: DeepMind
+  title: Senior Research Scientist
+  bio: Yasoon Gabriel works in the ethics research team at DeepMind, focusing on the
+    applied ethics of artificial intelligence and human rights. He holds a doctorate
+    in political theory from the University of Oxford.
+  expertise_areas:
+  - AI Ethics
+  - Moral and Political Theory
+  - Value Alignment
+synopsis: In this episode, Lucas Perry talks with Yasoon Gabriel about the intricate
+  relationship between moral and political theory and AI alignment, discussing values,
+  ethics, and the complexities of aligning AI systems with human preferences.
+key_topics:
+- AI Alignment
+- Moral Theory
+- Political Philosophy
+- Human Values
+- Pluralism
+tags:
+- AI Ethics
+- Philosophy
+- AI Alignment
+- Moral Theory
+key_points:
+- The need for a broadly endorsed procedure for AI alignment.
+- The interplay between technical design and normative ethical considerations.
+- Pluralism in understanding human values in AI alignment.
+- The concept of non-domination and democratic control in AI governance.
+- Long reflection as a method to ensure robust ethical AI designs.
+segments:
+- title: Introduction to AI Alignment
+  summary: Lucas introduces the topic of AI alignment and the need for a moral framework
+    guiding AI development.
+  key_quotes:
+  - quote: This episode primarily explores how moral and political theory are deeply
+      interconnected with the technical side of the AI alignment problem.
+    speaker: Lucas Perry
+    context: Introduction to the episode
+- title: '"Gabriel''s Interest in AI Alignment"'
+  summary: Yasoon discusses his interests in the problem of AI values and how different
+    communities can be brought together to tackle the alignment challenge.
+  key_quotes:
+  - quote: I wanted to bring different communities together... to show machine learning
+      researchers that there were interesting normative questions.
+    speaker: Yasoon Gabriel
+    context: Explaining his motivation for the paper
+- title: The AI Alignment Problem
+  summary: The conversation centers around decomposing the AI alignment problem into
+    technical and normative components.
+  key_quotes:
+  - quote: '"The problem decomposes into two separate parts: the technical challenge
+      and the normative question."'
+    speaker: Yasoon Gabriel
+    context: Discussion about AI alignment components.
+- title: Visions for AI Alignment
+  summary: Exploration of different visions for AI alignment, including centralized
+    governance and decentralized systems.
+  key_quotes:
+  - quote: Some people imagine that there will be a human parliament... while others
+      envision multiple AIs working towards constructive ends.
+    speaker: Yasoon Gabriel
+    context: Discussing differing perspectives on AI alignment mechanisms.
+- title: Challenges of Building Moral AI
+  summary: Yasoon covers the complexities of aligning AI with moral theories, like
+    utilitarianism and Kantian ethics.
+  key_quotes:
+  - quote: Most technologies are not value agnostic.
+    speaker: Yasoon Gabriel
+    context: Discussing the moral implications of technological design.
+- title: Long Reflection and Ethical AI
+  summary: Introduction of the Long Reflection as a potential future phase for refining
+    ethical values in AI.
+  key_quotes:
+  - quote: Long reflection might be about these sorts of questions.
+    speaker: Lucas Perry
+    context: Discussing the ideal of engaging in philosophical exploration over time.
+websites_referenced:
+- url: '"https://www.deepmind.com"'
+  name: DeepMind
+  context: '"Yasoon''s affiliation and work in AI ethics research."'
+  access_date: '2023-10-10'
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Artificial Intelligence, Values, and Alignment
+  authors:
+  - Yasoon Gabriel
+  year: 2020
+  url: ''
+  key_findings: Explores the intersection of moral philosophy and AI alignment.
+  context: The main focus of the episode.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of Oxford
+    location: UK
+    context: Yasoon obtained his doctorate in political theory here.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: '"Yasoon''s current organization focusing on AI research."'
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: University of California, Berkeley
+    field: Artificial Intelligence
+    context: Mentioned regarding AI alignment concepts.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Alignment
+- Moral Philosophy
+- Ethics in AI
+- Political Theory
+categories:
+- Artificial Intelligence
+- Philosophy
+- Ethics
+intended_audience: Researchers, philosophers, policymakers, and AI practitioners.
+expertise_level: Intermediate to advanced understanding of AI ethics and philosophy.
+recommended_reading:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  url: '"https://www.amazon.com/dp/B00BG0S1K8"'
+  type: Book
+  relevance: Offers insights into AI alignment challenges.
+action_items:
+- Engage with diverse perspectives in AI alignment discussions.
+- Consider participatory approaches in policy-making for AI.
+controversial_topics:
+- topic: True Moral Theory vs. Pluralism
+  different_viewpoints:
+  - perspective: True moral theory proponents believe there is a singular ethical
+      system to align AI with.
+    proponents: Philosophers who argue for a universal moral framework.
+    key_arguments: Argument that a single moral framework can provide cohesive guidelines
+      for alignment.
+  - perspective: Pluralists argue for a variety of ethical views in AI alignment.
+    proponents: Yasoon Gabriel and others advocating for democratic processes.
+    key_arguments: Emphasizes the importance of accommodating diverse human values.

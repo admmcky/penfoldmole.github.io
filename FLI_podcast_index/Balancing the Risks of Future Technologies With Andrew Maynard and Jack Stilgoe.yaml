@@ -1,0 +1,134 @@
+title: Balancing the Risks of Future Technologies With Andrew Maynard and Jack Stilgoe
+original_url: '"https://zencastr.com/z/EeXayea5"'
+date_published: '2017-11-30'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Andrew Maynard
+  affiliation: Arizona State University
+  title: Director, Risk Innovation Lab
+  bio: A physicist focused on exploring how emerging technologies can be responsibly
+    developed.
+  expertise_areas:
+  - Risk assessment
+  - Emerging technologies
+- name: Jack Stilgoe
+  affiliation: University College London
+  title: Senior Lecturer
+  bio: Specializes in science and innovation policy with a focus on emerging technologies.
+  expertise_areas:
+  - Science and technology studies
+  - Innovation policy
+synopsis: This episode discusses the complexities of defining and addressing risks
+  associated with emerging technologies, featuring insights from Andrew Maynard and
+  Jack Stilgoe on how societal perceptions of risk can diverge significantly based
+  on context and stakeholder interests.
+key_topics:
+- Risk assessment
+- Emerging technologies
+- Inequality and technology
+- Stakeholder engagement
+- Self-driving cars
+- Superintelligence risks
+tags:
+- Technology
+- Risk Management
+- Innovation
+key_points:
+- Risk is defined variably across different contexts and stakeholders.
+- Emerging technologies can exacerbate existing inequalities.
+- Stakeholder engagement is crucial for responsible technology development.
+- Anticipating long-term impacts of technology requires inclusivity and openness.
+segments:
+- title: Understanding and Broadening the Scope of Risk
+  summary: Andrew and Jack discuss their definitions of risk, emphasizing the importance
+    of context and the multifaceted nature of risk perception.
+  key_quotes:
+  - quote: '"Risk is a threat to something that''s important or a threat to something
+      of value."'
+    speaker: Andrew Maynard
+    context: Defining risk in broader terms beyond mere probability.
+- title: Technology, Inequality, and Power Dynamics
+  summary: The conversation reveals how new technologies often benefit the powerful,
+    creating inequalities rather than closing them.
+  key_quotes:
+  - quote: Technology tends to benefit the powerful.
+    speaker: Jack Stilgoe
+    context: Discussing the implications of technological advancements on social equity.
+- title: Democratizing Risk Discussions
+  summary: Andrew and Jack explore solutions for making risk discussions more inclusive
+    and participatory.
+  key_quotes:
+  - quote: The solution is to democratize these discussions.
+    speaker: Andrew Maynard
+    context: On the need for collective decision-making in technology governance.
+- title: Balancing Short-term and Long-term AI Risks
+  summary: They tackle the challenges regarding anticipatory governance of AI, reflecting
+    on immediate risks versus speculative long-term consequences.
+  key_quotes:
+  - quote: If you become too focused on...superintelligence, you end up missing nearer
+      term catastrophic risks.
+    speaker: Andrew Maynard
+    context: Discussing the balance needed in risk assessment.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on mitigating existential risks.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Arizona State University
+    location: Tempe, Arizona
+    context: Institution where Andrew Maynard directs the Risk Innovation Lab.
+  - name: University College London
+    location: London, UK
+    context: Institution where Jack Stilgoe is a senior lecturer.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Mitigating existential risks
+    context: Organization promoting safe and responsible development of technology.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Andrew Maynard
+    institution: Arizona State University
+    field: Physics and Risk Management
+    context: Expert in risk innovation.
+  - name: Jack Stilgoe
+    institution: University College London
+    field: Science and Technology Studies
+    context: Specializes in innovation policy.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- risk
+- technology
+- inequality
+- innovation
+categories:
+- Technology and Society
+- Ethical Considerations in Technology
+intended_audience: Policymakers, educators, and technology enthusiasts
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Engage various community stakeholders in technology discussions.
+- Evaluate the long-term societal impacts of emerging technologies.
+controversial_topics:
+- topic: Inequality and Technological Innovation
+  different_viewpoints:
+  - perspective: Technologies exacerbate existing social inequalities.
+    proponents: Jack Stilgoe
+    key_arguments: New technologies often disproportionately benefit the wealthy.
+  - perspective: Technologies can close some inequalities.
+    proponents: Andrew Maynard
+    key_arguments: If governed well, technologies can benefit underserved populations.

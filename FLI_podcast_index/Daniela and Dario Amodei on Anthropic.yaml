@@ -1,0 +1,175 @@
+title: Daniela and Dario Amodei on Anthropic
+original_url: '"https://zencastr.com/z/omEEFuT0"'
+date_published: '2022-03-04'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Daniela Amodei
+  affiliation: Anthropic
+  title: Co-founder and President
+  bio: Daniela is a co-founder of Anthropic and previously worked at Stripe and OpenAI.
+    She also has experience as a congressional staffer.
+  expertise_areas:
+  - AI Safety
+  - Research and Development in AI
+  - Public Policy
+- name: Dario Amodei
+  affiliation: Anthropic
+  title: Co-founder and CEO
+  bio: Dario is a co-founder and CEO of Anthropic, with previous experience at OpenAI,
+    Google, and Baidu. He holds a PhD in biophysics from Princeton University.
+  expertise_areas:
+  - AI Research
+  - AI Safety
+  - Scaling AI Systems
+synopsis: In this episode, Daniela and Dario Amodei discuss Anthropic, a company dedicated
+  to building reliable and safe AI systems. They delve into AI safety, their founding
+  mission, and the intricacies of their research strategy.
+key_topics:
+- AI Safety and Research
+- Founding of Anthropic
+- Scaling and Alignment
+- Empirical Research Methodology
+- Public Benefit Corporations
+tags:
+- AI
+- Anthropic
+- AI Safety
+- Machine Learning
+key_points:
+- Anthropic aims to create steerable, interpretable, and reliable AI systems.
+- The company was founded by a team with a strong background in AI safety.
+- AI alignment is a key focus, with an emphasis on human values.
+- The founders encourage a collaborative and empirical approach to AI research.
+segments:
+- title: Introduction to Anthropic
+  summary: Danny and Dario introduce Anthropic, discussing its foundation and its
+    mission towards AI safety and research.
+  key_quotes:
+  - quote: Our goal is to make progress on these issues through research.
+    speaker: Daniela Amodei
+    context: ''
+- title: AI Safety and Research Goals
+  summary: The Amodeis elaborate on their research strategy focused on steering AI
+    systems and mitigating risks associated with them.
+  key_quotes:
+  - quote: '"We''re building steerable, interpretable, and reliable systems with humans
+      at the center."'
+    speaker: Dario Amodei
+    context: ''
+- title: AI Alignment with Human Values
+  summary: The discussion includes the importance of aligning AI systems with human
+    values and ethical considerations.
+  key_quotes:
+  - quote: Aiming to make systems that are helpful, honest, and harmless.
+    speaker: Daniela Amodei
+    context: ''
+- title: Public Benefit Corporation
+  summary: The founders explain the structure of Anthropic as a public benefit corporation
+    and its implications for AI research.
+  key_quotes:
+  - quote: In a PBC, we have legal protections from shareholders if the company fails
+      to maximize financial interests.
+    speaker: Dario Amodei
+    context: ''
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: The organization behind the podcast.
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Predictability and Surprise in Generative Models
+  authors:
+  - Daniela Amodei
+  - Dario Amodei
+  year: 2022
+  url: ''
+  key_findings: The paper discusses the unpredictability in current AI models and
+    suggests methods for AI risk management.
+  context: Discussed in relation to measuring safety in AI systems.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Princeton University
+    location: New Jersey, USA
+    context: Dario Amodei obtained his PhD in biophysics from Princeton.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Former employer of both Daniela and Dario, significant in their career
+      trajectories.
+  - name: Stripe
+    industry: Financial Technology
+    context: Daniela worked there before founding Anthropic.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and policy advocacy
+    context: Organizer of the podcast.
+notable_people:
+  academics:
+  - name: Chris Olah
+    institution: Anthropic
+    field: AI Interpretability
+    context: Notable contributor to the interpretability research discussed.
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Worked alongside Dario and Daniela at OpenAI.
+projects_mentioned:
+- name: AI Risk Management Framework
+  organization: NIST
+  description: Developing standards for AI risk management.
+  status: Ongoing
+  url: ''
+  context: Anthropic is supporting NIST in this initiative.
+events:
+  historical:
+  - name: '"OpenAI''s GPT-3 Release"'
+    date: '2020-06-11'
+    significance: Signified major advancements in language models.
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Safety
+- AGI
+- Public Benefit Corporation
+categories:
+- Technology
+- Artificial Intelligence
+- Research
+intended_audience: AI researchers, policymakers, and general tech enthusiasts.
+expertise_level: Intermediate
+recommended_reading:
+- title: AI Safety Research
+  url: '"https://anthropic.com"'
+  type: Website
+  relevance: '"Explore more about Anthropic''s work on AI safety."'
+action_items:
+- Consider following Anthropic and keeping up with their research developments.
+controversial_topics:
+- topic: The ethics of AI deployment
+  different_viewpoints:
+  - perspective: AI can bring positive societal change.
+    proponents: Industry leaders, some researchers.
+    key_arguments: AI improves efficiency and can solve complex problems.
+  - perspective: AI poses risks to society.
+    proponents: Ethicists, safety researchers.
+    key_arguments: Unpredictable behavior and potential for misuse presents serious
+      risks.

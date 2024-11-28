@@ -1,0 +1,167 @@
+title: AI Breakthroughs and Challenges in 2018 with David Krueger and Roman Yampolskiy
+original_url: '"https://zencastr.com/z/-9u0nq1f"'
+date_published: '2019-01-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Roman Yampolskiy
+  affiliation: University of Louisville
+  title: AI Safety Researcher and Professor
+  bio: Roman Yampolskiy is a professor at the University of Louisville specializing
+    in AI safety and security.
+  expertise_areas:
+  - Artificial Intelligence
+  - Safety and Security
+- name: David Krueger
+  affiliation: University of Montreal
+  title: PhD Candidate
+  bio: David Krueger is a PhD candidate working on deep learning and AI safety at
+    the Miele Lab, University of Montreal.
+  expertise_areas:
+  - Deep Learning
+  - AI Safety
+synopsis: In this episode, host Arielle Kahn discusses the key AI breakthroughs of
+  2018 with researchers Roman Yampolskiy and David Krueger, exploring themes of progress,
+  media representation, and the societal implications of AI technologies.
+key_topics:
+- AI Breakthroughs in 2018
+- Ethics and Policy in AI
+- Generative Adversarial Networks (GANs)
+- AI Safety
+- Deepfakes
+tags:
+- AI
+- Technology
+- Ethics
+- Safety
+key_points:
+- 2018 saw continuous progress in AI rather than unexpected breakthroughs.
+- AI advancements were less publicized despite their importance.
+- Bruises of media coverage influence public perception of AI developments.
+- Deepfakes pose significant ethical and societal challenges.
+- Regulatory responses like GDPR had a global impact, highlighting concerns regarding
+  data privacy.
+segments:
+- title: Reviewing AI Breakthroughs of 2018
+  summary: The discussion begins with an overview of AI developments in 2018, highlighting
+    how they were more about gradual improvements than surprising breakthroughs.
+  key_quotes:
+  - quote: 2018 was more about impressive progress and less about major breakthroughs.
+    speaker: Roman Yampolskiy
+    context: Discussing the nature of AI advancements in the past year.
+- title: AI Safety and Societal Implications
+  summary: The segment covers safety concerns associated with AI technologies, including
+    deepfakes and the implications of AI advancement on trust and misinformation.
+  key_quotes:
+  - quote: If you can accurately predict this, possibilities are really endless.
+    speaker: Roman Yampolskiy
+    context: Discussing potential breakthroughs in protein folding related to AI.
+- title: Ethical Implications of AI-generated Media
+  summary: The conversation transitions to the ethical concerns regarding the creation
+    of deepfakes and the broader implications on society.
+  key_quotes:
+  - quote: The media is terrible in terms of what they report.
+    speaker: David Krueger
+    context: Highlighting issues with media perception of AI breakthroughs.
+websites_referenced:
+- url: '"https://www.deeplearning.ai"'
+  name: DeepLearning.AI
+  context: Resource on advancements and technical insights in AI.
+  access_date: null
+tools_mentioned:
+- name: Google Duplex
+  url: ''
+  description: An AI assistant capable of making phone calls and setting appointments.
+  context: Highlighted as an example of AI technology pushing ethical boundaries.
+research_papers:
+- title: Artificial Intelligence, Safety and Security
+  authors:
+  - Roman Yampolskiy
+  year: 2018
+  url: '"https://www.amazon.com/Artificial-Intelligence-Safety-Security/dp/3030014385"'
+  key_findings: Discusses AI safety and security implications in-depth.
+  context: '"Roman''s book that was referenced during the podcast."'
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of Louisville
+    location: Louisville, KY
+    context: Home to AI safety researcher Roman Yampolskiy.
+  - name: University of Montreal
+    location: Montreal, Canada
+    context: Institution represented by PhD candidate David Krueger.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Involved in significant AI research on protein folding and games.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety
+    context: Host organization promoting discussions on AI challenges.
+notable_people:
+  academics:
+  - name: Arielle Kahn
+    institution: Future of Life Institute
+    field: AI Ethics
+    context: Host of the podcast facilitating expert discussions.
+  - name: Stuart Russell
+    institution: University of California, Berkeley
+    field: Artificial Intelligence
+    context: Mentioned regarding safe AI systems.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: QT-Opt
+  organization: OpenAI
+  description: A project demonstrating deep reinforcement learning for robotics.
+  status: Completed with notable results.
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: General Data Protection Regulation (GDPR) implementation
+    date: '2018-05-25'
+    significance: Significantly impacted data privacy practices worldwide.
+    context: Discussed regarding its influence on AI and data privacy.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Safety
+- Breakthroughs
+- Deepfakes
+- Ethics
+categories:
+- Technology
+- Artificial Intelligence
+- Research
+- Ethics
+intended_audience: AI researchers, policymakers, and the general public interested
+  in technology and ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: Artificial Intelligence, Safety and Security
+  url: '"https://www.amazon.com/Artificial-Intelligence-Safety-Security/dp/3030014385"'
+  type: Book
+  relevance: In-depth exploration of AI safety and security challenges.
+action_items:
+- Consider implications of AI advancements on society and ethics in future research.
+- Stay informed on regulatory developments related to AI technology.
+controversial_topics:
+- topic: Deepfakes and Ethical Use of AI
+  different_viewpoints:
+  - perspective: Deepfakes pose risks to misinformation and privacy.
+    proponents: AI safety researchers and ethicists.
+    key_arguments: They can manipulate public perception and erode trust in media.
+  - perspective: AI advancements can bring beneficial technology if guided correctly.
+    proponents: AI developers and tech optimists.
+    key_arguments: They can enhance creativity and efficiency across sectors.

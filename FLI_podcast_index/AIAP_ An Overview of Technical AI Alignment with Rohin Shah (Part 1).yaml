@@ -1,0 +1,175 @@
+title: '"AIAP: An Overview of Technical AI Alignment with Rohin Shah (Part 1)"'
+original_url: '"https://zencastr.com/z/OoecvF73"'
+date_published: '2019-04-11'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Rohan Shah
+  affiliation: UC Berkeley, Center for Human Compatible AI
+  title: PhD Student
+  bio: Rohan Shah is a 4th year PhD student in Computer Science focusing on AI alignment,
+    working with notable researchers in the field.
+  expertise_areas:
+  - AI alignment
+  - Machine learning
+  - Human-compatible AI
+synopsis: In this episode, Lucas Perry interviews Rohan Shah, discussing the state
+  of AI alignment, various technical research organizations, methodologies, and philosophies
+  aimed at achieving beneficial AGI.
+key_topics:
+- Technical AI alignment
+- Research organizations
+- Value learning
+- AGI safety
+- AI methodologies
+tags:
+- AI Alignment
+- AGI
+- Machine Learning
+key_points:
+- Overview of major organizations in AI alignment
+- Discussion of different methodologies such as value learning and iterated amplification
+- Emphasis on the importance of goal alignment in AI systems
+segments:
+- title: Introduction and Episode Overview
+  summary: '"Lucas introduces the podcast and the episode''s focus on AI alignment,
+    mentioning the purpose of the guest''s survey."'
+  key_quotes:
+  - quote: I would love for this podcast to be particularly useful and informative
+      for its listeners.
+    speaker: Lucas Perry
+    context: Introduction
+- title: Different Approaches to AI Alignment
+  summary: Rohan discusses the different organizations and their methodologies related
+    to AI alignment, including CHI and their perspective on aligning AI systems with
+    human values.
+  key_quotes:
+  - quote: '"How do we get AI systems to do what we want?"'
+    speaker: Rohan Shah
+    context: '"Discussing CHI''s approach"'
+- title: Safety Teams at DeepMind and OpenAI
+  summary: Rohan characterizes the efforts of DeepMind and OpenAI in AI alignment
+    and safety, including the work of notable researchers.
+  key_quotes:
+  - quote: The DeepMind Safety Team is split across many different ways of looking
+      at the problem.
+    speaker: Rohan Shah
+    context: '"On DeepMind''s approach to alignment"'
+- title: '"Challenges in AI Alignment: Stability and Utility Functions"'
+  summary: Discussion on the complexities of maintaining stability in utility functions
+    and the broad strokes understanding of intelligence necessary for alignment.
+  key_quotes:
+  - quote: We need our guarantees to be really, really strong, like almost proof level.
+    speaker: Rohan Shah
+    context: On the challenges of AI stability
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Organization promoting the responsible development of technology.
+  access_date: null
+tools_mentioned:
+- name: Alignment Forum
+  url: '"https://alignmentforum.org/"'
+  description: Platform for discussing AI alignment research and methodologies.
+  context: Recommended resource for further exploration in AI alignment.
+research_papers:
+- title: Deep Reinforcement Learning from Human Preferences
+  authors:
+  - Dylan Hadfield-Menell
+  - Alfredo T. Pérez
+  - Others
+  year: 2017
+  url: '"https://arxiv.org/abs/1706.03741"'
+  key_findings: Introduces a method for training AI systems using preferences expressed
+    by humans.
+  context: Relevant to discussions on AI systems learning user values.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: UC Berkeley
+    location: Berkeley, CA
+    context: '"Rohan Shah''s affiliated institution."'
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Research organization focusing on AI safety and alignment.
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Research organization dedicated to ensuring AGI benefits all of humanity.
+  non_profits:
+  - name: Future of Life Institute (FLI)
+    focus_area: Technology safety
+    context: Organization supporting AI safety initiatives.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: UC Berkeley
+    field: AI alignment and safety
+    context: Influential researcher in AI safety.
+  - name: Eric Drexler
+    institution: Machine Intelligence Research Institute (MIRI)
+    field: AI timelines and safety
+    context: Noted for technical reports on AI development.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Beneficial AGI Conference
+    date: null
+    significance: Gathering for discussing the future and methodologies for beneficial
+      AGI.
+    context: '"Referenced in the context of Rohan''s talk."'
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI alignment
+- AGI safety
+- Technical methodologies
+categories:
+- Artificial Intelligence
+- Research
+intended_audience: Researchers and enthusiasts in AI alignment and safety
+expertise_level: Intermediate
+recommended_reading:
+- title: Iterated Amplification
+  url: '"https://arxiv.org/abs/2009.03457"'
+  type: Research paper
+  relevance: Details on the approach to AI alignment.
+action_items:
+- Complete the survey linked in the podcast description for feedback purposes.
+controversial_topics:
+- topic: AI Alignment Methodologies
+  different_viewpoints:
+  - perspective: Different groups emphasize distinct methodologies and philosophies.
+    proponents: Rohan Shah, Stuart Russell, Eric Drexler
+    key_arguments: Disagreements on the efficacy and focus of various AI alignment
+      techniques.

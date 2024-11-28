@@ -1,0 +1,179 @@
+title: Roman Yampolskiy on Shoggoth, Scaling Laws, and Evidence for AI being Uncontrollable
+original_url: '"https://zencastr.com/z/8FHlSjsS"'
+date_published: '2024-02-02'
+host:
+  name: Gus Docker
+  affiliation: Future of Life Institute
+guests:
+- name: Roman Jampolskiy
+  affiliation: University of Louisville
+  title: Professor of Computer Science
+  bio: Roman Jampolskiy is a professor in the computer science department and is known
+    for his work on AI safety and predictability.
+  expertise_areas:
+  - Artificial Intelligence
+  - AI Safety
+  - Ethics of AI
+synopsis: '"In this episode, Roman Jampolskiy discusses the themes surrounding his
+  forthcoming book ''AI Unexplainable, Unpredictable, Uncontrollable.'' The conversation
+  delves into AI complexity, risks, ethical implications, and the fundamental unpredictability
+  and unexplainability of advanced AI systems."'
+key_topics:
+- AI Complexity and Risks
+- Moral and Ethical Implications of AI
+- AI Capabilities and Limitations
+- Unexplainability and Verification of AI
+- '"AI''s Self-Interpretability"'
+tags:
+- AI Safety
+- Ethics
+- Unpredictability
+key_points:
+- The Shoggoth meme serves as a metaphor for how AI systems can appear safe while
+  being fundamentally uncontrollable.
+- '"AI''s unpredictability raises moral questions about its deployment and the risks
+  involved."'
+- Current AI systems lack the capability for explainability and predictability, complicating
+  safety assessments.
+- There is skepticism regarding whether scaled AI can be controlled or understood
+  fully.
+segments:
+- title: Introduction and Book Overview
+  summary: The host introduces Roman Jampolskiy and the main themes of his upcoming
+    book, including the symbolism of the Shoggoth.
+  key_quotes:
+  - quote: '"The idea is that we have this role model, a monster, really just we know
+      it''s nasty."'
+    speaker: Roman Jampolskiy
+    context: Discussing the symbolism of the Shoggoth in relation to AI.
+- title: AI Complexity and Risks
+  summary: The conversation shifts to discuss the complexities and risks associated
+    with modern AI systems, including the notion that higher AI capability correlates
+    with greater unpredictability.
+  key_quotes:
+  - quote: As it gets more capable, the impact from mistakes, accidents, errors will
+      become proportionately larger.
+    speaker: Roman Jampolskiy
+    context: Explaining the risks associated with increasingly capable AI.
+- title: Moral and Ethical Implications of AI
+  summary: Talk about the ethical considerations of deploying AI systems that might
+    exceed acceptable risk thresholds.
+  key_quotes:
+  - quote: '"What level of confidence do you need to decide to run the system? To
+      me, it has to be basically 100% safety."'
+    speaker: Roman Jampolskiy
+    context: Discussing the moral standards for AI deployment.
+- title: AI Capabilities and Limitations
+  summary: Roman outlines the challenges in predicting AI behavior and the implication
+    of scaling laws in AI development.
+  key_quotes:
+  - quote: As long as we have enough compute and enough to train on, yeah, it will
+      keep getting more capable.
+    speaker: Roman Jampolskiy
+    context: Discussing the implications of training data on AI capabilities.
+- title: '"AI''s Unexplainability and Science"'
+  summary: The difficulty of explaining AI systems and the limitations of human understanding
+    come into focus.
+  key_quotes:
+  - quote: All those results are, of course, connected...you can find one relies on
+      another.
+    speaker: Roman Jampolskiy
+    context: Explaining the interconnectedness of AI interpretability research.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: AI Unexplainable, Unpredictable, Uncontrollable
+  authors:
+  - Roman Jampolskiy
+  year: null
+  isbn: ''
+  context: '"Roman''s upcoming book exploring the unpredictability and uncontrollability
+    of AI systems."'
+organizations:
+  academic_institutions:
+  - name: University of Louisville
+    location: Louisville, KY, USA
+    context: Where Roman Jampolskiy is a professor.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Promoting safe and beneficial AI.
+    context: Organization hosting the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Roman Jampolskiy
+    institution: University of Louisville
+    field: Computer Science and AI Safety
+    context: Discussing AI risks and ethics.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI
+- Ethics
+- Safety
+- Unpredictability
+categories:
+- Technology
+- Artificial Intelligence
+- Ethics
+intended_audience: Individuals interested in AI technology, ethics, and future implications.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- ''
+controversial_topics:
+- topic: Uncontrollability of AI
+  different_viewpoints:
+  - perspective: AI can be controlled through regulations and ethical standards.
+    proponents: Some industry leaders and researchers.
+    key_arguments: Proper governance and frameworks can ensure AI safety.
+  - perspective: AI is inherently uncontrollable due to its complexity and unpredictability.
+    proponents: Roman Jampolskiy and many safety advocates.
+    key_arguments: Fundamental limitations in predictability and safety criteria.

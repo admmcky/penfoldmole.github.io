@@ -1,0 +1,157 @@
+title: '"AIAP: Moral Uncertainty and the Path to AI Alignment with William MacAskill"'
+original_url: '"https://zencastr.com/z/rmhGOBYw"'
+date_published: '2018-09-18'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: William MacAskill
+  affiliation: University of Oxford, Center for Effective Altruism
+  title: Professor of Philosophy
+  bio: William MacAskill is a professor of philosophy at the University of Oxford
+    and co-founder of the Center for Effective Altruism. He focuses on moral uncertainty,
+    ethics, and decision theory.
+  expertise_areas:
+  - Moral philosophy
+  - Effective altruism
+  - Metaethics
+  - Decision theory
+synopsis: In this episode, William MacAskill discusses moral uncertainty, its implications
+  for AI alignment, and how ethics can be applied to ensure that AI systems reflect
+  human values.
+key_topics:
+- Moral uncertainty
+- AI alignment
+- Ethics in decision-making
+- Metaethics
+- Effective altruism
+tags:
+- AI alignment
+- philosophy
+- ethics
+- effective altruism
+key_points:
+- Moral uncertainty is a critical issue that needs addressing in the context of AI
+  alignment.
+- Philosophy plays a vital role in understanding ethics and its impact on AI systems.
+- Incorporating a moral framework into AI design is essential for ensuring alignment
+  with human values.
+segments:
+- title: Introduction to Moral Uncertainty
+  summary: William MacAskill introduces his work on moral uncertainty, explaining
+    its relevance and the philosophical underpinnings.
+  key_quotes:
+  - quote: '"Ethics is a really hard subject. There''s tons of disagreement."'
+    speaker: William MacAskill
+    context: Discussing the complexities of moral philosophy.
+- title: Moral Realism vs. Nihilism
+  summary: The discussion shifts to different views on morals, where MacAskill contrasts
+    moral realism with nihilism.
+  key_quotes:
+  - quote: '"It''s better to talk about degrees of belief rather than absolute belief."'
+    speaker: William MacAskill
+    context: On how to approach moral positions.
+- title: AI Alignment and Ethical Considerations
+  summary: The conversation delves into AI alignment and how moral philosophy intersects
+    with technology and human values.
+  key_quotes:
+  - quote: We need to think more if we want to get to the actual ethical truth.
+    speaker: William MacAskill
+    context: Highlighting the importance of resolving ethical questions for guiding
+      AI behavior.
+websites_referenced:
+- url: '"http://centreforeffectivealtruism.org"'
+  name: Center for Effective Altruism
+  context: An organization co-founded by William MacAskill focused on using evidence
+    and reason to figure out how to benefit others as much as possible.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Expected Utility Theory
+  url: ''
+  description: A decision-making framework used to analyze the rational choices under
+    uncertainty.
+  context: Discussed in relation to applying empirical reasoning in moral areas.
+research_papers:
+- title: Moral Uncertainty
+  authors:
+  - William MacAskill
+  - Toby Ord
+  - Christa Bikvist
+  year: 2023
+  url: ''
+  key_findings: The paper discusses frameworks for making decisions under moral uncertainty.
+  context: Referenced in the context of developing ideas on moral reasoning.
+books_referenced:
+- title: Moral Uncertainty
+  authors:
+  - William MacAskill
+  year: null
+  isbn: ''
+  context: Upcoming book on moral uncertainty discussed by MacAskill.
+organizations:
+  academic_institutions:
+  - name: University of Oxford
+    location: Oxford, UK
+    context: Where William MacAskill is a professor.
+  companies: []
+  non_profits:
+  - name: Center for Effective Altruism
+    focus_area: Effective altruism advocacy and research.
+    context: A movement co-founded by MacAskill.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Peter Singer
+    institution: Princeton University
+    field: Philosophy
+    context: Influential in the effective altruism movement.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: 80,000 Hours
+  organization: ''
+  description: A project focused on helping people have a positive impact with their
+    careers.
+  status: Active
+  url: '"https://80000hours.org"'
+  context: Mentioned in relation to effective altruism.
+events:
+  historical:
+  - name: '"Publication of ''Moral Uncertainty''"'
+    date: '2005-01-01'
+    significance: Earliest comprehensive work on the topic of moral uncertainty.
+    context: Sets the stage for current discussions.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- moral philosophy
+- ethical decision-making
+- AI safety
+categories:
+- Philosophy
+- Artificial Intelligence
+- Ethics
+intended_audience: Researchers, philosophers, AI practitioners, and individuals interested
+  in ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Effective Altruism: How Can We Do Good Better?"'
+  url: '"https://www.effectivealtruism.org/"'
+  type: website
+  relevance: Provides resources for understanding effective altruism.
+action_items:
+- Explore further readings on moral uncertainty.
+- Engage with AI ethics discussions in communities.
+controversial_topics:
+- topic: Moral Realism vs. Anti-Realism
+  different_viewpoints:
+  - perspective: Moral realism provides objective moral truths.
+    proponents: William MacAskill
+    key_arguments: Offers a framework for understanding morality objectively.
+  - perspective: Moral anti-realism argues that moral values are subjective.
+    proponents: Several modern ethical theorists
+    key_arguments: Suggests that moral truths depend on personal or cultural perspectives.

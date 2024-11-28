@@ -1,0 +1,175 @@
+title: '"Not Cool Ep 11: Jakob Zscheischler on climate-driven compound weather events"'
+original_url: '"https://zencastr.com/z/xTexvzSe"'
+date_published: '2019-10-03'
+host:
+  name: Unknown
+  affiliation: Not Cool Podcast
+guests:
+- name: Jakob Geschler
+  affiliation: Unknown
+  title: Earth System Scientist
+  bio: Jakob Geschler is an earth system scientist who specializes in climate science,
+    emphasizing compound weather events.
+  expertise_areas:
+  - Climate Science
+  - Biogeochemistry
+  - Statistical Approaches
+synopsis: This episode features Jakob Geschler discussing the implications of climate-driven
+  compound weather events, their increasing frequency due to climate change, and the
+  challenges in modeling their impacts.
+key_topics:
+- Compound Weather Events
+- Carbon Cycle
+- Modeling Climate Risks
+- Extreme Weather Events
+tags:
+- Climate Change
+- Weather Events
+- Environmental Science
+key_points:
+- Compound events, such as simultaneous droughts and heatwaves, can significantly
+  affect carbon absorption rates.
+- Current models may underestimate the risk of extreme weather if they ignore the
+  correlation between different weather events.
+- Transdisciplinary approaches are required to better study and mitigate the impacts
+  of climate dynamics.
+segments:
+- title: Understanding the Carbon Cycle
+  summary: Jakob discusses the carbon cycle and its vulnerability to climate change,
+    particularly focusing on how droughts and heat impact carbon uptake.
+  key_quotes:
+  - quote: The land biosphere takes up a lot of carbon every year and also releases
+      carbon.
+    speaker: Jakob Geschler
+    context: '"Discussion of the carbon cycle''s mechanisms and effects of climate
+      change."'
+- title: Extreme Weather Events
+  summary: The conversation shifts to define extreme weather events, focusing on the
+    risks posed by their combinations, such as droughts and heat.
+  key_quotes:
+  - quote: Extreme events occur in the tail of the distribution; above the 90th percentile,
+      typically.
+    speaker: Jakob Geschler
+    context: Defining extreme weather events in the context of climate statistics.
+- title: Predicting Future Risks
+  summary: Jakob explains the need for better statistical models to predict risks
+    associated with compound events.
+  key_quotes:
+  - quote: We need to ensure that our models represent the current risk of compound
+      events adequately.
+    speaker: Jakob Geschler
+    context: Commenting on the challenges of modeling climate risks effectively.
+- title: The Damocles Project
+  summary: Jakob highlights the Damocles project, which aims to promote research collaboration
+    on compound weather events.
+  key_quotes:
+  - quote: In Damocles, we try to bring together climate modelers, impact modelers,
+      and stakeholders.
+    speaker: Jakob Geschler
+    context: Discussing the goals of the multi-disciplinary research project.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Damocles Project
+  url: ''
+  description: A European network aimed at understanding compound weather events.
+  context: '"Jakob''s work highlights the importance of collaboration in climate research."'
+research_papers:
+- title: The interaction of heat and drought in the context of carbon uptake
+  authors:
+  - Jakob Geschler
+  year: 2017
+  url: ''
+  key_findings: Ignoring the dependency between extreme events can significantly underestimate
+    their risks.
+  context: Discussion on modeling risks associated with compounding events.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Columbia University
+    location: New York, USA
+    context: Hosted a workshop on correlated extremes.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Radley Horton
+    institution: Columbia University
+    field: Climate Science
+    context: Organized a workshop on compound weather events.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Damocles Project
+  organization: ''
+  description: A project aimed at improving understanding and research on compound
+    events.
+  status: ''
+  url: ''
+  context: Enables collaboration across various fields to tackle climate issues.
+events:
+  historical:
+  - name: Russian Heat Wave and Drought
+    date: 2010
+    significance: Resulted in significant agricultural losses and health impacts due
+      to combined weather extremes.
+    context: Jakob used this as a case study to highlight the impacts of compound
+      weather events.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Climate Change
+- Extreme Weather
+- Research Collaboration
+categories:
+- Climate Science
+- Environmental Policy
+intended_audience: Individuals interested in climate science and policy
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Advocate for policies that address climate change, including the introduction of
+  a carbon tax.
+controversial_topics:
+- topic: Effectiveness of Current Climate Models
+  different_viewpoints:
+  - perspective: Current models adequately predict risks.
+    proponents: Some climate scientists.
+    key_arguments: Models focus on single variables rather than compound events.
+  - perspective: Current models underestimate risks.
+    proponents: Jakob Geschler and others.
+    key_arguments: Need to account for dependencies between climate variables.

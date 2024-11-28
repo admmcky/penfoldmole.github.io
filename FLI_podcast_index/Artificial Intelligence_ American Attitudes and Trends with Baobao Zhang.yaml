@@ -1,0 +1,148 @@
+title: '"Artificial Intelligence: American Attitudes and Trends with Baobao Zhang"'
+original_url: '"https://zencastr.com/z/oIL-cNGf"'
+date_published: '2019-01-25'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Baobao Zhang
+  affiliation: Yale University
+  title: PhD candidate
+  bio: Baobao Zhang is a PhD candidate in political science at Yale University and
+    a research affiliate with the Center for the Governance of AI at the University
+    of Oxford.
+  expertise_areas:
+  - AI governance
+  - Public policy
+synopsis: In this episode, Arielle Kahn interviews Baobao Zhang about her recent survey,
+  which explores American attitudes towards artificial intelligence. The discussion
+  highlights public concerns about AI governance, perceptions of AI development timelines,
+  and trust in various actors involved in AI research and implementation.
+key_topics:
+- American attitudes towards AI
+- AI governance challenges
+- Public perceptions of AI development timelines
+- Trust in AI development actors
+tags:
+- Artificial Intelligence
+- Public Perception
+- Governance
+- Survey Research
+key_points:
+- '"82% of Americans believe AI should be carefully managed."'
+- Public perceptions of high-level machine intelligence development timelines differ
+  from expert predictions.
+- Concerns about data privacy and digital manipulation are among the top AI governance
+  challenges.
+segments:
+- title: Introduction and Overview of Survey
+  summary: Arielle introduces the podcast and Baobao explains the motivation behind
+    the AI survey, which aimed to understand American views on AI.
+  key_quotes:
+  - quote: We believe that AI will impact all aspects of society and therefore the
+      public is a key stakeholder.
+    speaker: Baobao Zhang
+    context: Discussion about the rationale for conducting the survey.
+- title: Key Findings on AI Governance and Development
+  summary: Baobao outlines critical findings from the survey regarding public support
+    for AI development and governance challenges perceived by Americans.
+  key_quotes:
+  - quote: Americans express mixed support for developing AI.
+    speaker: Baobao Zhang
+    context: Overview of survey results on support for AI development.
+- title: Public vs. Expert AI Timelines
+  summary: The segment discusses discrepancies between public expectations and expert
+    forecasts regarding the timeline for high-level machine intelligence.
+  key_quotes:
+  - quote: '"The median respondent predicts a 54% probability of high-level machine
+      intelligence being developed within the next 10 years."'
+    speaker: Baobao Zhang
+    context: Comparison of public expectations of AI advancement.
+- title: Trust in AI Development Actors
+  summary: The conversation highlights trust levels among various entities involved
+    in AI development, with university researchers and the US military being the most
+    trusted.
+  key_quotes:
+  - quote: University researchers and the US military are the most trusted institutions.
+    speaker: Baobao Zhang
+    context: Discussion on public trust levels in various AI development actors.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: The organization specializing in the responsible development of AI and
+    technology.
+  access_date: null
+tools_mentioned: []
+research_papers:
+- title: '"Artificial Intelligence: American Attitudes and Trends"'
+  authors:
+  - Baobao Zhang
+  - Alan Despo
+  year: 2019
+  url: ''
+  key_findings: Major governance challenges identified include data privacy, AI-assisted
+    surveillance, and manipulation of public information.
+  context: The findings from the survey conducted in June 2018.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Yale University
+    location: New Haven, CT
+    context: Baobao Zhang is affiliated as a PhD candidate in political science.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Promoting the responsible use of technology.
+    context: Host organization for the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Baobao Zhang
+    institution: Yale University
+    field: Political Science
+    context: Lead author of the report on American attitudes towards AI.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Center for the Governance of AI
+  organization: University of Oxford
+  description: Research center focusing on the governance and management of AI technologies.
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Cambridge Analytica Scandal
+    date: null
+    significance: Increased public distrust of Facebook and tech companies.
+    context: Referencing public sentiment towards digital privacy.
+  upcoming: []
+keywords:
+- AI
+- Public Opinion
+- Governance
+- Survey
+categories:
+- Technology
+- Public Policy
+intended_audience: Researchers, policy makers, and the general public interested in
+  AI governance.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"AI Governance: An Overview"'
+  url: ''
+  type: article
+  relevance: Provides additional context on governance challenges in AI.
+action_items:
+- Encourage further research into public perceptions and misperceptions of AI.
+controversial_topics:
+- topic: Trust in AI Development
+  different_viewpoints:
+  - perspective: High Trust in Military AI Development
+    proponents: General Public
+    key_arguments: High levels of trust in the US military to develop AI despite concerns
+      about military applications and governance.
+  - perspective: Low Trust in Tech Companies
+    proponents: General Public
+    key_arguments: Particularly low trust in Facebook, reflecting significant public
+      concern over data privacy issues.

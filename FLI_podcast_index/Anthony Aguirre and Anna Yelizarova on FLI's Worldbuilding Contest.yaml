@@ -1,0 +1,141 @@
+title: '"Anthony Aguirre and Anna Yelizarova on FLI''s Worldbuilding Contest"'
+original_url: '"https://zencastr.com/z/ymbzRiPk"'
+date_published: '2022-02-09'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Anthony Aguirre
+  affiliation: Future of Life Institute
+  title: Co-Director
+  bio: Co-Director at the Future of Life Institute focusing on AI and existential
+    risks.
+  expertise_areas:
+  - Artificial Intelligence
+  - Existential Risk
+  - Worldbuilding
+- name: Anna Yelizarova
+  affiliation: Future of Life Institute
+  title: Project Manager
+  bio: Project Manager at the Future of Life Institute, involved in initiatives for
+    safe AI.
+  expertise_areas:
+  - AI Safety
+  - Project Management
+  - Worldbuilding
+synopsis: '"The episode explores the Future of Life Institute''s worldbuilding contest,
+  discussing the importance of creating aspirational visions for the future that include
+  advancements in AI. Host Lucas Perry speaks with Anthony Aguirre and Anna Yelizarova
+  about the contest''s goals, structure, and submission requirements."'
+key_topics:
+- Worldbuilding
+- Artificial General Intelligence (AGI)
+- Aspirational Futures
+- Existential Risks
+tags:
+- AI
+- Future Planning
+- Creativity
+- Worldbuilding Contest
+key_points:
+- The contest invites global teams to create plausible futures for 2045.
+- Focus on building imaginative, non-dystopian worlds that inspire positive change.
+- Contest entries include timelines, short stories, responses to questions, and non-text
+  media.
+segments:
+- title: Introduction to the Contest
+  summary: Overview of the FLI Worldbuilding Contest and its objectives.
+  key_quotes:
+  - quote: The goal of this contest is to invent a fictitious world that exists in
+      2045.
+    speaker: Anthony Aguirre
+    context: '"Describing the contest''s ambitions."'
+- title: Defining Worldbuilding
+  summary: Exploring the concept of worldbuilding and its significance in storytelling
+    and future planning.
+  key_quotes:
+  - quote: World building is the process of constructing a fictitious world in which
+      a story takes place.
+    speaker: Anthony Aguirre
+    context: Explaining what worldbuilding involves.
+- title: Contest Rules and Structure
+  summary: Details about the structure and rules of the worldbuilding contest.
+  key_quotes:
+  - quote: '"For the contest, you have to submit four elements: a timeline, short
+      stories, answers to questions, and a piece of non-text media."'
+    speaker: Anna Yelizarova
+    context: Outlining submission requirements.
+- title: Prizes and Participation
+  summary: Information about the prizes available for winners and the encouragement
+    for team participation.
+  key_quotes:
+  - quote: The first prize is $20,000, and we encourage teams to enter for larger
+      prize amounts.
+    speaker: Anna Yelizarova
+    context: Discussing incentives for team participation.
+websites_referenced:
+- url: '"https://worldbuild.ai"'
+  name: FLI Worldbuilding Contest
+  context: Official site for contest rules and submissions.
+  access_date: null
+tools_mentioned:
+- name: Discord
+  url: '"https://discord.com"'
+  description: A platform for community discussion and team formation.
+  context: Used to facilitate communication among contest entrants.
+research_papers: []
+books_referenced: []
+organizations:
+  academic_institutions: []
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety
+    context: Organization focused on ensuring that technology benefits humanity.
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: World Building Contest
+  organization: Future of Life Institute
+  description: A competition inviting teams to create aspirational worlds for 2045.
+  status: Ongoing
+  url: '"https://worldbuild.ai"'
+  context: Designed to engage diverse participants in envisioning positive futures.
+events:
+  historical: []
+  upcoming:
+  - name: Contest Submission Deadline
+    date: '2022-04-15'
+    location: ''
+    description: Final date for submitting entries to the FLI Worldbuilding Contest.
+    url: ''
+keywords:
+- Worldbuilding
+- Artificial Intelligence
+- Creativity
+- Futures
+- FLI
+categories:
+- Technology
+- Creativity
+- AI Ethics
+intended_audience: Individuals interested in AI, creativity, storytelling, and future
+  planning.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Visit worldbuild.ai for contest details and submission guidelines.
+- Join the FLI Discord community to connect with potential team members.
+controversial_topics:
+- topic: Dystopian vs. Aspirational Futures
+  different_viewpoints:
+  - perspective: Focus on creating hopeful future visions.
+    proponents: Anthony Aguirre, Anna Yelizarova
+    key_arguments: Society should invest time in imagining non-dystopian futures to
+      inspire positive action.
+  - perspective: Caution against idealistic futures.
+    proponents: ''
+    key_arguments: Importance of addressing potential existential risks realistically.

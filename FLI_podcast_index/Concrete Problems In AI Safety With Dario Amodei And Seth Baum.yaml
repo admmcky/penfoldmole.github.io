@@ -1,0 +1,146 @@
+title: Concrete Problems In AI Safety With Dario Amodei And Seth Baum
+original_url: '"https://zencastr.com/z/uCmdIvDt"'
+date_published: 2016-08-30
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Dario Amodei
+  affiliation: OpenAI
+  title: Research Scientist
+  bio: Dario Amodei has a background in AI safety research and has published significant
+    works while at Google Brain, focusing on the implications of AI development.
+  expertise_areas:
+  - AI Safety
+  - Machine Learning
+- name: Seth Baum
+  affiliation: Global Catastrophic Risk Institute
+  title: Executive Director
+  bio: '"Seth Baum''s research focuses on ensuring AI safety and addressing the long-term
+    risks associated with advanced AI technologies."'
+  expertise_areas:
+  - Global Catastrophic Risks
+  - AI Safety Policy
+synopsis: This episode explores the challenges and complexities surrounding AI safety,
+  with Dario Amodei and Seth Baum discussing their insights from AI research and safety
+  mechanisms necessary to mitigate potential risks.
+key_topics:
+- AI Safety Research
+- Short-term vs Long-term AI Risks
+- Concrete Problems in AI Safety
+tags:
+- AI
+- Safety
+- Machine Learning
+key_points:
+- The need for addressing both short-term and long-term AI safety concerns.
+- Five concrete problems in AI safety outlined by Dario Amodei.
+- Importance of empirical research in understanding AI risks.
+segments:
+- title: Introduction to AI Research Focus
+  summary: Arielle Kahn recounts the discussions from AI symposia, highlighting a
+    common resistance regarding long-term AI concerns.
+  key_quotes:
+  - quote: '"It seems like a really strange stance to me that we shouldn''t try to
+      solve a current problem now so that it doesn''t crop up again in the future."'
+    speaker: Arielle Kahn
+    context: Discussing the attitudes of researchers towards long-term AI safety issues.
+- title: Challenges in AI Safety
+  summary: '"Dario Amodei shares real-world examples of AI failures, including bias
+    in Google''s photo system."'
+  key_quotes:
+  - quote: '"Machines can lack context... but the classifier that''s produced by the
+      machines can be something that has some very bad real world impacts."'
+    speaker: Dario Amodei
+    context: Discussing the implications of AI systems failing to understand context.
+- title: Concrete Problems in AI Safety
+  summary: '"Dario explains the five major problems: avoiding negative side effects,
+    avoiding reward hacking, scalable oversight, safe exploration, and robustness
+    to distributional shift."'
+  key_quotes:
+  - quote: One way to introduce this is to say that in some sense, machine learning
+      systems are very literal minded.
+    speaker: Dario Amodei
+    context: On the conceptualization of AI goals and objectives.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Organization focused on positive long-term impact of technology.
+  access_date: null
+tools_mentioned: []
+research_papers:
+- title: Concrete Problems in AI Safety
+  authors:
+  - Dario Amodei
+  - Christopher Olah
+  - Paul Cristiano
+  - Jacob Steinhardt
+  - John Schulman
+  - Dan Mané
+  year: 2016
+  url: ''
+  key_findings: Identified specific problems in AI safety and proposed research agenda
+    to address them.
+  context: The main paper discussed in the podcast.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Global Catastrophic Risk Institute
+    location: ''
+    context: Focuses on understanding and mitigating risks that could lead to human
+      extinction or civilization collapse.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Research organization focused on promoting and developing friendly AI.
+  - name: Google
+    industry: Technology
+    context: Big player in AI research and development, known for integrating AI into
+      various products.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Andrew Ng
+    institution: Baidu
+    field: AI Research
+    context: Mentioned for his perspective on long-term AI concerns.
+  industry_leaders:
+  - name: Dario Amodei
+    company: OpenAI
+    role: Research Scientist
+    context: Contributed significantly to AI safety discourse.
+  - name: Seth Baum
+    company: Global Catastrophic Risk Institute
+    role: Executive Director
+    context: Key figure in AI safety research.
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI Safety
+- Machine Learning
+- Responsibility
+categories:
+- Technology
+- AI
+- Safety
+intended_audience: Researchers, AI practitioners, policymakers, and the general public
+  interested in AI safety.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Continue to engage in empirical research on AI safety problems.
+controversial_topics:
+- topic: Short-term vs Long-term AI Safety
+  different_viewpoints:
+  - perspective: Focus on short-term AI safety issues.
+    proponents: Dario Amodei
+    key_arguments: Research should address concrete problems that can be empirically
+      tested.
+  - perspective: Long-term AI risks should also be considered.
+    proponents: AI safety community (e.g., Nick Bostrom)
+    key_arguments: Long-term risks must be understood to prevent future catastrophic
+      outcomes.

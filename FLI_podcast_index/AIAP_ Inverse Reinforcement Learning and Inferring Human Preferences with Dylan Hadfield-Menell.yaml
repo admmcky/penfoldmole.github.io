@@ -1,0 +1,183 @@
+title: '"AIAP: Inverse Reinforcement Learning and Inferring Human Preferences with
+  Dylan Hadfield-Menell"'
+original_url: '"https://zencastr.com/z/kSApSoh8"'
+date_published: '2018-04-25'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Dylan Hadfield-Menell
+  affiliation: UC Berkeley
+  title: PhD Student
+  bio: Dylan is a fifth year PhD student at UC Berkeley focusing on the value alignment
+    problem in artificial intelligence, advised by Anka Dragan, Peter Abil, and Stuart
+    Russell.
+  expertise_areas:
+  - Artificial Intelligence
+  - Robotics
+  - Value Alignment
+synopsis: In this episode, Lucas Perry discusses the significance of inverse reinforcement
+  learning and its role in understanding human preferences with Dylan Hadfield-Menell,
+  a PhD student at UC Berkeley. They explore the complexities of AI safety, the value
+  alignment problem, and the implications of designing AI systems that align with
+  human values.
+key_topics:
+- Inverse Reinforcement Learning
+- Value Alignment
+- AI Safety
+- Human Preferences
+tags:
+- AI
+- Machine Learning
+- Ethics
+- Value Alignment
+key_points:
+- Inverse reinforcement learning is an empirical method for inferring human preferences.
+- Value alignment aims to integrate correct human values into AI systems.
+- The challenge of ensuring that AI systems maintain human oversight and control.
+segments:
+- title: Introduction to AI Safety Series
+  summary: Lucas Perry introduces the focus of the podcast series on AI safety and
+    value alignment, expressing the interdisciplinary nature of the discussions.
+  key_quotes:
+  - quote: We will be having conversations with technical and non-technical researchers
+      focused on AI safety and the value alignment problem.
+    speaker: Lucas Perry
+    context: Introduction to the podcast series
+- title: '"From Robotics to AI Safety: Dylan''s Journey"'
+  summary: Dylan shares his transition from robotics to focusing on value alignment
+    in AI, detailing influences from his advisors and research focus.
+  key_quotes:
+  - quote: I started thinking about questions about misaligned objectives and how
+      we get the correct preferences into AI systems.
+    speaker: Dylan Hadfield-Menell
+    context: Discussing his research trajectory
+- title: Inverse Reinforcement Learning Explained
+  summary: '"Dylan explains inverse reinforcement learning as a means of behavior
+    modeling that captures agents'' preferences."'
+  key_quotes:
+  - quote: Inverse reinforcement learning is viewed as a bias in behavior modeling,
+      where we should model an agent as accomplishing a goal.
+    speaker: Dylan Hadfield-Menell
+    context: Defining inverse reinforcement learning
+- title: Theoretical Frameworks for Value Alignment
+  summary: Discussion on theoretical goals for value alignment and the necessity of
+    ensuring correct objectives in AI.
+  key_quotes:
+  - quote: Issues with misspecified objectives are a bug in the theory.
+    speaker: Dylan Hadfield-Menell
+    context: Talking about theoretical foundations
+- title: Ensuring Human Control in AI Systems
+  summary: Exploration of the implications of AI systems for human control and the
+    necessity of modeling human rationality.
+  key_quotes:
+  - quote: The AI system needs to have uncertainty about its true objective.
+    speaker: Dylan Hadfield-Menell
+    context: Discussing the importance of AI control mechanisms
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Cooperative Inverse Reinforcement Learning
+  authors:
+  - Dylan Hadfield-Menell
+  - Stuart Russell
+  year: 2018
+  url: ''
+  key_findings: Introduced the concept of cooperation in specifying AI objectives.
+  context: Key research paper discussed in the episode.
+- title: '"Should Robots Be Obedient?"'
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: Discussed consequences of robot behavior and learning.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of California, Berkeley
+    location: Berkeley, CA
+    context: Institution where Dylan Hadfield-Menell is pursuing his PhD.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Ethics
+    context: The organization hosting the podcast.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: UC Berkeley
+    field: Computer Science and AI
+    context: Advisor to Dylan and influential figure in AI safety.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Safety
+- Value Alignment
+- Reinforcement Learning
+categories:
+- Technology
+- Ethics
+- Artificial Intelligence
+intended_audience: Researchers and enthusiasts in AI safety and machine learning
+expertise_level: Intermediate
+recommended_reading:
+- title: 80,000 Hours write-up on AI safety
+  url: ''
+  type: article
+  relevance: Offers insights into pursuing work in AI safety.
+action_items:
+- Encouraged to follow developments in AI safety and engage with related research.
+controversial_topics:
+- topic: Ethics of AI Systems
+  different_viewpoints:
+  - perspective: Need for effective control and alignment in AI.
+    proponents: AI safety researchers.
+    key_arguments: Ensuring artificial intelligences are beneficial and aligned with
+      human values is critical for avoiding catastrophic outcomes.

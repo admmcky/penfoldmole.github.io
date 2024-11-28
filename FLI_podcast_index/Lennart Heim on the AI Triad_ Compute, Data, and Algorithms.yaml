@@ -1,0 +1,179 @@
+title: '"Lennart Heim on the AI Triad: Compute, Data, and Algorithms"'
+original_url: '"https://zencastr.com/z/0nMsw838"'
+date_published: '2023-03-30'
+host:
+  name: Host
+  affiliation: Future of Life Institute
+guests:
+- name: Leonard Heim
+  affiliation: Center for the Governance of AI (GOVAI)
+  title: Researcher
+  bio: Leonard Heim is a researcher at the Center for the Governance of AI, where
+    he focuses on computational infrastructure and AI governance.
+  expertise_areas:
+  - AI governance
+  - Computational infrastructure
+  - Hardware engineering
+synopsis: In this episode, Leonard Heim discusses the AI triad of compute, data, and
+  algorithms, exploring their interrelations and significance in AI progress, governance
+  challenges, and the complexities of chip production.
+key_topics:
+- '"AI triad: compute, data, algorithms"'
+- AI governance
+- Chip production and supply chains
+- Forecasting AI progress
+- AGI timelines
+tags:
+- AI
+- Computational Infrastructure
+- Governance
+- Data Science
+key_points:
+- The AI triad consists of compute, data, and algorithms, and they are interdependent
+  in driving AI progress.
+- Computational resources for AI systems have been rapidly increasing, with training
+  compute doubling approximately every six months.
+- The complexity of chip production involves global supply chains, with major companies
+  like TSMC, Intel, and ASML leading the industry.
+- Governance of compute resources is crucial for ensuring beneficial outcomes in AI
+  development.
+segments:
+- title: Understanding the AI Triad
+  summary: Heim introduces the AI triad of algorithms, data, and compute, discussing
+    their roles and interdependencies in AI progress.
+  key_quotes:
+  - quote: '"What do we mean with algorithms? Well, when we think about AI nowadays,
+      we mostly talk about machine learning."'
+    speaker: Leonard Heim
+    context: Explaining the importance of algorithms in AI development.
+- title: The Role of Compute in AI Development
+  summary: The discussion focuses on the increasing role of compute in AI training
+    and development, highlighting its growth trends.
+  key_quotes:
+  - quote: The training compute is doubling every six months.
+    speaker: Leonard Heim
+    context: Describing the rapid growth in computational resources.
+- title: Complexities in Chip Production and Supply Chains
+  summary: Heim explains the complex process of chip production and the key players
+    involved in the global supply chain.
+  key_quotes:
+  - quote: Chips or integrated circuits are probably the most complex device, product,
+      whatever we as humankind have ever produced.
+    speaker: Leonard Heim
+    context: Discussing the intricacies of modern chip production.
+- title: Forecasting AI Progress and AGI Timelines
+  summary: The segment delves into predicting the timelines for AGI and the role of
+    compute in these forecasts.
+  key_quotes:
+  - quote: '"I do think I have a 50% chance, within the next 20 years or so, there
+      might be something what we might call an AGI or transformative AI."'
+    speaker: Leonard Heim
+    context: Estimating the likelihood of achieving AGI.
+websites_referenced:
+- url: '"https://epoc.ai.org"'
+  name: Epoch AI
+  context: A resource for tracking AI training compute trends.
+  access_date: '2023-03-30'
+tools_mentioned:
+- name: YouTube
+  url: '"https://www.youtube.com"'
+  description: A video platform that can be utilized for transcribing videos into
+    text data for AI training.
+  context: Discussed as a potential source for more text data.
+research_papers:
+- title: '"Chinchilla: Scaling Laws for Neural Language Models"'
+  authors:
+  - DeepMind
+  year: 2022
+  url: ''
+  key_findings: High-quality data can be more effective for training outcomes.
+  context: Quality of data matters in AI model training.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Center for the Governance of AI
+    location: Global
+    context: A research center focusing on governance issues related to artificial
+      intelligence.
+  companies:
+  - name: TSMC
+    industry: Semiconductors
+    context: Leading company in cutting-edge chip production.
+  - name: Intel
+    industry: Semiconductors
+    context: Key player in chip design and fabrication.
+  - name: ASML
+    industry: Semiconductors
+    context: Sole producer of EUV machines for chip manufacturing.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and governance
+    context: An organization focused on mitigating existential risks related to advanced
+      technologies.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Richard Sutton
+    institution: ''
+    field: AI and reinforcement learning
+    context: '"Referred to for the concept of the ''bitter lesson'' in AI development."'
+  industry_leaders:
+  - name: Leonard Heim
+    company: Center for the Governance of AI
+    role: Researcher
+    context: Expert discussing AI governance and compute.
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Emergence of AI Training Compute Doubling
+    date: '2018-01-01'
+    significance: Training compute has been doubling rapidly, impacting AI development.
+    context: Significant change in how AI systems are trained.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI governance
+- compute
+- algorithms
+- chip production
+categories:
+- Technology
+- Artificial Intelligence
+intended_audience: Researchers and professionals interested in AI governance and technology.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider exploring the governance frameworks surrounding AI compute resources.
+controversial_topics:
+- topic: The role of compute in AI progress
+  different_viewpoints:
+  - perspective: Compute is the primary driver of AI advancements.
+    proponents: Leonard Heim and other compute governance advocates.
+    key_arguments: Increasing compute resources directly correlates with improved
+      AI capabilities.
+  - perspective: Algorithms and data are equally or more important.
+    proponents: Critics of compute-centric narratives.
+    key_arguments: Improvements in algorithms can lead to substantial gains without
+      proportional increases in compute.

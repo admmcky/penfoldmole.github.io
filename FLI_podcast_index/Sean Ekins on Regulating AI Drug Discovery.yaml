@@ -1,0 +1,111 @@
+title: Sean Ekins on Regulating AI Drug Discovery
+original_url: '"https://zencastr.com/z/28OZcOzu"'
+date_published: '2023-01-12'
+host:
+  name: Koss Dokker
+  affiliation: Future of Life Institute
+guests:
+- name: Sean Ekins
+  affiliation: Independent Researcher
+  title: Pharmacologist and Expert in Computational Toxicology
+  bio: Sean Ekins is a pharmacologist with extensive experience in computational toxicology
+    and drug discovery.
+  expertise_areas:
+  - Computational Toxicology
+  - Artificial Intelligence in Drug Discovery
+  - Pharmaceutical Research
+synopsis: In this episode, Koss Dokker continues his conversation with Sean Ekins
+  about the ethical implications and regulatory landscape surrounding the use of artificial
+  intelligence in drug discovery. They discuss the need for guidelines and the responsibility
+  of scientists in addressing AI risks.
+key_topics:
+- AI in Drug Discovery
+- Ethical Guidelines and Responsibilities
+- Impact of AI on Pharmaceutical Industry
+- Regulatory Landscape for AI Technologies
+tags:
+- AI
+- Drug Discovery
+- Ethics
+- Pharmaceuticals
+key_points:
+- There is a critical need for awareness in the pharmaceutical industry regarding
+  AI risks.
+- Sean Ekins emphasizes the importance of ethical guidelines and regulations in AI
+  applications.
+- The conversation highlights the potential for both positive and negative outcomes
+  of AI in drug discovery.
+segments:
+- title: Role of Scientists in AI Ethics
+  summary: Discussion on the necessity for scientists to engage in the ethical and
+    policy conversations surrounding AI.
+  key_quotes:
+  - quote: Our naivety is a liability in this case and that we need to start adopting
+      something.
+    speaker: Sean Ekins
+    context: Referring to the responsibility of scientists in addressing AI risks.
+- title: AI Ethics Policies and Guidelines
+  summary: Ekins discusses the current state of AI ethics guidelines and the need
+    for the pharmaceutical industry to adopt them.
+  key_quotes:
+  - quote: '"There''s definitely going to be a challenge there of educating people."'
+    speaker: Sean Ekins
+    context: On the difficulty of communicating the need for AI guidelines to scientists.
+- title: Positive Applications of AI in Medicine
+  summary: Exploration of the beneficial uses of AI to create therapeutic molecules.
+  key_quotes:
+  - quote: We could design molecules that would treat opioid use disorder.
+    speaker: Sean Ekins
+    context: Highlighting the potential for AI to help in drug development.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focusing on mitigating existential risks from advanced technologies.
+  access_date: '2023-01-12'
+tools_mentioned: []
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced: []
+organizations:
+  academic_institutions: []
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Ethical considerations of AI and emerging technologies
+    context: Focus on mitigating risks associated with advanced technologies.
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- Artificial Intelligence
+- Drug Regulation
+- Pharmaceutical Ethics
+categories:
+- Science
+- Technology
+- Ethics
+intended_audience: Researchers, policymakers, and industry professionals
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Increase awareness and education within the pharmaceutical industry on AI ethics.
+controversial_topics:
+- topic: The Risks of AI in Drug Discovery
+  different_viewpoints:
+  - perspective: AI could revolutionize drug discovery.
+    proponents: Proponents of AI technology in pharmaceuticals.
+    key_arguments: Promise of accelerated drug development and innovation.
+  - perspective: AI poses significant ethical and safety risks.
+    proponents: Ethicists and cautious scientists.
+    key_arguments: Need for stringent regulations to avoid misuse.

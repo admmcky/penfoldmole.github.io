@@ -1,0 +1,187 @@
+title: Liron Shapira on Superintelligence Goals
+original_url: '"https://zencastr.com/z/9FbkZiQf"'
+date_published: 2024-04-19
+host:
+  name: Gus Dokker
+  affiliation: Future of Life Institute
+guests:
+- name: Liron Shapira
+  affiliation: PAUSE AI Movement
+  title: Entrepreneur, AI Risk Communicator
+  bio: Liron Shapira is a computer scientist and software engineer, an entrepreneur,
+    and a long-time advocate for AI safety. He has been involved in angel investing
+    and studying AI risk since 2007.
+  expertise_areas:
+  - Artificial Intelligence
+  - Rationality
+  - AI Risk
+synopsis: In this episode, Liron Shapira discusses the urgent need for a pause in
+  AI development to avert potential catastrophic risks. He shares insights on the
+  definitions of intelligence, the nature of AI evolution, and the challenges of aligning
+  AI goals with human values.
+key_topics:
+- Superintelligence and AI risk
+- Goal optimization definition of intelligence
+- AI alignment challenges
+- Cultural and technological implications of AI
+- Global governance of AI development
+tags:
+- AI Safety
+- Superintelligence
+- Ethics
+- Technology
+key_points:
+- The importance of defining intelligence in terms of goal optimization.
+- AI could evolve to pursue goals that conflict with human values.
+- A global pause in AI development is essential to develop safety protocols.
+- The challenges of aligning AI with evolving human values.
+segments:
+- title: Introduction and Background
+  summary: Gus Dokker introduces Liron Shapira, discussing his background in AI and
+    software engineering, and the urgency of addressing AI risks.
+  key_quotes:
+  - quote: I try to communicate in a simple and accessible way compared to maybe some
+      of the pioneers of the field.
+    speaker: Liron Shapira
+    context: Discussing his approach to AI risk communication.
+- title: Defining Intelligence
+  summary: Liron presents his concept of intelligence as goal optimization, illustrating
+    how this definition provides insights into both human and AI capabilities.
+  key_quotes:
+  - quote: '"If you want to predict where the universe is going to go, then sure,
+      maybe it doesn''t matter who can get a high SAT score, but it matters who is
+      good at achieving their goals."'
+    speaker: Liron Shapira
+    context: Introducing his definition of intelligence.
+- title: AI and Cultural Values
+  summary: The discussion transitions to the alignment of AI with human values, examining
+    the implications of embedding current cultural values into AI systems.
+  key_quotes:
+  - quote: '"If we align an AI to humanities values as they are today, won''t we perpetuate
+      certain moral failures?"'
+    speaker: Gus Dokker
+    context: Questioning the risks of aligning AI with contemporary values.
+- title: Global Pause in AI Development
+  summary: Shapira advocates for a global pause in AI development to establish safety
+    protocols before advanced AI systems are deployed.
+  key_quotes:
+  - quote: '"We''re definitely on track to not pause AI and then instantly die."'
+    speaker: Liron Shapira
+    context: Expressing the urgency of a coordinated global pause.
+- title: Moral and Ethical Considerations
+  summary: The episode concludes with a contemplation on the moral implications of
+    superintelligent AI and the responsibility of current developers.
+  key_quotes:
+  - quote: '"The current trend is we''re all going to die soon."'
+    speaker: Liron Shapira
+    context: Stating the potential risks of failing to implement safety measures.
+websites_referenced:
+- url: '"https://www.lesswrong.com/"'
+  name: LessWrong
+  context: A community blog dedicated to rationality and reasoning.
+  access_date: null
+- url: '"https://pauseai.org/"'
+  name: PAUSE AI Movement
+  context: An organization advocating for a pause in AI development.
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Global
+    context: A nonprofit organization focused on mitigating existential threats facing
+      humanity.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: PAUSE AI Movement
+    focus_area: AI Safety
+    context: An organization advocating for a temporary halt on advanced AI development.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Eliezer Yudkowsky
+    institution: LessWrong
+    field: Artificial Intelligence and Rationality
+    context: Prominent figure in AI risk and rationality writing.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI
+- Superintelligence
+- Ethics
+- Safety
+- Human Values
+categories:
+- Technology
+- Ethics
+- Artificial Intelligence
+intended_audience: Individuals interested in AI safety and ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Advocate for a global pause in AI development to ensure safety protocols.
+- Engage in discussions about the moral implications of AI alignment.
+controversial_topics:
+- topic: Global AI Governance and Regulation
+  different_viewpoints:
+  - perspective: Advocating for a pause in AI development.
+    proponents: Liron Shapira, PAUSE AI Movement
+    key_arguments: Urgency of developing safety measures before advancing AI capabilities.
+  - perspective: Continuing AI development for technological progress.
+    proponents: Effective Accelerationists
+    key_arguments: Technology has historically benefited humanity, and innovation
+      is crucial.

@@ -1,0 +1,229 @@
+title: '"Not Cool Ep 16: Tackling Climate Change with Machine Learning, part 1"'
+original_url: '"https://zencastr.com/z/NbCHDIEH"'
+date_published: '2019-10-22'
+host:
+  name: Arielle Kahn
+  affiliation: Not Cool Podcast
+guests:
+- name: David Rolnick
+  affiliation: University of Pennsylvania
+  title: Postdoctoral Fellow
+  bio: Mathematician working on the mathematical foundations of machine learning and
+    AI in relation to climate change.
+  expertise_areas:
+  - Machine Learning
+  - Climate Change
+- name: Priya Dompi
+  affiliation: Carnegie Mellon University
+  title: PhD Student
+  bio: PhD student focusing on the intersection of electricity systems and machine
+    learning to reduce greenhouse gas emissions.
+  expertise_areas:
+  - Electricity Systems
+  - Machine Learning
+- name: Lynn Cagg
+  affiliation: ETH Zurich
+  title: Postdoctoral Researcher
+  bio: Researcher focusing on climate change policy and machine learning.
+  expertise_areas:
+  - Climate Change Policy
+  - Machine Learning
+- name: Kelly Kochanski
+  affiliation: University of Colorado, Boulder
+  title: PhD Student
+  bio: PhD student working on snow and polar science, integrating machine learning
+    into climate models.
+  expertise_areas:
+  - Snow Science
+  - Climate Models
+synopsis: '"In this episode, host Arielle Kahn discusses the role of machine learning
+  in combating climate change with four authors of the significant paper ''Tackling
+  Climate Change with Machine Learning.'' The conversation covers applications of
+  machine learning in electricity systems, transportation, and climate models, as
+  well as the necessity for interdisciplinary collaboration."'
+key_topics:
+- Climate Change
+- Machine Learning Applications
+- Interdisciplinary Collaboration
+- Electricity Systems
+- Transportation
+- Climate Models
+tags:
+- Climate Change
+- Machine Learning
+- Interdisciplinary Research
+key_points:
+- Machine learning offers numerous applications in reducing greenhouse gas emissions.
+- Interdisciplinary collaboration is essential in addressing climate issues.
+- Electricity systems and transportation sectors provide significant leverage points
+  for machine learning interventions.
+- Challenges include the integration of new technologies and ensuring broad stakeholder
+  involvement.
+segments:
+- title: Introduction to Climate and Machine Learning
+  summary: '"The hosts introduce the episode''s focus on the intersection of machine
+    learning and climate change, discussing a recent paper that emphasizes machine
+    learning''s role in climate action."'
+  key_quotes:
+  - quote: Machine learning can be a valuable tool in the fight to keep global temperatures
+      below 1.5 degrees Celsius.
+    speaker: Arielle Kahn
+    context: Introduction to the episode
+- title: Authors Introduce Themselves
+  summary: Each guest shares their background, expertise, and interest in applying
+    machine learning to climate-related problems.
+  key_quotes:
+  - quote: I work on the intersection of electricity systems and machine learning.
+    speaker: Priya Dompi
+    context: Introduction to expertise
+- title: '"Machine Learning''s Role in Climate Solutions"'
+  summary: Discussion on the urgent need for collaboration across disciplines to tackle
+    climate change using machine learning.
+  key_quotes:
+  - quote: To address climate change, one really needs a lot of expertise coming in
+      from many different areas.
+    speaker: David Rolnick
+    context: On the urgency of interdisciplinary collaboration
+- title: Electricity Systems and Emission Reduction
+  summary: Focused discussion on how machine learning can significantly impact electricity
+    systems and contribute to emission reductions.
+  key_quotes:
+  - quote: Electricity supply and production contributes about a quarter of global
+      greenhouse gas emissions.
+    speaker: Priya Dompi
+    context: Discussing the impact of electricity systems on emissions
+- title: Transportation Emissions and Machine Learning
+  summary: Exploration of machine learning applications in the transportation sector,
+    discussing both challenges and opportunities.
+  key_quotes:
+  - quote: '"Transportation is responsible for 14% of total greenhouse gas emissions
+      in the world."'
+    speaker: Lynn Cagg
+    context: '"Overview of transportation''s emissions impact"'
+- title: Climate Models and Machine Learning
+  summary: Discussion on enhancing climate prediction models using machine learning
+    to improve accuracy and usability.
+  key_quotes:
+  - quote: Clouds are one of the biggest sources of uncertainty in climate models.
+    speaker: Kelly Kochanski
+    context: Addressing inaccuracies in existing climate models
+websites_referenced:
+- url: '"https://climatechange.ai"'
+  name: Climate Change AI
+  context: A platform to facilitate collaboration and research at the intersection
+    of machine learning and climate change.
+  access_date: null
+tools_mentioned:
+- name: Machine Learning Models
+  url: ''
+  description: Statistical and computational methods utilized to process complex datasets
+    for climate predictions and solutions.
+  context: Applied in various discussed scenarios.
+research_papers:
+- title: Tackling Climate Change with Machine Learning
+  authors:
+  - David Rolnick
+  - Priya Dompi
+  - Lynn Cagg
+  - Kelly Kochanski
+  year: 2019
+  url: ''
+  key_findings: Identifies various applications of machine learning in climate mitigation,
+    adaptation, and tools for action.
+  context: Foundation of the discussion in the podcast.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of Pennsylvania
+    location: Philadelphia, PA
+    context: '"David Rolnick''s affiliation"'
+  - name: Carnegie Mellon University
+    location: Pittsburgh, PA
+    context: '"Priya Dompi''s affiliation"'
+  - name: ETH Zurich
+    location: Zurich, Switzerland
+    context: '"Lynn Cagg''s affiliation"'
+  - name: University of Colorado, Boulder
+    location: Boulder, CO
+    context: '"Kelly Kochanski''s affiliation"'
+  companies: []
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: David Rolnick
+    institution: University of Pennsylvania
+    field: Machine Learning
+    context: Postdoc researcher focusing on machine learning applications for climate
+      change.
+  - name: Priya Dompi
+    institution: Carnegie Mellon University
+    field: Electricity Systems
+    context: Researching ways to integrate renewable energy via machine learning.
+  - name: Lynn Cagg
+    institution: ETH Zurich
+    field: Climate Change Policy
+    context: Analyzing climate policies using machine learning.
+  - name: Kelly Kochanski
+    institution: University of Colorado, Boulder
+    field: Climate Science
+    context: Working on integrating machine learning with climate models.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: NURIPS Machine Learning Conference
+    date: null
+    significance: Platform for discussing the intersection of machine learning and
+      climate change.
+    context: David Rolnick organized discussions at this event that initiated the
+      collaborative paper.
+  upcoming:
+  - name: Next Episode of Not Cool
+    date: '2019-10-24'
+    location: ''
+    description: Discussion on how individuals and communities can leverage machine
+      learning to improve carbon footprints and climate policies.
+    url: ''
+keywords:
+- Climate Change
+- Machine Learning
+- Research Collaboration
+- Sustainability
+categories:
+- Environment
+- Technology
+- Research
+intended_audience: Researchers, policymakers, and individuals interested in climate
+  change and technology.
+expertise_level: Intermediate
+recommended_reading:
+- title: Tackling Climate Change with Machine Learning
+  url: '"https://climatechange.ai"'
+  type: Research Paper
+  relevance: Core material related to the podcast episode content and discussions.
+action_items:
+- Encourage interdisciplinary collaborations to tackle climate change.
+- Implement machine learning techniques in local climate initiatives.
+controversial_topics:
+- topic: Impact and Efficacy of Machine Learning in Policy Making
+  different_viewpoints:
+  - perspective: Machine learning could drastically improve efficiency.
+    proponents: Researchers advocating for data-driven policy.
+    key_arguments: Automation can lead to quicker, more informed decision-making.
+  - perspective: Over-reliance on technology can sideline human expertise.
+    proponents: Critics concerned about the loss of context and nuance.
+    key_arguments: Policy needs grounded understanding of local nuances, not just
+      data.

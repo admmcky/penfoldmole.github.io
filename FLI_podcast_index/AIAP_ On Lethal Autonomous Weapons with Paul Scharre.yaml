@@ -1,0 +1,155 @@
+title: '"AIAP: On Lethal Autonomous Weapons with Paul Scharre"'
+original_url: '"https://zencastr.com/z/_pTiSwnx"'
+date_published: '2020-03-16'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Paul Scharre
+  affiliation: Center for a New American Security
+  title: Senior Fellow and Director of Technology and National Security Program
+  bio: Paul Scharre is an expert in the policy and technical dimensions of new military
+    technologies, particularly autonomous weapons.
+  expertise_areas:
+  - Military technology policy
+  - Lethal autonomous weapons
+synopsis: This episode features a discussion with Paul Scharre about the implications
+  of lethal autonomous weapons and their governance in relation to AI alignment and
+  global safety. The conversation explores ethical, legal, and strategic considerations
+  surrounding autonomous military systems.
+key_topics:
+- Lethal autonomous weapons
+- AI governance
+- Ethical implications of military autonomy
+- International laws of war
+tags:
+- AI
+- Autonomous Weapons
+- Military Ethics
+key_points:
+- The importance of establishing governance mechanisms around autonomous weapons to
+  prevent harmful uses.
+- Autonomy in military systems is not merely a technological feature but has deep
+  ethical and legal implications.
+- The debate around whether machines should be allowed to make life-and-death decisions.
+segments:
+- title: Introduction to Lethal Autonomous Weapons
+  summary: The episode introduces the concepts of lethal autonomous weapons and their
+    potential implications for society and warfare.
+  key_quotes:
+  - quote: '"If we cannot establish a governance mechanism as a global community on
+      deciding not to let AI make the decision to kill, then how can we deal with
+      AI safety?"'
+    speaker: Lucas Perry
+    context: Highlighting the critical nature of governance in AI weaponry.
+- title: Understanding Autonomy
+  summary: The conversation delves into the meaning of autonomy in military contexts,
+    comparing it to self-driving cars and discussing implications for decision making.
+  key_quotes:
+  - quote: '"Autonomy is not really a technology; it''s an attribute of a machine."'
+    speaker: Paul Scharre
+    context: Defining autonomy as a concept relevant to both machines and humans.
+- title: Legal and Ethical Concerns
+  summary: Exploration of ethical considerations and existing international humanitarian
+    laws in relation to autonomous weapons and their deployment.
+  key_quotes:
+  - quote: The laws of war apply to autonomous weapons as they do to any weapon systems.
+    speaker: Paul Scharre
+    context: Emphasizing the applicability of international laws to new technologies.
+- title: Debates on Human Involvement
+  summary: Discussion on the necessity of human involvement in decision-making processes
+    in warfare using autonomous weapons.
+  key_quotes:
+  - quote: It might be wrong for a machine to make the decision about life and death.
+    speaker: Paul Scharre
+    context: Outlining concerns related to removing human judgment from lethal decisions.
+- title: Risk of Accidental Escalation
+  summary: Analyzing the potential for autonomous weapons to increase accidental conflicts
+    and escalation between nations.
+  key_quotes:
+  - quote: There are real concerns that these systems may not function reliably and
+      could lead to unintended consequences.
+    speaker: Paul Scharre
+    context: Exploring risks associated with malfunctioning autonomous systems.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Non-profit focusing on AI safety and governance.
+  access_date: null
+tools_mentioned: []
+research_papers:
+- title: '"Army of None: Autonomous Weapons and the Future of War"'
+  authors:
+  - Paul Scharre
+  year: 2018
+  url: ''
+  key_findings: Examines the implications of developing autonomous military systems.
+  context: '"Referenced as Paul Scharre''s influential work on the subject."'
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Center for a New American Security
+    location: Washington, D.C.
+    context: Think tank focused on national security and defense.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Governance
+    context: Supports research and initiatives in AI safety.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Emilia Jaworski
+    institution: Future of Life Institute
+    field: AI policy and governance
+    context: Assisted in developing questions for the podcast.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Campaign to Stop Killer Robots
+  organization: ''
+  description: A global coalition focused on prohibiting fully autonomous weapons.
+  status: ''
+  url: ''
+  context: Cited as an effort to create governance around autonomous weapons.
+events:
+  historical:
+  - name: Tiananmen Square Massacre
+    date: '1989-06-04'
+    significance: An instance of military force used against civilians.
+    context: Used as context to discuss the risks of autonomous weapons in oppressive
+      regimes.
+  upcoming: []
+keywords:
+- AI safety
+- military ethics
+- autonomous systems
+categories:
+- Technology
+- Military
+- AI Ethics
+intended_audience: Policy makers, AI researchers, military strategists, and general
+  public interested in AI and military ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Army of None: Autonomous Weapons and the Future of War"'
+  url: ''
+  type: book
+  relevance: Offers insight into the development and implications of autonomous weapons.
+action_items:
+- Support initiatives that advocate for the regulation of autonomous weapons.
+- Engage in discussions on the ethical implications of military technology.
+controversial_topics:
+- topic: The Role of Autonomous Weapons in Warfare
+  different_viewpoints:
+  - perspective: Support for development
+    proponents: Some military strategists and technology advocates
+    key_arguments: May increase efficiency and reduce human casualties in war.
+  - perspective: Opposition to development
+    proponents: Ethicists and humanitarian advocates
+    key_arguments: Risks dehumanizing warfare and could lead to accidental escalations.

@@ -1,0 +1,172 @@
+title: '"AIAP: On the Governance of AI with Jade Leung"'
+original_url: '"https://zencastr.com/z/_nRqm_bN"'
+date_published: '2019-07-22'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Jade Leung
+  affiliation: Center for the Governance of AI, Future of Humanity Institute
+  title: Head of Research and Partnerships
+  bio: Jade Leung is focused on the political challenges arising from transformative
+    AI and aims to guide the development of such technology for the common good.
+  expertise_areas:
+  - AI governance
+  - Strategic general purpose technologies
+  - Political dynamics in AI
+synopsis: '"The episode explores the governance of artificial intelligence with Jade
+  Leung, discussing AI governance''s relationship with technical safety, the roles
+  of companies and states, and potential pathways towards aligned governance."'
+key_topics:
+- AI governance
+- Technical alignment vs. governance
+- Role of companies and states in AI development
+- Lethal autonomous weapons
+- Windfall clause
+tags:
+- AI
+- Governance
+- Technology Strategy
+key_points:
+- AI governance encompasses social, political, economic contexts.
+- Establishing norms and institutions is critical for advancing AI technology.
+- The windfall clause offers a potential policy tool for AI profit distribution.
+- Public opinion is key to shaping effective AI governance.
+segments:
+- title: Introduction to AI Governance
+  summary: Lucas and Jade discuss the scope of AI governance and its implications
+    for society.
+  key_quotes:
+  - quote: The broad goal is how humanity can best navigate our transition towards
+      a role with advanced AI systems.
+    speaker: Jade Leung
+    context: On the objective of AI governance.
+- title: Research Areas in AI Governance
+  summary: Jade elaborates on the significance of modeling technological trajectories
+    and the strategic dynamics involved.
+  key_quotes:
+  - quote: The political dynamics between powerful actors are at the heart of current
+      governance research.
+    speaker: Jade Leung
+    context: Discussing the research agenda at the Center for the Governance of AI.
+- title: Influencing Key Actors
+  summary: The conversation shifts to who the key decision-makers are and how to influence
+    them.
+  key_quotes:
+  - quote: You can work backwards from what decisions you want to influence.
+    speaker: Jade Leung
+    context: Describing a strategic approach to governance.
+- title: Lethal Autonomous Weapons Debate
+  summary: The implications of lethal autonomous weapons are examined, along with
+    differing viewpoints on their governance.
+  key_quotes:
+  - quote: '"If we can''t get a ban on autonomous weapons, maybe we have less hope
+      for coordinating on more difficult issues."'
+    speaker: Lucas Perry
+    context: On the urgency of addressing lethal autonomous weapons.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Survey Monkey
+  url: ''
+  description: Tool used for collecting feedback from the podcast audience.
+  context: To improve future episodes based on listener input.
+research_papers:
+- title: '"Deciphering China''s AI Dream"'
+  authors:
+  - Jeffrey Ding
+  year: null
+  url: ''
+  key_findings: ''
+  context: '"Research paper on China''s AI strategy."'
+books_referenced:
+- title: Superintelligence
+  authors:
+  - Nick Bostrom
+  year: null
+  isbn: ''
+  context: Foundation for discussions on ideal governance related to AI.
+organizations:
+  academic_institutions:
+  - name: Center for the Governance of AI
+    location: Oxford, UK
+    context: Institution focusing on the governance of artificial intelligence.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: A leading AI research lab with significant advancements in the field.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: Department of Commerce, USA
+    country: USA
+    context: Government body exploring policies related to AI technologies.
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: Future of Humanity Institute
+    field: Philosophy and AI
+    context: Influential thinker in AI safety and governance.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Windfall Clause
+  organization: Center for the Governance of AI
+  description: A proposed policy for AI developers to share profits fairly.
+  status: Under discussion
+  url: ''
+  context: An initiative aimed at ensuring AI technology benefits humanity.
+events:
+  historical:
+  - name: Asilomar Conference on Benefits and Risks of AI
+    date: null
+    significance: Discussion on responsible AI development.
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI safety
+- Governance
+- Technology ethics
+categories:
+- Technology
+- Ethics
+- Policy
+intended_audience: Researchers, policymakers, and individuals interested in AI governance.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Ethics of Artificial Intelligence
+  url: ''
+  type: article
+  relevance: Covers ethical concerns surrounding AI development.
+action_items:
+- Engage in conversations about governance in AI.
+- Encourage firms to adopt the windfall clause.
+- Increase public understanding of AI governance.
+controversial_topics:
+- topic: Lethal Autonomous Weapons
+  different_viewpoints:
+  - perspective: Should be banned to ensure ethical standards.
+    proponents: AI alignment community, various ethicists.
+    key_arguments: Need to prevent dehumanization in warfare.
+  - perspective: Regulation, not a ban, is the way forward.
+    proponents: Some military strategists.
+    key_arguments: Not necessary for stable governance; it is an evolution of military
+      technology.

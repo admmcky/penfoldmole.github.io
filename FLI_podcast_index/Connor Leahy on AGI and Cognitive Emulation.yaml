@@ -1,0 +1,201 @@
+title: Connor Leahy on AGI and Cognitive Emulation
+original_url: '"https://zencastr.com/z/CHTQLKuZ"'
+date_published: '2023-04-13'
+host:
+  name: Future of Life Institute
+  affiliation: Future of Life Institute
+guests:
+- name: Connor Leahy
+  affiliation: Conjector
+  title: CEO
+  bio: Connor Leahy is the CEO of Conjector, a company focused on researching scalable
+    AI alignment.
+  expertise_areas:
+  - AI alignment
+  - Cognitive emulation
+  - Generative AI
+synopsis: In this episode, Connor Leahy discusses the implications of recent advancements
+  in AI, particularly GPT-4, focusing on its capabilities, dangers, and the future
+  of AI alignment through cognitive emulation.
+key_topics:
+- AI alignment
+- GPT-4
+- Cognitive emulation
+- AI safety
+- Technological impact on society
+tags:
+- AI
+- AGI
+- AI safety
+- Technology
+key_points:
+- The release of GPT-4 signifies a major shift in public perception and awareness
+  of AI.
+- '"GPT-4''s advancements show consistency and reliability, making it both more capable
+  and potentially more dangerous."'
+- Cognitive emulation may offer a path to safer AI systems that mimic human reasoning
+  without superseding it.
+segments:
+- title: Introduction to AI Alignment and GPT-4
+  summary: '"Connor Leahy introduces himself and discusses the impact of GPT-4 on
+    the public''s understanding of AI technology."'
+  key_quotes:
+  - quote: This is not just a thing that is in a small circle of people in tech or
+      Silicon Valley.
+    speaker: Connor Leahy
+    context: Discussing the widespread awareness of AI technology beyond tech circles.
+- title: '"AI''s Expanding Influence Beyond Tech"'
+  summary: Leahy shares insights on how the release of AI models has sparked interest
+    and concern across various societal sectors.
+  key_quotes:
+  - quote: People are starting to panic. This goes beyond Silicon Valley, Twitter
+      circles.
+    speaker: Connor Leahy
+    context: On the growing concern surrounding AI advancements.
+- title: Capabilities and Dangers of GPT-4
+  summary: The conversation covers the capabilities of GPT-4 and its implications
+    for safety and accuracy in AI outputs.
+  key_quotes:
+  - quote: The striking is that you can ask it to do something and it will do it,
+      and it will do it very reliably.
+    speaker: Connor Leahy
+    context: '"Reflecting on GPT-4''s capabilities compared to its predecessors."'
+- title: Exploring the Full Potential of GPT Models
+  summary: Discussion on the limitations and dangers of current AI systems and the
+    unfounded belief in their infallibility.
+  key_quotes:
+  - quote: There is no way to prove the absence of a capability.
+    speaker: Connor Leahy
+    context: Critique of assumptions made about the capabilities of current AI models.
+- title: Enhancing AI with Plugins and Human-like Cognition
+  summary: Leahy discusses the role of plugins in enhancing AI capabilities while
+    emphasizing the need for thoughtful deployment.
+  key_quotes:
+  - quote: '"It''s a hilarious attempt of showing just like the complete disregard
+      for the ratcheting of capabilities."'
+    speaker: Connor Leahy
+    context: Criticizing the rapid deployment of powerful AI technologies without
+      sufficient oversight.
+- title: Ethical Implications of AI in Society
+  summary: A sharp critique on how society interacts with AI, often prioritizing engagement
+    over ethical considerations.
+  key_quotes:
+  - quote: A distressingly large group of people seem to take great pleasure in torturing
+      language models.
+    speaker: Connor Leahy
+    context: On the ethical considerations around user interactions with AI systems.
+- title: Cognitive Emulation and AI Safety
+  summary: Leahy outlines his vision for cognitive emulation as a potential solution
+    for AI safety.
+  key_quotes:
+  - quote: A full CoM system would become a model made of many subcomponents that
+      emulate human reasoning.
+    speaker: Connor Leahy
+    context: Defining the principles behind cognitive emulation in AI design.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: OpenAI
+  url: '"https://openai.com"'
+  description: An AI research and deployment company responsible for developing large
+    language models.
+  context: '"Connor discusses OpenAI''s role in the development of advanced AI models
+    like GPT-4."'
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: ''
+    context: The host organization focusing on the impact of technology on society.
+  companies:
+  - name: Conjector
+    industry: AI Research
+    context: Company led by Connor Leahy focused on scalable AI alignment.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Connor Leahy
+    institution: Conjector
+    field: AI Alignment and Research
+    context: Expert discussing AI advancements and their implications.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Introduction of GPT-4
+    date: 2023-03
+    significance: Significant advancement in AI that reshaped public perception and
+      engagement with technology.
+    context: Relates to the broader discussion surrounding advancements in AI technology.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AGI
+- AI safety
+- Cognitive emulation
+- GPT-4
+categories:
+- Technology
+- Artificial Intelligence
+intended_audience: Tech enthusiasts, AI researchers, policy makers
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider the implications of AI technology on society and advocate for responsible
+  use.
+- Push for regulations and guidelines to ensure AI technologies are developed and
+  deployed safely.
+controversial_topics:
+- topic: The rapid advancement and deployment of AI technologies
+  different_viewpoints:
+  - perspective: Support for rapid innovation
+    proponents: Tech industry leaders
+    key_arguments: Innovation drives societal progress and economic growth.
+  - perspective: Need for careful regulation
+    proponents: AI ethics advocates
+    key_arguments: Unregulated AI development poses risks to safety and ethical standards.

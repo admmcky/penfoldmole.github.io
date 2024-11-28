@@ -1,0 +1,184 @@
+title: '"Governing Biotechnology: From Avian Flu to Genetically-Modified Babies With
+  Catherine Rhodes"'
+original_url: '"https://zencastr.com/z/c9Dp6j8c"'
+date_published: '2018-11-30'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Catherine Rhodes
+  affiliation: Center for the Study of Existential Risk
+  title: Senior Research Associate and Deputy Director
+  bio: Catherine Rhodes is a senior research associate and deputy director focused
+    on understanding the intersection of risks stemming from technologies and governance.
+  expertise_areas:
+  - International governance of biotechnology
+  - Biosecurity
+  - Risk management
+synopsis: In this episode, Arielle Kahn interviews Catherine Rhodes to explore the
+  risks and governance associated with biotechnology, including the ethical implications
+  of gene editing and emerging technologies. They discuss the balance between innovation
+  and safety in scientific research.
+key_topics:
+- Biotechnology risks and biosecurity
+- Genetically edited babies
+- Gain of function research
+- Communication between scientists and policymakers
+- Ethical implications of biological research
+tags:
+- Biotechnology
+- Ethics
+- Policy
+- Biosecurity
+key_points:
+- Understanding biological risk and the importance of protective measures.
+- The ethical challenges posed by gain of function experiments.
+- Need for improved communication and education between scientific and policy communities.
+- The responsibility of scientists, policymakers, and the public in ensuring ethical
+  research.
+segments:
+- title: Introduction to Biotechnology Risks
+  summary: Arielle Kahn introduces the topic of biotechnology, its associated risks,
+    and welcomes guest Catherine Rhodes.
+  key_quotes:
+  - quote: '"It''s about the protection of human, animal, and plant life and health
+      in particular."'
+    speaker: Catherine Rhodes
+    context: Defining biological risk and security.
+- title: '"Genetically Edited Babies: Ethical Shock"'
+  summary: '"Discussion on the recent claims of the world''s first genetically edited
+    babies and its implications for ethics and regulation."'
+  key_quotes:
+  - quote: This case... provides a nice jumping off point to consider regulations,
+      ethics, and risks.
+    speaker: Arielle Kahn
+    context: Opening remarks about the recent gene editing news.
+- title: Defining Biological Risks and Security
+  summary: '"Catherine Rhodes defines the terms ''biological risk'' and ''biological
+    security.''"'
+  key_quotes:
+  - quote: The risks are the risks to those objects and security is securing and protecting
+      those.
+    speaker: Catherine Rhodes
+    context: Clarifying definitions of biological risk and security.
+- title: Ethical Implications of Gain of Function Research
+  summary: Exploration of gain of function research practices and the ethical concerns
+    involved.
+  key_quotes:
+  - quote: Gain of function was actually quite a controversial term to have selected.
+    speaker: Catherine Rhodes
+    context: Discussing the terminology in scientific communities.
+- title: Communication Challenges in Science and Policy
+  summary: Discussion about the terminological challenges in scientific and policy
+    communication.
+  key_quotes:
+  - quote: Our choice of terminology affect how we perceive the ethics of some of
+      these projects.
+    speaker: Catherine Rhodes
+    context: Reflecting on the impact of language in research discussions.
+websites_referenced:
+- url: '"https://www.who.int/"'
+  name: World Health Organization
+  context: Organization involved in promoting safety in life sciences.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Biosecurity and the Need for Enhanced Awareness in Biological Research
+  authors:
+  - Catherine Rhodes
+  year: 2018
+  url: ''
+  key_findings: Highlighted the importance of governance and public perception in
+    biotech risks.
+  context: Supports discussions in the podcast regarding biosafety.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Center for the Study of Existential Risk
+    location: Cambridge, UK
+    context: Studies risks related to emerging technologies.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Mitigating existential risks from advanced technologies
+    context: '"Arielle Kahn''s affiliation for the podcast."'
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Catherine Rhodes
+    institution: Center for the Study of Existential Risk
+    field: Biosecurity and risk management
+    context: Guest expert on biotechnology issues.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Asilomar Conference on Recombinant DNA
+    date: 1975
+    significance: Biologists paused research to address ethical concerns.
+    context: Referenced as a historical example of ethical awareness.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- biotechnology
+- ethics
+- governance
+- biosecurity
+categories:
+- Science
+- Ethics
+- Policy
+intended_audience: Policymakers, researchers, and the general public interested in
+  biotechnology.
+expertise_level: Intermediate
+recommended_reading:
+- title: Biosecurity and Ethical Governance in Biotechnology
+  url: ''
+  type: Research Paper
+  relevance: Contextualizes the themes discussed in the podcast.
+action_items:
+- Enhance communication between scientists and policymakers.
+- Raise awareness of ethical implications in biotechnological research.
+controversial_topics:
+- topic: Genetically Edited Babies
+  different_viewpoints:
+  - perspective: Support for innovation
+    proponents: Some scientists and bioethicists
+    key_arguments: Potential benefits for medical advancement.
+  - perspective: Opposition due to ethical risks
+    proponents: Ethicists and many in the scientific community
+    key_arguments: Concerns over safety and unknown long-term effects.

@@ -1,0 +1,182 @@
+title: Connor Leahy on Why Humanity Risks Extinction from AGI
+original_url: '"https://zencastr.com/z/v9ifF8BJ"'
+date_published: '2024-11-22'
+host:
+  name: Gus Docker
+  affiliation: Future of Life Institute
+guests:
+- name: Connor Leahy
+  affiliation: Conjecture
+  title: CEO
+  bio: Connor Leahy is an AI safety researcher and civilizational risk advocate.
+  expertise_areas:
+  - AI risk
+  - Artificial General Intelligence (AGI)
+  - Responsible AI policy
+synopsis: In this episode, Connor Leahy discusses the existential risks posed by advanced
+  AI systems, particularly concerning the development and implications of AGI. He
+  emphasizes the need for a collective understanding and proactive approaches to manage
+  AI risks effectively.
+key_topics:
+- AI risk and safety
+- Existential risks of AGI
+- Political and corporate dynamics in AI development
+- Public engagement and policy-making
+tags:
+- AI
+- AGI
+- Existential Risk
+- Policymaking
+- Technology
+key_points:
+- The potential for AGI to pose existential risks if not carefully managed.
+- The importance of transparency and clarity in discussions about AI risks.
+- The necessity of public engagement in shaping AI policies.
+- The role of different organizations and their incentives in the AGI race.
+segments:
+- title: Introduction and Background
+  summary: '"Connor and Gus discuss Connor''s background and the collaborative effort
+    behind ''The Compendium'', focusing on AI risk."'
+  key_quotes:
+  - quote: '"The reason we decided to write was...to create something that''s like
+      the whole thing in one spot."'
+    speaker: Connor Leahy
+    context: '"Discussing motivations for writing ''The Compendium'' on AI risk."'
+- title: Policy and Corporate Concerns
+  summary: The conversation transitions to the confusion among policymakers regarding
+    the AI safety movement.
+  key_quotes:
+  - quote: There is a very common confusion...around like open philanthropy and these
+      kinds of people.
+    speaker: Connor Leahy
+    context: Describing the misunderstandings related to different actors in the AI
+      safety space.
+- title: Regulation and Ideological Motives
+  summary: The discussion covers the underlying motivations behind various organizations
+    involved in the AI race.
+  key_quotes:
+  - quote: The race to AGI cannot be understood in purely economical terms.
+    speaker: Connor Leahy
+    context: Explaining the ideological aspects of the AGI development race.
+- title: AGI Race and Global Risks
+  summary: Connor outlines the risks associated with the AGI arms race between nations
+    and corporations.
+  key_quotes:
+  - quote: '"You can''t win an AGI arms race. The only winner is AGI."'
+    speaker: Connor Leahy
+    context: Emphasizing the futility of racing towards AGI.
+- title: Impact on Labor Markets and Alignment Challenges
+  summary: Connor discusses the implications of AGI on labor markets and the challenges
+    of aligning advanced AI with human values.
+  key_quotes:
+  - quote: The alignment problem is how do you connect causally your desires and values
+      to what actually happens in reality.
+    speaker: Connor Leahy
+    context: Describing the fundamental challenge in AI alignment.
+- title: Engagement and Discourse for AI Development
+  summary: In the concluding segment, Connor emphasizes the importance of public engagement
+    and small actions to influence AI policy positively.
+  key_quotes:
+  - quote: '"What do we do? We need to just have patience and actually explain things
+      to people."'
+    speaker: Connor Leahy
+    context: Encouraging listeners to engage actively in discussions about AI and
+      policy.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Research and policy organization focused on mitigating existential risks.
+  access_date: null
+research_papers:
+- title: The Compendium
+  authors:
+  - Connor Leahy
+  - Chris Gamel
+  - Adam Shimi
+  - Gabe L4
+  - Andrea Miyati
+  year: 2024
+  url: ''
+  key_findings: A comprehensive overview of AI risk for a non-technical audience,
+    highlighting political and social dimensions.
+  context: The authors aimed to centralize discussions on AI risk.
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: Cambridge, MA, USA
+    context: Focuses on existential risk and the safe development of technology.
+  companies:
+  - name: Conjecture
+    industry: AI Safety Research
+    context: '"Connor Leahy''s organization focusing on safe AI development."'
+  non_profits:
+  - name: Open Philanthropy
+    focus_area: Effective altruism and AI safety.
+    context: Influences funding and policy decisions in AI safety.
+  government_agencies:
+  - name: U.S. Congress
+    country: United States
+    context: Involved in discussions around technology regulation and AI policy.
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: University of Oxford
+    field: AI safety and ethics
+    context: Known for his work on existential risks from advanced AI.
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Notable figure in the AI space, involved in discussions on AI risk.
+  - name: Dario Amodei
+    company: Anthropic
+    role: CEO
+    context: Leader in AI research with an emphasis on safety.
+  policy_makers:
+  - name: Senator Richard Blumenthal
+    role: U.S. Senator
+    organization: U.S. Congress
+    context: Engaged in public hearings on AI safety and regulation.
+events:
+  historical:
+  - name: Scientific Revolution
+    date: null
+    significance: Period that reshaped scientific thought and methods.
+    context: Mentioned in context of the printing press and information dissemination.
+  - name: Witch Hunts in Europe
+    date: null
+    significance: Escalated after the advent of the printing press due to spread of
+      misinformation.
+    context: Served as a historical parallel to current issues with information and
+      misinformation.
+keywords:
+- AGI risks
+- AI policy
+- public engagement
+- existential risks
+categories:
+- Technology
+- Society
+- Ethics
+intended_audience: Individuals interested in AI, technology policy, and societal impact.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Compendium
+  url: ''
+  type: Book
+  relevance: Comprehensive guide on AI risks aimed at a general audience.
+action_items:
+- Engage with local policymakers about AI risks.
+- Share information summaries on AI developments weekly with local representatives.
+- Encourage discussions about AI safety within your community.
+controversial_topics:
+- topic: The Use of Open Source AI
+  different_viewpoints:
+  - perspective: Open source could lead to rapid breakthroughs.
+    proponents: Connor Leahy
+    key_arguments: Open source allows for high variance and unexpected discoveries
+      that could catalyze AGI development.
+  - perspective: Big tech companies will dominate AGI development due to resources.
+    proponents: Mainstream view
+    key_arguments: Resource constraints and corporate funding favor large organizations
+      in developing advanced AI systems.

@@ -1,0 +1,205 @@
+title: '"AIAP: Identity and the AI Revolution with David Pearce and Andrés Gómez Emilsson"'
+original_url: '"https://zencastr.com/z/EJyDVxeV"'
+date_published: '2020-01-16'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: David Pearce
+  affiliation: Humanity Plus
+  title: Co-founder
+  bio: David is a prominent figure in the transhumanism movement and co-founder of
+    the World Transhumanist Association, focusing on the abolition of suffering.
+  expertise_areas:
+  - Transhumanism
+  - Philosophy of mind
+  - AI ethics
+- name: Andrés Gómez Emilsson
+  affiliation: Qualia Research Institute
+  title: Co-founder and President
+  bio: '"Andrés is a consciousness researcher with a master''s in computational psychology
+    from Stanford, dedicated to exploring philosophical implications of consciousness."'
+  expertise_areas:
+  - Consciousness research
+  - Computational psychology
+  - AI alignment
+synopsis: This episode explores identity through the ontological, epistemological,
+  and phenomenological lenses, discussing its implications for AI alignment and the
+  ethical considerations surrounding the development of AI technologies.
+key_topics:
+- Identity
+- AI alignment
+- Ethics
+- Transhumanism
+- Consciousness
+tags:
+- AI
+- Philosophy
+- Transhumanism
+- Consciousness
+key_points:
+- Identity is fundamental to understanding human values and aligning AI with those
+  values.
+- Different views on identity have significant ethical implications for how AI is
+  developed and deployed.
+- Effective AI alignment requires awareness of the complexities of human identity
+  and consciousness.
+segments:
+- title: Identity and AI Alignment
+  summary: The conversation begins with the various concepts of identity and their
+    relevance to AI alignment, including the motivations and ethical dimensions involved.
+  key_quotes:
+  - quote: The question of how is this relevant to AI alignment to be a very useful
+      one to explore here.
+    speaker: Lucas Perry
+    context: Introduction to the episode.
+- title: Impact of Researcher Identity
+  summary: '"The guests discuss how researchers'' identities influence AI ethics and
+    alignment, highlighting the importance of self-awareness in the development of
+    AI."'
+  key_quotes:
+  - quote: Being aware of commonly held identity models is important for understanding
+      their consequences.
+    speaker: Andrés Gómez Emilsson
+    context: Importance of identity in the AI alignment context.
+- title: Philosophical Perspectives on Identity
+  summary: A deep dive into the ontological, epistemological, and phenomenological
+    aspects of identity, revealing how these concepts shape our understanding of self.
+  key_quotes:
+  - quote: Most people tend to confuse the two. They tend to confuse ontological and
+      phenomenological identity.
+    speaker: David Pearce
+    context: Distinction between different types of identity.
+- title: Ethics and AI Development
+  summary: The discussion shifts to the ethical implications of identity as it relates
+    to AI, specifically in the context of moral philosophy and AI governance.
+  key_quotes:
+  - quote: '"If we ground morality on consciousness, we''re making new subjects of
+      morality."'
+    speaker: Andrés Gómez Emilsson
+    context: Ethical considerations in the AI alignment process.
+- title: Future Scenarios and AI Alignment
+  summary: The guests share their thoughts on how shifting perspectives on identity
+    could influence societal futures, especially as AI evolves.
+  key_quotes:
+  - quote: Challenging conventional views on identity will shift the kinds of worlds
+      that people are okay with.
+    speaker: David Pearce
+    context: Impact of identity understanding on future societal structures.
+websites_referenced:
+- url: '"https://futureoflife.org/donate"'
+  name: Future of Life Institute
+  context: Nonprofit organization focused on promoting beneficial AI and mitigating
+    existential risks.
+  access_date: '2023-10-10'
+tools_mentioned:
+- name: Consciousness Technologies
+  url: ''
+  description: Technological innovations aimed at enhancing human consciousness and
+    promoting well-being.
+  context: Discussion on future applications.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: The Hedonistic Imperative
+  authors:
+  - David Pearce
+  year: null
+  isbn: ''
+  context: Book discussing moral obligations to abolish suffering through technology.
+organizations:
+  academic_institutions:
+  - name: Stanford University
+    location: Stanford, CA, USA
+    context: '"Where Andrés Gómez Emilsson obtained his master''s in computational
+      psychology."'
+  companies:
+  - name: Qualia Research Institute
+    industry: Consciousness Research
+    context: Research institute focused on studying consciousness and its implications.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and ethics
+    context: Nonprofit aimed at ensuring that AI benefits humanity.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: David Pearce
+    institution: Humanity Plus
+    field: Transhumanism
+    context: Co-founder of the World Transhumanist Association focused on ethical
+      implications of AI.
+  - name: Andrés Gómez Emilsson
+    institution: Qualia Research Institute
+    field: Consciousness Research
+    context: Focus on consciousness and its relationship with AI alignment.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI alignment
+- consciousness
+- philosophy
+- transhumanism
+- ethics
+categories:
+- Technology
+- Philosophy
+- Ethics
+- Transhumanism
+intended_audience: Philosophers, AI researchers, ethicists, and anyone interested
+  in the implications of AI.
+expertise_level: Intermediate
+recommended_reading:
+- title: Life 3.0
+  url: ''
+  type: Book
+  relevance: Explores the future of AI and its implications for humanity.
+action_items:
+- Consider the ethical implications of AI alignment in your work.
+- Explore different perspectives on identity and their impact on technology.
+controversial_topics:
+- topic: The nature of identity in AI
+  different_viewpoints:
+  - perspective: Closed Individualism
+    proponents: David Pearce
+    key_arguments: Argues for a clear boundary between self and other, stressing the
+      need for self-preservation.
+  - perspective: Open Individualism
+    proponents: Andrés Gómez Emilsson
+    key_arguments: Advocates for a view of identity that fosters greater compassion
+      for all sentient beings.

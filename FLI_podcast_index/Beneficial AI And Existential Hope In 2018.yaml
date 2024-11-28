@@ -1,0 +1,186 @@
+title: Beneficial AI And Existential Hope In 2018
+original_url: '"https://zencastr.com/z/IaCXfjlw"'
+date_published: '2017-12-21'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Max Tegmark
+  affiliation: Future of Life Institute
+  title: President
+  bio: Max Tegmark is a physicist, cosmologist, and co-founder of the Future of Life
+    Institute.
+  expertise_areas:
+  - Artificial Intelligence
+  - Ethics
+  - Philosophy
+- name: Anthony Aguirre
+  affiliation: Future of Life Institute
+  title: Co-founder
+  bio: Anthony Aguirre is a physicist and researcher focusing on the implications
+    of AI technology.
+  expertise_areas:
+  - AI Safety
+  - Cosmology
+- name: Victoria Krakovina
+  affiliation: Future of Life Institute
+  title: Staff Member
+  bio: Victoria Krakovina is involved in initiatives focused on ethical and beneficial
+    AI.
+  expertise_areas:
+  - AI Policy
+  - Research
+- name: Jessica Cousins
+  affiliation: Future of Life Institute
+  title: Staff Member
+  bio: Jessica Cousins works on implementing AI safety initiatives.
+  expertise_areas:
+  - Technical Research
+  - AI Governance
+- name: Richard Mala
+  affiliation: Future of Life Institute
+  title: Researcher
+  bio: Richard Mala focuses on AI safety research and its interdisciplinary approaches.
+  expertise_areas:
+  - Technical AI Research
+  - Safety
+- name: Lucas Perry
+  affiliation: Future of Life Institute
+  title: Researcher
+  bio: Lucas Perry engages in AI alignment and governance discussions.
+  expertise_areas:
+  - AI Alignment
+  - Ethics
+synopsis: '"The podcast discusses the progress and challenges in AI safety and ethics
+  in 2017, emphasizing collaborative efforts and reflections on the past year while
+  highlighting the Future of Life Institute''s initiatives."'
+key_topics:
+- AI Safety
+- Ethical AI
+- Future of Life Institute Initiatives
+- Value Alignment
+- Nuclear Weapons
+- Lethal Autonomous Weapons
+tags:
+- Artificial Intelligence
+- Ethics
+- Safety
+- Future of Life Institute
+key_points:
+- The Asilomar conference established key AI principles endorsed by many researchers.
+- Global outreach efforts included video campaigns against lethal autonomous weapons.
+- Future of Life Institute aims to engage the younger generation in AI safety topics.
+segments:
+- title: '"2017: A Year of Hope Amidst Challenges"'
+  summary: Arielle Kahn introduces the podcast by reflecting on the dramatic events
+    of 2017 and the hope fostered by the Future of Life Institute.
+  key_quotes:
+  - quote: '"While it''s easy to be discouraged by various news stories, we at FLI
+      find ourselves hopeful that we can still create a bright future."'
+    speaker: Arielle Kahn
+    context: Introduction to the podcast.
+- title: AI Principles at Asilomar Conference
+  summary: Max Tegmark discusses the significance of the Asilomar principles and their
+    endorsement by the AI research community.
+  key_quotes:
+  - quote: The output was the 23 Asilomar principles, which have since been signed
+      by over a thousand AI researchers around the world.
+    speaker: Max Tegmark
+    context: Overview of the Asilomar conference outcomes.
+- title: '"From Principles to Action: Implementing AI Safety"'
+  summary: The conversation focuses on the transition from established AI principles
+    to actionable strategies for AI safety.
+  key_quotes:
+  - quote: Value alignment is truly something that is interdisciplinary.
+    speaker: Lucas Perry
+    context: Discussion on the importance of interdisciplinary approaches in AI safety.
+- title: Awareness and Action Against Autonomous Weapons
+  summary: '"The FLI''s efforts to advocate for the ban on lethal autonomous weapons
+    and the importance of international treaties are highlighted."'
+  key_quotes:
+  - quote: We hope that an international treaty is going to keep it that way.
+    speaker: Max Tegmark
+    context: Discussion on the Slaughterbots video and its impact on public awareness.
+- title: '"Honoring Vasily Arkhipov: Lessons in Heroism"'
+  summary: The podcast concludes with a discussion of the Future of Life Award presented
+    to Vasily Arkhipov for his actions during the Cold War.
+  key_quotes:
+  - quote: '"Vasily Arkhipov... arguably saved the world and is the reason we''re
+      all alive today."'
+    speaker: Arielle Kahn
+    context: Reflection on the importance of recognizing acts of heroism in history.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on ensuring that technology is developed safely and
+    responsibly.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced:
+- title: '"Life 3.0: Being Human in the Age of Artificial Intelligence"'
+  authors:
+  - Max Tegmark
+  year: 2017
+  isbn: ''
+  context: Book addressing the implications of AI on society.
+organizations:
+  academic_institutions: []
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Ethics
+    context: An organization dedicated to promoting safe and beneficial AI.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: University of California, Berkeley
+    field: Computer Science
+    context: Influential researcher in AI ethics and safety.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Slaughterbots
+  organization: Future of Life Institute
+  description: Video aimed at raising awareness about autonomous weapons.
+  status: Launched
+  url: ''
+  context: Campaign to promote discussions on lethal autonomous weapons.
+events:
+  historical:
+  - name: Asilomar Conference on Beneficial AI
+    date: '2017-01-01'
+    significance: Gathering of AI researchers to set principles for safe AI development.
+    context: Event central to establishing ethical guidelines for AI.
+  upcoming: []
+keywords:
+- AI Safety
+- Ethical AI
+- Future of Life
+- Autonomous Weapons
+categories:
+- Technology
+- Ethics
+- AI Policy
+intended_audience: Researchers, policymakers, and the general public interested in
+  AI ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: Asilomar AI Principles
+  url: ''
+  type: Guideline
+  relevance: Foundational principles for safe AI development endorsed by the AI community.
+action_items:
+- Engage in discussions about AI safety and ethics.
+- Support initiatives aimed at banning AI-driven autonomous weapons.
+controversial_topics:
+- topic: Lethal Autonomous Weapons Ban
+  different_viewpoints:
+  - perspective: Support for a ban on autonomous weapons.
+    proponents: Max Tegmark, Stuart Russell
+    key_arguments: Concerns about ethical implications and unintended consequences
+      of AI in warfare.
+  - perspective: Advocacy for research on autonomous weapons.
+    proponents: Various defense organizations.
+    key_arguments: Potential benefits in military efficiency and deterrence.

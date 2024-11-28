@@ -1,0 +1,129 @@
+title: '"AIAP: On Becoming a Moral Realist with Peter Singer"'
+original_url: '"https://zencastr.com/z/JKbVwj7i"'
+date_published: '2018-10-18'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Peter Singer
+  affiliation: Princeton University, University of Melbourne
+  title: Moral Philosopher
+  bio: Peter Singer is a world-renowned moral philosopher known for his work on animal
+    ethics, utilitarianism, global poverty, and altruism.
+  expertise_areas:
+  - Moral Philosophy
+  - Ethics
+  - Utilitarianism
+  - Animal Ethics
+synopsis: In this episode, moral philosopher Peter Singer discusses his transition
+  from moral anti-realism to moral realism, exploring the implications for AI alignment
+  and ethics.
+key_topics:
+- Moral Philosophy
+- Moral Realism
+- Ethics in AI
+- Preference Utilitarianism
+- Hedonistic Utilitarianism
+tags:
+- Ethics
+- AI Alignment
+- Moral Philosophy
+key_points:
+- Moral philosophy is crucial for discussions on AI safety and alignment.
+- There are objective moral truths that guide ethical reasoning.
+- A hedonistic utilitarian perspective places intrinsic value on happiness.
+segments:
+- title: '"Peter Singer''s Moral Evolution"'
+  summary: Singer discusses his journey from moral anti-realism and emotivism to moral
+    realism, highlighting the philosophical influences that shaped his views.
+  key_quotes:
+  - quote: I came to the conclusion that there is a reasonable case for saying that
+      there are objective moral truths.
+    speaker: Peter Singer
+    context: Singer reflects on his evolving understanding of moral philosophy.
+- title: The Role of Moral Philosophy in AI Alignment
+  summary: The conversation explores how moral philosophy intersects with AI alignment,
+    emphasizing the importance of ethics in designing AI systems.
+  key_quotes:
+  - quote: If we take human beings to be agents of limited or semi-rationality, then
+      we could expect that some of us have gained access to core axioms of morality.
+    speaker: Lucas Perry
+    context: Perry discusses the implications of moral reasoning for AI systems.
+- title: Transition from Preference to Hedonistic Utilitarianism
+  summary: Singer examines the shift from preference utilitarianism to hedonistic
+    utilitarianism, discussing the internal challenges faced by both perspectives.
+  key_quotes:
+  - quote: I decided that it was more likely than not that a hedonistic view was the
+      right view.
+    speaker: Peter Singer
+    context: Singer outlines his reasons for preferring hedonistic utilitarianism.
+websites_referenced:
+- url: '"https://www.thelifeyoucansave.org"'
+  name: The Life You Can Save
+  context: A non-profit organization founded by Peter Singer that recommends effective
+    charities.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced:
+- title: What Matters
+  authors:
+  - Derek Parfit
+  year: null
+  isbn: ''
+  context: '"A significant work influencing Singer''s view on objective moral truths."'
+organizations:
+  academic_institutions:
+  - name: Princeton University
+    location: Princeton, NJ, USA
+    context: Where Peter Singer holds a position.
+  - name: University of Melbourne
+    location: Melbourne, Australia
+    context: Where Peter Singer also holds a position.
+  companies: []
+  non_profits:
+  - name: The Life You Can Save
+    focus_area: Effective altruism and charity
+    context: An organization aimed at reducing global poverty.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Derek Parfit
+    institution: Oxford University
+    field: Philosophy
+    context: '"Influential philosopher whose work impacted Singer''s views."'
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming: []
+keywords:
+- Moral Philosophy
+- AI Ethics
+- Utilitarianism
+categories:
+- Philosophy
+- Artificial Intelligence
+- Ethics
+intended_audience: Philosophers, AI researchers, ethics enthusiasts
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Utilitarianism: A Very Short Introduction"'
+  url: ''
+  type: Book
+  relevance: Co-authored by Peter Singer, providing insights into utilitarian ethics.
+action_items:
+- Reflect on how moral philosophy impacts AI alignment methodologies.
+- Explore further readings on hedonistic versus preference utilitarianism.
+controversial_topics:
+- topic: Objective Moral Truths
+  different_viewpoints:
+  - perspective: Moral Anti-Realism
+    proponents: R. M. Hare
+    key_arguments: Moral judgments do not express objective truths, rather they are
+      subjective attitudes.
+  - perspective: Moral Realism
+    proponents: Peter Singer
+    key_arguments: Moral truths exist independently of individual attitudes and can
+      be rationally discerned.

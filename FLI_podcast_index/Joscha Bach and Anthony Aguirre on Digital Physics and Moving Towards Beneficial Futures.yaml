@@ -1,0 +1,171 @@
+title: Joscha Bach and Anthony Aguirre on Digital Physics and Moving Towards Beneficial
+  Futures
+original_url: '"https://zencastr.com/z/12sOCuXe"'
+date_published: '2021-04-01'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Yoshua Bach
+  affiliation: Intel Labs
+  title: Principal AI Engineer
+  bio: Yoshua Bach is a cognitive scientist and AI researcher with a focus on computational
+    models of decision making, perception, and categorization.
+  expertise_areas:
+  - Cognitive Science
+  - Artificial Intelligence
+- name: Anthony Aguirre
+  affiliation: Foundational Questions Institute
+  title: Co-founder, Associate Scientific Director
+  bio: Anthony Aguirre is a physicist studying the formation and evolution of the
+    universe, and co-founder of several initiatives including Metaculous and the Future
+    of Life Institute.
+  expertise_areas:
+  - Physics
+  - Cosmology
+synopsis: In this episode, Yoshua Bach and Anthony Aguirre discuss the nature of truth,
+  computational theories of the universe, the implications of AGI, and how consciousness
+  could play a role in shaping beneficial futures for humanity.
+key_topics:
+- Nature of Truth
+- Computational Models of the Universe
+- Collective Agency and AGI Alignment
+- Consciousness and Perception
+tags:
+- Artificial Intelligence
+- Cosmology
+- Philosophy
+key_points:
+- Truth is traditionally defined within the context of formal languages.
+- Knowledge and information are distinct; knowledge requires a domain.
+- '"AGI''s alignment with human values is a critical issue for future civilization."'
+- Understanding consciousness involves recognizing that our perceptions are constructed
+  by our minds.
+segments:
+- title: Understanding Truth
+  summary: The guests explore the definition of truth, distinguishing between formal
+    and informal notions of knowledge.
+  key_quotes:
+  - quote: '"I don''t think that we can define truth outside of the context of languages."'
+    speaker: Yoshua Bach
+    context: Discussing the nature of truth and its dependency on language frameworks.
+- title: AGI and Its Alignment
+  summary: The conversation shifts to the challenges of aligning AGI systems with
+    human values and the potential risks of a single AGI.
+  key_quotes:
+  - quote: '"If you build something that is smarter than you, the question is, is
+      it already aligned with you or not?"'
+    speaker: Yoshua Bach
+    context: Discussing AGI alignment challenges.
+- title: Consciousness and Perception
+  summary: Discussion on consciousness elaborating on the structure of consciousness,
+    qualities of perception, and potential non-human consciousness.
+  key_quotes:
+  - quote: '"Experience is only possible in a dream. It''s a virtual property."'
+    speaker: Yoshua Bach
+    context: Explaining the nature of human consciousness.
+websites_referenced:
+- url: '"https://futureoflife.org/job-postings/"'
+  name: Future of Life Institute Job Postings
+  context: Information on job openings at the Future of Life Institute.
+  access_date: '2021-04-01'
+tools_mentioned:
+- name: Metaculous
+  url: '"https://www.metaculous.com/"'
+  description: Predictive marketplace for scientific and technological breakthroughs.
+  context: Cited as an effort to optimally aggregate predictions about advancements.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: MIT Media Lab
+    location: Cambridge, MA
+    context: Previous affiliation of guest Yoshua Bach.
+  companies:
+  - name: Intel
+    industry: Technology
+    context: Current employer of Yoshua Bach.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Policy
+    context: Host organization of the podcast.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Yoshua Bach
+    institution: Intel Labs
+    field: Cognitive Science
+    context: Principal AI engineer with expertise in computational models.
+  - name: Anthony Aguirre
+    institution: Foundational Questions Institute
+    field: Physics
+    context: Expert on the nature of the universe and consciousness.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Digital Physics
+- Cognitive Science
+- Artificial General Intelligence
+categories:
+- Science
+- Technology
+- Philosophy
+intended_audience: Researchers and enthusiasts in AI, philosophy of mind, and cosmic
+  studies.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Explore implications of AGI alignment and its moral responsibilities on society.
+- Consider how collective human consciousness impacts personal and shared realities.
+controversial_topics:
+- topic: AGI Alignment
+  different_viewpoints:
+  - perspective: Humans must ensure AGI is aligned with human values.
+    proponents: Yoshua Bach, Anthony Aguirre
+    key_arguments: AGI could become uncontrollable if not aligned; collective action
+      is needed to guide its development.

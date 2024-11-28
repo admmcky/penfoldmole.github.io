@@ -1,0 +1,181 @@
+title: Dan Faggella on the Race to AGI
+original_url: '"https://zencastr.com/z/7Hweh1Eu"'
+date_published: '2024-05-03'
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Daniel Fagella
+  affiliation: Emerge Artificial Intelligence Research
+  title: Founder
+  bio: Daniel Fagella is the founder of Emerge Artificial Intelligence Research, focusing
+    on AI market research and policy discussions.
+  expertise_areas:
+  - AI Policy
+  - Market Research
+  - Intergovernmental Relations
+synopsis: '"In this podcast, Daniel Fagella discusses the long-term implications of
+  AI and AGI, highlighting risks, stakeholders'' beliefs, and ethical considerations
+  surrounding the future of technology."'
+key_topics:
+- AGI Race
+- AI Policy
+- Long-term AI Risks
+- Stakeholder Perspectives
+- Human-Machine Integration
+tags:
+- AI
+- AGI
+- Technology Policy
+- Ethics
+key_points:
+- Current discussions on AI often focus too much on short-term impacts.
+- There is a need for deeper conversations about the long-term trajectory of AI.
+- AI values and goals vary significantly among key stakeholders.
+- Global cooperation is necessary for managing the development of AI technologies.
+- The distinction between a worthy successor in AI and the human status quo is crucial.
+segments:
+- title: Introduction to AI and Long-term Concerns
+  summary: Daniel discusses the importance of long-term considerations in AI, calling
+    for greater focus on existential risks.
+  key_quotes:
+  - quote: '"We need to inch the conversation forward a little bit more towards what''s
+      the world we''re stepping into."'
+    speaker: Daniel Fagella
+    context: Fagella emphasizes the need to move beyond immediate AI concerns to existential
+      risks in AI policy discussions.
+- title: '"Stakeholder Beliefs and AI''s Future Role"'
+  summary: Discussion on the divergent beliefs of various stakeholders in AI, including
+    their underlying values and motivations.
+  key_quotes:
+  - quote: '"There''s this sort of shared understanding that we all want the same
+      future... but as it turns out, it''s not the case."'
+    speaker: Daniel Fagella
+    context: Fagella highlights the conflicting aspirations among different AI stakeholders.
+- title: AI Values and Goals Framework
+  summary: Fagella presents the framework for categorizing the end goals of different
+    actors in the AI space and their potential trajectory.
+  key_quotes:
+  - quote: I kind of think about this in terms of destinations, not like an internal
+      destination, but a waypoint upon which to go.
+    speaker: Daniel Fagella
+    context: Fagella outlines how different actors aim for various long-term goals
+      concerning AI development.
+- title: Potential and Posthuman Intelligence
+  summary: Explores the moral implications of developing posthuman intelligence and
+    what constitutes a worthy successor in AI.
+  key_quotes:
+  - quote: '"If we don''t expand our potential, it would be a tragically limiting
+      of our potential."'
+    speaker: Daniel Fagella
+    context: Fagella argues for the necessity of striving towards posthuman intelligence
+      for the sake of future potential.
+websites_referenced:
+- url: '"https://danfagella.com/itpm"'
+  name: Intelligence Trajectory Political Matrix
+  context: Fagella references this framework as a tool for understanding the goals
+    of various AI stakeholders.
+  access_date: null
+tools_mentioned:
+- name: MidJourney
+  url: ''
+  description: AI tool for creative tasks.
+  context: Used for generating marketing content and creative ideas.
+research_papers:
+- title: The Moral Singularity
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ETHICS IN AI
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: ''
+    context: Focuses on the ethics and implications of advanced technologies.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: IoT solutions and advancements in AI technology.
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Leading research in AI with a focus on AGI.
+  non_profits:
+  - name: OECD
+    focus_area: International Economic Cooperation
+    context: Engages in discussions about the future of AI and its implications globally.
+  government_agencies:
+  - name: UN
+    country: United Nations
+    context: Engaged in discussions around AI policies and existential risks.
+notable_people:
+  academics:
+  - name: Yoshua Bengio
+    institution: University of Montreal
+    field: Artificial Intelligence
+    context: Contributed to AI research and development discussions.
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Influential figure in AI, emphasizing a responsible approach to AGI development.
+  policy_makers:
+  - name: Jan Talin
+    role: UN Committee Member
+    organization: United Nations
+    context: Engaged in high-level discussions on AI ethics and policy.
+projects_mentioned:
+- name: Emerge AI Research
+  organization: Emerge
+  description: Market research company focusing on AI.
+  status: Active
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: UN Discussion on Deepfakes
+    date: null
+    significance: Highlighted the implications of AI-generated content.
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Artificial Intelligence
+- AGI
+- AI Policy
+- Existential Risks
+categories:
+- Technology
+- Ethics
+- Artificial Intelligence
+intended_audience: Researchers, policymakers, and AI enthusiasts
+expertise_level: Intermediate
+recommended_reading:
+- title: The Ethics of AI
+  url: ''
+  type: Article
+  relevance: Discussion on ethical implications of AI development.
+action_items:
+- Foster dialogues between different AI communities to address diverging future paths.
+- Encourage policy discussions for international cooperation on AI governance.
+controversial_topics:
+- topic: Humanism vs. Transhumanism in AI Development
+  different_viewpoints:
+  - perspective: Preservation of humanity is paramount.
+    proponents: Humanists who argue for prioritizing human values.
+    key_arguments: Advocates for slowing AI progress to ensure human-centric development.
+  - perspective: Pursue posthuman intelligence for advancing potential.
+    proponents: Transhumanists who believe in expanding capabilities beyond human
+      limitations.
+    key_arguments: Posing the moral obligation to explore the good through technological
+      advancement.

@@ -1,0 +1,184 @@
+title: '"AIAP: Human Compatible: Artificial Intelligence and the Problem of Control
+  with Stuart Russell"'
+original_url: '"https://zencastr.com/z/jmWu8omZ"'
+date_published: '2019-10-08'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Stuart Russell
+  affiliation: University of California, Berkeley
+  title: Professor of Computer Science
+  bio: Stuart Russell is a distinguished professor of computer science, recognized
+    for his expertise in artificial intelligence and his influential thoughts on AI
+    safety and control.
+  expertise_areas:
+  - Artificial Intelligence
+  - AI Safety
+  - Machine Learning
+synopsis: '"In this episode, Lucas Perry talks with Stuart Russell about his book
+  ''Human Compatible,'' which explores the challenges and solutions related to human
+  control over artificial intelligence and the implications of developing superintelligent
+  machines."'
+key_topics:
+- AI Alignment
+- Cooperative Inverse Reinforcement Learning
+- Risks of Superintelligence
+- Human Preferences
+tags:
+- Artificial Intelligence
+- AI Safety
+- Control Problem
+key_points:
+- The traditional model of AI alignment poses existential risks if machines exceed
+  human intelligence.
+- '"Russell''s novel approach involves cooperative inverse reinforcement learning
+  to make AIs understand human preferences better."'
+- '"The importance of aligning AI''s objectives with the nuanced preferences of humans."'
+segments:
+- title: Introduction to AI Alignment and Book Context
+  summary: '"Stuart Russell discusses his motivations for writing ''Human Compatible''
+    and the significance of AI alignment in context."'
+  key_quotes:
+  - quote: '"This beautifully written book addresses a fundamental challenge for humanity:
+      increasingly intelligent machines that do what we ask but not what we really
+      intend."'
+    speaker: Daniel Kahneman
+    context: '"Describing Russell''s book."'
+- title: Historical Roots of AI Alignment
+  summary: Russell explains the historical context of AI and how traditional frameworks
+    may lead to harmful outcomes.
+  key_quotes:
+  - quote: '"If machines are more intelligent than humans, then giving them the wrong
+      objective would basically be setting up a chess match between humanity and a
+      machine that has an objective that''s across purposes with our own."'
+    speaker: Stuart Russell
+    context: Discussing the dangers of misaligned objectives in AI.
+- title: Cooperative Inverse Reinforcement Learning
+  summary: Russell introduces a new AI model based on cooperative inverse reinforcement
+    learning, emphasizing understanding human preference structures.
+  key_quotes:
+  - quote: '"The standard model of AI assumes that the machine has perfect knowledge
+      of the objective. The model I''m proposing assumes that the machine has imperfect
+      knowledge of the objective."'
+    speaker: Stuart Russell
+    context: Defining a new approach to machine understanding.
+- title: Implications and Future of AI
+  summary: The discussion turns to the broad implications of intelligent AI systems
+    and the importance of societal control over their development.
+  key_quotes:
+  - quote: If we create general purpose superhuman intelligent machines and lose control
+      of them, we face potentially disastrous outcomes.
+    speaker: Stuart Russell
+    context: Warning about the rapid advancement of AI technologies.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Deep Learning
+  url: ''
+  description: A machine learning approach based on neural networks that has revolutionized
+    various AI applications.
+  context: Discussed in the context of tool AI and specific applications like handwriting
+    recognition.
+research_papers:
+- title: '"Artificial Intelligence: A Modern Approach"'
+  authors:
+  - Stuart Russell
+  - Peter Norvig
+  year: 1995
+  url: ''
+  key_findings: This textbook is foundational in AI and discusses various essential
+    concepts and methodologies.
+  context: '"Reference to Russell''s earlier work in AI education."'
+books_referenced:
+- title: '"Human Compatible: Artificial Intelligence and the Problem of Control"'
+  authors:
+  - Stuart Russell
+  year: 2019
+  isbn: ''
+  context: The central book discussed throughout the podcast.
+organizations:
+  academic_institutions:
+  - name: University of California, Berkeley
+    location: Berkeley, CA
+    context: Institution where Stuart Russell holds his professorship.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: United Nations
+    country: International
+    context: Russell has served as an advisor on Arms Control.
+notable_people:
+  academics:
+  - name: Yoshua Bengio
+    institution: University of Montreal
+    field: Machine Learning
+    context: '"Praise for Russell''s book."'
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Inverse Reinforcement Learning
+  organization: Berkeley
+  description: A machine learning technique that helps AI infer human preferences
+    from observed behavior.
+  status: Ongoing research.
+  url: ''
+  context: Discussed in relation to understanding human preference structures.
+events:
+  historical:
+  - name: Release of Human Compatible
+    date: '2019-10-08'
+    significance: Launch of a crucial book addressing AI safety concerns.
+    context: '"Date of Stuart Russell''s book release."'
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Safety
+- Control Problem
+- Superintelligence
+categories:
+- Technology
+- Artificial Intelligence
+- Philosophy
+intended_audience: Researchers, policymakers, and the general public interested in
+  the implications of advanced AI.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Superintelligence: Paths, Dangers, Strategies"'
+  url: ''
+  type: Book
+  relevance: Explores similar themes of AI risks and alignment.
+- title: '"Life 3.0: Being Human in the Age of Artificial Intelligence"'
+  url: ''
+  type: Book
+  relevance: Discusses the future implications of AI development.
+action_items:
+- Consider how to ensure that AI systems remain aligned with human values and control.
+controversial_topics:
+- topic: AI Safety and Regulation
+  different_viewpoints:
+  - perspective: Need for regulation of AI development.
+    proponents: Stuart Russell, Lucas Perry, others concerned with AI risks.
+    key_arguments: Unregulated AI poses existential risks; calls for common sense
+      rules for AI deployment.

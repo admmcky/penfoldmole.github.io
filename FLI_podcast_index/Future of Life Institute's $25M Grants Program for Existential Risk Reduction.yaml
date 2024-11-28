@@ -1,0 +1,188 @@
+title: '"Future of Life Institute''s $25M Grants Program for Existential Risk Reduction"'
+original_url: '"https://zencastr.com/z/VFQh8QI9"'
+date_published: '2021-10-18'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Max Tegmark
+  affiliation: Future of Life Institute
+  title: President
+  bio: Max Tegmark is a physicist at MIT and co-founder of the Future of Life Institute,
+    working on AI safety and existential risks.
+  expertise_areas:
+  - AI safety
+  - Physics
+  - Existential risks
+- name: Andrea Berman
+  affiliation: Future of Life Institute
+  title: Grants Team Member
+  bio: Andrea Berman is part of the grants team at the Future of Life Institute, focusing
+    on increasing collaboration and supporting talent in the existential risk field.
+  expertise_areas:
+  - Grants management
+  - Existential risk
+- name: Daniel Philan
+  affiliation: Future of Life Institute
+  title: Grants Team Member
+  bio: '"Daniel Philan is involved in the Future of Life Institute''s grants program,
+    focusing on AI existential safety and supporting talented researchers."'
+  expertise_areas:
+  - Grants management
+  - AI safety research
+synopsis: '"This episode discusses the Future of Life Institute''s $25 million grant
+  program initiated to promote AI safety research, driven by concerns over existential
+  risks posed by advanced AI systems."'
+key_topics:
+- AI safety
+- Existential risks
+- Grants and funding in research
+tags:
+- AI
+- Existential risk
+- Grants
+- Research funding
+key_points:
+- The grants program aims to shift focus from powerful AI development to ensuring
+  AI safety.
+- Funding of $25 million is sourced from donations by Vitalik Buterin and the Shiba
+  Inu cryptocurrency community.
+- The importance of growing a talent pipeline in AI safety research is emphasized.
+segments:
+- title: '"Introduction to FLI Podcast & $25M Grants"'
+  summary: Lucas Perry introduces the guests and outlines the purpose of the $25 million
+    grants program.
+  key_quotes:
+  - quote: The goal is to tip the balance towards the flourishing of life and away
+      from extinction.
+    speaker: Lucas Perry
+    context: Introduction of the episode discussing the purpose behind the grants
+      program.
+- title: Importance of AI Safety Research
+  summary: Max Tegmark discusses the motivation behind the grants program, underscoring
+    the need for AI safety amid the increasing power of AI systems.
+  key_quotes:
+  - quote: '"The question isn''t whether it''s good or evil. It''s just morally neutral."'
+    speaker: Max Tegmark
+    context: Max explains the neutral nature of AI and the ethical implications of
+      its use.
+- title: Growing AI Safety Talent Pipeline
+  summary: Max elaborates on the need to attract and cultivate talent in AI safety
+    to address major technical challenges.
+  key_quotes:
+  - quote: '"I would like to see a future where there''s at least as much talent going
+      into working on AI safety as there is on medical safety."'
+    speaker: Max Tegmark
+    context: Discussion on the disparity in talent allocation toward AI safety compared
+      to other fields.
+- title: Building an AI Safety Community
+  summary: Daniel and Andrea discuss the structure of the grants program and the development
+    of a community focused on AI safety.
+  key_quotes:
+  - quote: We are also excited about addressing the talent pipeline and supporting
+      more people.
+    speaker: Andrea Berman
+    context: '"Overview of the grants program''s focus on collaboration and increasing
+      accessibility for newcomers."'
+websites_referenced:
+- url: '"https://futureoflife.org/grant-programs/"'
+  name: Future of Life Institute Grant Programs
+  context: '"Information about FLI''s grant initiatives."'
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: AI Extension Safety Community
+  url: ''
+  description: A community to connect individuals interested in AI existential safety
+    research.
+  context: Created to facilitate networking among prospective researchers and mentors.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Massachusetts Institute of Technology
+    location: Cambridge, MA, USA
+    context: Max Tegmark is affiliated with MIT as a physicist.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Reducing existential risks from advanced technologies
+    context: The organization developing the grants program.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Max Tegmark
+    institution: Massachusetts Institute of Technology
+    field: Physics
+    context: President of the Future of Life Institute, advocating for AI safety.
+  industry_leaders:
+  - name: Vitalik Buterin
+    company: Ethereum Foundation
+    role: Co-founder
+    context: '"Donated to the Future of Life Institute''s grants program."'
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: Application Deadlines for Grants
+    date: '2021-10-29'
+    location: ''
+    description: Deadline for PhD Fellowship applications.
+    url: ''
+keywords:
+- AI safety
+- Existential risk
+- Grants
+categories:
+- Technology
+- Research
+- Philanthropy
+intended_audience: Researchers, students, and practitioners interested in AI safety
+  and existential risks.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- '"Visit Future of Life Institute''s grants page for application details."'
+- Consider applying for the AI existential safety fellowships.
+controversial_topics:
+- topic: Balance between AI Development and Safety
+  different_viewpoints:
+  - perspective: AI should be developed with safety as a priority.
+    proponents: Max Tegmark, Future of Life Institute
+    key_arguments: Growing AI capabilities pose existential risks that require immediate
+      attention.

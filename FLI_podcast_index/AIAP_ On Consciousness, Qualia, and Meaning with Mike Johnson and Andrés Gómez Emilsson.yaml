@@ -1,0 +1,194 @@
+title: '"AIAP: On Consciousness, Qualia, and Meaning with Mike Johnson and Andrés
+  Gómez Emilsson"'
+original_url: '"https://zencastr.com/z/asCNHp0I"'
+date_published: '2019-05-23'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Andrés Gómez Emilsson
+  affiliation: Qualia Research Institute
+  title: Co-Founder and President
+  bio: '"A consciousness researcher with a master''s in computational psychology from
+    Stanford."'
+  expertise_areas:
+  - Consciousness Research
+  - Computational Psychology
+- name: Mike Johnson
+  affiliation: Qualia Research Institute
+  title: Executive Director
+  bio: An expert in neuroscience, philosophy of mind, and complexity theory.
+  expertise_areas:
+  - Neuroscience
+  - Philosophy of Mind
+  - Complexity Theory
+synopsis: In this episode, Lucas Perry discusses consciousness, qualia, and their
+  implications for AI alignment with Mike Johnson and Andrés Gómez Emilsson from the
+  Qualia Research Institute. Topics include different philosophical perspectives on
+  consciousness, the symmetry theory of valence, and the future of ethical AI.
+key_topics:
+- Consciousness and Qualia
+- Functionalism vs. Qualia Realism
+- Symmetry Theory of Valence
+- AI Alignment and Ethics
+tags:
+- Consciousness
+- Philosophy
+- AI Alignment
+- Qualia
+key_points:
+- Experience is prioritized as a source of value.
+- Qualia realism suggests consciousness is a fundamental aspect of reality.
+- The symmetry theory of valence explores how experiences are evaluated positively
+  or negatively.
+- Understanding consciousness is crucial for ethical AI development.
+segments:
+- title: Introduction to QRI
+  summary: '"An overview of the Qualia Research Institute''s mission and core philosophy."'
+  key_quotes:
+  - quote: '"We''re trying to focus on experience as the source of value."'
+    speaker: Mike Johnson
+    context: Discussing the foundational beliefs of the Qualia Research Institute.
+- title: Defining Consciousness
+  summary: Exploring the various definitions and properties of consciousness.
+  key_quotes:
+  - quote: Consciousness is what it feels like to be something.
+    speaker: Mike Johnson
+    context: Defining consciousness from a realist perspective.
+- title: Functionalism vs. Qualia Realism
+  summary: A detailed examination of functionalism, qualia realism, and their implications
+    for AI.
+  key_quotes:
+  - quote: '"Functionalism may seem like a theory of consciousness, but it doesn''t
+      specify phenomenological states."'
+    speaker: Andrés Gómez Emilsson
+    context: Discussing the limitations of functionalism.
+- title: Symmetry Theory of Valence
+  summary: Introducing the symmetry theory of valence and its ethical implications.
+  key_quotes:
+  - quote: Our true source of value is more low level than that.
+    speaker: Andrés Gómez Emilsson
+    context: Sanctioning a view that separates agentive behavior from intrinsic value.
+- title: AI Alignment Challenges
+  summary: Discussions on the philosophical challenges of AI alignment and consciousness.
+  key_quotes:
+  - quote: Nihilism is an existential threat that we need to address.
+    speaker: Mike Johnson
+    context: Recognizing the need for intrinsic values in the context of AI.
+websites_referenced:
+- url: '"http://qualiaresearchinstitute.org"'
+  name: Qualia Research Institute
+  context: Official website of QRI.
+  access_date: null
+- url: '"https://opentheory.net"'
+  name: Open Theory
+  context: Personal blog of Andrés Gómez Emilsson.
+  access_date: null
+tools_mentioned:
+- name: ''
+  url: ''
+  description: ''
+  context: ''
+research_papers:
+- title: Principia Qualia
+  authors:
+  - Andrés Gómez Emilsson
+  - Mike Johnson
+  year: null
+  url: ''
+  key_findings: Explores the philosophical framework regarding consciousness and qualia.
+  context: A significant work regarding the foundation of consciousness studies.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Stanford University
+    location: Stanford, CA, USA
+    context: '"Institution where Andrés Gómez Emilsson completed his master''s in
+      computational psychology."'
+  companies:
+  - name: Qualia Research Institute
+    industry: Research Institute
+    context: A focused organization on consciousness and qualia research.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Giulio Tononi
+    institution: University of Wisconsin-Madison
+    field: Neuroscience
+    context: Known for his Integrated Information Theory related to consciousness.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: '"David Marr''s Levels of Analysis"'
+    date: null
+    significance: Frameworks for understanding consciousness and cognitive processes.
+    context: Referenced during discussions of consciousness analysis.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Consciousness
+- Qualia
+- AI Ethics
+- Philosophy of Mind
+categories:
+- Philosophy
+- Artificial Intelligence
+- Neuroscience
+intended_audience: Researchers and enthusiasts in AI, philosophy, and consciousness
+  studies.
+expertise_level: Intermediate
+recommended_reading:
+- title: Predictive Processing and the Role of Consciousness
+  url: ''
+  type: Article
+  relevance: Gives insight into the relationship between consciousness and predictive
+    processing models.
+action_items:
+- Follow Qualia Research Institute for future insights on consciousness.
+- '"Read ''Principia Qualia'' for a comprehensive understanding of modern consciousness
+  theories."'
+controversial_topics:
+- topic: Functionalism vs. Qualia Realism
+  different_viewpoints:
+  - perspective: Functionalism
+    proponents: Many AI researchers and cognitive scientists.
+    key_arguments: Focus on computational processes; consciousness can be reduced
+      to functional algorithms.
+  - perspective: Qualia Realism
+    proponents:
+    - Andrés Gómez Emilsson
+    - Mike Johnson
+    key_arguments: Consciousness is a fundamental aspect of reality and cannot be
+      fully understood strictly through functionalism.

@@ -1,0 +1,164 @@
+title: Tom Barnes on How to Build a Resilient World
+original_url: '"https://zencastr.com/z/uaQGiYUP"'
+date_published: '2024-09-12'
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Tom Barnes
+  affiliation: Founders Pledge
+  title: Applied Researcher
+  bio: Tom Barnes is an applied researcher at Founders Pledge and an expert advisor
+    to the UK government on AI policy.
+  expertise_areas:
+  - AI safety
+  - AI policy
+  - Philanthropy in AI
+synopsis: '"In this episode, Tom Barnes discusses his report ''Navigating Advanced
+  AI,'' highlighting the disparity in funding between AI safety and capability development,
+  the challenges within the industry, and the importance of resilience in AI governance."'
+key_topics:
+- AI safety funding imbalance
+- Government and regulation in AI
+- Misalignment in AI systems
+- International cooperation
+tags:
+- AI safety
+- Philanthropy
+- AI governance
+key_points:
+- The funding ratio for AI capability versus safety is roughly 250 to 1.
+- Misalignment in AI systems is a significant risk, especially regarding power-seeking
+  behaviors.
+- Governments generally lack preparedness for AI risks, with a small number of personnel
+  focused on it.
+- Philanthropy can play a crucial role in facilitating cooperation between AI industry
+  leaders and governments.
+segments:
+- title: Funding and Investment Imbalance in AI Safety
+  summary: Tom discusses the alarming funding ratio between AI capability development
+    and safety measures, and the implications for future risks.
+  key_quotes:
+  - quote: For every $1 invested in making AI systems safe, $250 is invested in making
+      AI systems more capable.
+    speaker: Tom Barnes
+    context: Discussing funding trends in AI from 2023.
+- title: Challenges in AI Safety and Capability Overlap
+  summary: They explore the overlap between safety techniques and capability enhancements,
+    including the complications arising from dual-use technologies.
+  key_quotes:
+  - quote: Reinforcement learning from human feedback was conceived as a safety technique
+      but also increased capabilities.
+    speaker: Tom Barnes
+    context: In discussing the dual-use nature of AI technologies.
+- title: Government and Regulation in AI Safety
+  summary: Tom addresses the shortcomings in government responses to AI safety and
+    the need for coordinated efforts among nations.
+  key_quotes:
+  - quote: '"Ultimately, it''s government that has to step in."'
+    speaker: Tom Barnes
+    context: In the discussion around government regulation for AI safety.
+- title: Coordination Failures and Race Dynamics
+  summary: They analyze how competition and racing dynamics among AI companies can
+    lead to dangerous oversights in safety.
+  key_quotes:
+  - quote: '"A company wants to deploy a model that may be unsafe because they''re
+      concerned about another party."'
+    speaker: Tom Barnes
+    context: Discussing the dynamics of competition among AI firms.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: An organization focused on existential risks and the long-term impact of
+    AI.
+  access_date: '2024-09-12'
+tools_mentioned: []
+research_papers:
+- title: Navigating Advanced AI
+  authors:
+  - Tom Barnes
+  year: 2024
+  url: ''
+  key_findings: Increased focus on AI safety is necessary amidst rapid advancements
+    in AI capabilities.
+  context: The report authored by Tom Barnes.
+books_referenced:
+- title: Three-Body Problem
+  authors:
+  - Liu Cixin
+  year: 2008
+  isbn: 978-0765382030
+  context: A science fiction novel exploring themes related to intelligence and the
+    future of humanity.
+organizations:
+  academic_institutions:
+  - name: AI Safety Institute
+    location: UK
+    context: A dedicated institute to address AI safety challenges.
+  companies:
+  - name: Founders Pledge
+    industry: Philanthropy
+    context: An organization that encourages philanthropists to commit a percentage
+      of their future earnings to impactful causes.
+  non_profits: []
+  government_agencies:
+  - name: UK Government
+    country: United Kingdom
+    context: Involved in AI policy-making and safety measures.
+notable_people:
+  academics:
+  - name: Yoshua Bengio
+    institution: University of Montreal
+    field: Deep Learning
+    context: Mentions as an influential figure in the AI safety discussion.
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Cited for his views on the future risks of AI systems.
+  policy_makers: []
+projects_mentioned:
+- name: AI Safety Institute
+  organization: UK Government
+  description: A government initiative aimed at addressing AI safety challenges.
+  status: Active
+  url: ''
+  context: Focused on AI safety research and policy recommendations.
+events:
+  historical: []
+  upcoming:
+  - name: AI Safety Summit
+    date: '2024-11-15'
+    location: France
+    description: A summit focusing on international dialogues and cooperation in AI
+      safety.
+    url: ''
+keywords:
+- AI risks
+- long-term safety
+- global governance
+categories:
+- Technology
+- Policy
+- Philanthropy
+intended_audience: Policy makers, researchers, and anyone interested in AI safety
+  and ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: On War
+  url: '"https://example.com/on-war"'
+  type: book
+  relevance: Discusses strategy and governance which is relevant to handling global
+    AI risks.
+action_items:
+- Encourage increased funding for AI safety research and government preparedness.
+controversial_topics:
+- topic: AI Regulation
+  different_viewpoints:
+  - perspective: Regulation helps ensure safety.
+    proponents: Tom Barnes, various policymakers.
+    key_arguments: Regulation is necessary to prevent unbounded race dynamics in AI
+      development.
+  - perspective: Regulation may stifle innovation.
+    proponents: Private sector leaders.
+    key_arguments: Excessive regulation could hinder technological progress and competitiveness.

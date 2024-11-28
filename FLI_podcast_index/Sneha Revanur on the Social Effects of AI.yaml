@@ -1,0 +1,180 @@
+title: Sneha Revanur on the Social Effects of AI
+original_url: '"https://zencastr.com/z/piKrsFmO"'
+date_published: '2024-02-16'
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Sneha Revanur
+  affiliation: ENCODE Justice
+  title: Founder
+  bio: Sneha Revanur is a founder of ENCODE Justice, a youth organization focused
+    on human-centered and safe artificial intelligence.
+  expertise_areas:
+  - Artificial Intelligence
+  - Youth Advocacy
+  - Legislative Policy
+synopsis: In this episode, Sneha Revanur discusses the founding of ENCODE Justice,
+  the social implications of AI, and the need for both ethical and safety considerations
+  in AI development.
+key_topics:
+- AI Safety and Ethics
+- Youth Advocacy
+- Algorithmic Bias
+- Deepfakes and Misinformation
+- School Surveillance
+tags:
+- Artificial Intelligence
+- Youth
+- Policy
+- Technology
+key_points:
+- ENCODE Justice is focused on advocating for safe AI through democratic governance
+  and inclusion of diverse youth perspectives.
+- Youth engagement in AI policy is critical due to the lack of representation in the
+  field.
+- There exists a factional divide between AI ethics and AI safety communities, which
+  can stifle collaboration.
+- Deepfakes and misinformation pose urgent risks, particularly in political contexts.
+segments:
+- title: Founding of ENCODE Justice
+  summary: Sneha shares the motivations behind establishing ENCODE Justice and how
+    involvement in local electoral measures inspired her activism.
+  key_quotes:
+  - quote: I was actually in high school in response to a ballot measure in my home
+      state of California.
+    speaker: Sneha Revanur
+    context: On her motivation for starting ENCODE Justice.
+- title: Global Growth and Challenges
+  summary: The discussion highlights the global spread of ENCODE Justice and the challenges
+    of maintaining a coherent strategy across diverse youth perspectives.
+  key_quotes:
+  - quote: Young people are not necessarily monolithic.
+    speaker: Sneha Revanur
+    context: On the diversity of opinions within ENCODE Justice.
+- title: AI Safety vs Ethics Debate
+  summary: The segment delves into the tensions between the AI ethics and safety communities
+    and how these can be reconciled for collective progress.
+  key_quotes:
+  - quote: '"It''s kind of organically arisen...but I don''t think the tension needs
+      to exist."'
+    speaker: Sneha Revanur
+    context: Discussing the divide in AI communities.
+- title: Misinformation and Deepfake Challenges
+  summary: Sneha discusses the implications of deepfakes in elections and the necessity
+    for regulations to combat misinformation.
+  key_quotes:
+  - quote: We just signed on to a letter...creating liability for every note of the
+      supply chain.
+    speaker: Sneha Revanur
+    context: On the need for regulation in AI development.
+- title: Social Media and Youth Mental Health
+  summary: The conversation addresses how social media algorithms influence youth
+    mental health and foster polarization.
+  key_quotes:
+  - quote: '"We''ve seen how algorithms have created a youth mental health crisis."'
+    speaker: Sneha Revanur
+    context: Highlighting the negative impacts of social media.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on the beneficial use of technology, including AI.
+  access_date: null
+tools_mentioned:
+- name: ENCODE Justice
+  url: ''
+  description: A youth-led organization advocating for safe artificial intelligence.
+  context: Focuses on legislative advocacy surrounding AI policy.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: ''
+    location: ''
+    context: ''
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: ENCODE Justice
+    focus_area: Youth Advocacy for AI Policy
+    context: Working to ensure AI is safe and beneficial for society.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: ''
+    institution: ''
+    field: ''
+    context: ''
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: World Economic Forum 2023
+    date: null
+    significance: '"Discussion around AI''s impact on society."'
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Artificial Intelligence
+- Youth
+- Ethics
+- Social Media
+categories:
+- Technology
+- Policy
+- Youth Engagement
+intended_audience: Young activists, policymakers, and those interested in AI ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Advocate for policy changes regarding AI regulations.
+- Promote youth engagement in AI discussions and policymaking.
+controversial_topics:
+- topic: AI Ethics vs Safety
+  different_viewpoints:
+  - perspective: AI Ethics prioritizing immediate social impacts.
+    proponents: Ethicists and social advocates.
+    key_arguments: Emphasizes fairness and avoiding bias in AI.
+  - perspective: AI Safety focusing on long-term existential risks.
+    proponents: Futurists and regulatory bodies.
+    key_arguments: Addresses catastrophic potential of advanced AI.

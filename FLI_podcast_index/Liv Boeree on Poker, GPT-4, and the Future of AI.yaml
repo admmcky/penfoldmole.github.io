@@ -1,0 +1,188 @@
+title: Liv Boeree on Poker, GPT-4, and the Future of AI
+original_url: '"https://zencastr.com/z/ey3cyYZ2"'
+date_published: '2023-03-23'
+host:
+  name: Future of Life Institute host
+  affiliation: Future of Life Institute
+guests:
+- name: Liv Boeree
+  affiliation: Independent communicator and filmmaker
+  title: Communicator, Filmmaker, Former Professional Poker Player
+  bio: Liv Boeree is a former professional poker player who transitioned to a communicator
+    and filmmaker focusing on reducing global catastrophic risks.
+  expertise_areas:
+  - Game Theory
+  - Artificial Intelligence
+  - Poker
+synopsis: Liv Boeree discusses the intersection of artificial intelligence, game theory,
+  and poker, explaining the implications of AI in decision-making scenarios and its
+  potential effects on society.
+key_topics:
+- AI and Poker
+- Game Theory in Decision Making
+- Ethics of AI Development
+- Generative AI
+tags:
+- AI
+- Poker
+- Game Theory
+- Technology
+key_points:
+- AIs have surpassed humans in poker, especially in complex games with hidden information.
+- Generative AI models, like GPT-4, exhibit impressive capabilities that prompt ethical
+  considerations.
+- '"AI''s application in real-world negotiations raises questions about its broader
+  societal impact."'
+- '"The importance of building AI with ''wisdom'' in addition to intelligence."'
+segments:
+- title: Introduction to Liv and Game Theory
+  summary: Liv introduces herself and discusses her background in poker and her current
+    work focused on existential risks through the lens of game theory.
+  key_quotes:
+  - quote: I work as a kind of communicator, filmmaker, person who talks a lot about
+      how to reduce global catastrophic and existential risk.
+    speaker: Liv Boeree
+    context: Introduction
+- title: AI Advancements in Poker
+  summary: Liv explains how AI techniques have advanced in poker, with AIs now outperforming
+    professional players.
+  key_quotes:
+  - quote: '"I think it''s fair to say that the best poker player in the world is
+      for sure an AI at this point."'
+    speaker: Liv Boeree
+    context: Discussion about poker AI advancements
+- title: AI in Real-World Applications
+  summary: The conversation shifts to the potential applications of AI in corporate
+    negotiations and other hidden information scenarios.
+  key_quotes:
+  - quote: '"If there''s certainly some kind of fairly simplified, simulatable negotiation
+      in a real world scenario, that would be really cool to have an AI that could
+      help facilitate that."'
+    speaker: Liv Boeree
+    context: Discussing the generalization of AI capabilities
+- title: The Rise of Generative AI
+  summary: Liv shares her impressions of generative AI models like GPT-4 and discusses
+    the implications of these technologies.
+  key_quotes:
+  - quote: '"The gap of time it would take to blow someone''s mind to the point where
+      they were like, I don''t understand reality anymore, is getting shorter and
+      shorter."'
+    speaker: Liv Boeree
+    context: Reflections on generative AI capabilities
+- title: Moral Implications of AI Interaction
+  summary: The hosts discuss the ethical implications of human-like interactions with
+    AI, and how this may affect social behavior.
+  key_quotes:
+  - quote: It could become a problem if too much of your population is living alone
+      and not getting real human connection.
+    speaker: Liv Boeree
+    context: Discussing potential societal issues arising from AI interactions
+websites_referenced:
+- url: '"https://waitbutwhy.com"'
+  name: Wait But Why
+  context: '"Tim Urban''s blog discussing the rapid development of AI and its implications."'
+  access_date: '2023-03-23'
+tools_mentioned:
+- name: GPT-4
+  url: '"https://openai.com/research/gpt-4/"'
+  description: Generative Pre-trained Transformer 4, a state-of-the-art language processing
+    AI.
+  context: Referenced as an advanced AI model demonstrating exceptional capabilities.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Carnegie Mellon University
+    location: Pittsburgh, PA, USA
+    context: Developed the poker AI Liberatus.
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Developed GPT models including GPT-4.
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: Known for research in AI and game theory applications.
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: ''
+    institution: ''
+    field: ''
+    context: ''
+  industry_leaders:
+  - name: Tim Urban
+    company: Wait But Why
+    role: Writer and Blogger
+    context: Authored a piece on AI and the rapid development of technology.
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Rebuilding Meaning
+  organization: ''
+  description: A project to build a large language model based on authentic human
+    stories and experiences.
+  status: ''
+  url: ''
+  context: Discussed as a potential AI project capturing human wisdom.
+events:
+  historical:
+  - name: Liberatus vs. Professional Poker Players
+    date: '2017'
+    significance: '"AI surpassed professional players in no-limit hold''em poker."'
+    context: This event marked a significant milestone in AI capabilities in gameplay.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI
+- Poker
+- Game Theory
+- Generative AI
+- Ethics
+categories:
+- Technology
+- AI Research
+- Ethics
+intended_audience: Individuals interested in AI, ethics, game theory, and poker.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider the ethical implications of AI in communication and decision-making.
+- Explore the potential uses of AI in negotiation and conflict resolution.
+controversial_topics:
+- topic: Ethics of AI Release
+  different_viewpoints:
+  - perspective: AI development should prioritize safety over competition.
+    proponents: Liv Boeree
+    key_arguments: Releasing AI too soon can lead to unchecked risks to society.
+  - perspective: Companies must innovate quickly to remain competitive.
+    proponents: Industry leaders
+    key_arguments: Pressure to demonstrate advancements can drive rapid development.

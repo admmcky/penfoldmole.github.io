@@ -1,0 +1,214 @@
+title: '"AIAP: On the Long-term Importance of Current AI Policy with Nicolas Moës
+  and Jared Brown"'
+original_url: '"https://zencastr.com/z/Ur56nUuS"'
+date_published: '2020-02-18'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Jared Brown
+  affiliation: Future of Life Institute; Global Catastrophic Risk Institute
+  title: Senior Advisor for Government Affairs
+  bio: Jared Brown is a Senior Advisor for Government Affairs at the Future of Life
+    Institute, with experience in public policy, emergency management, and risk management.
+  expertise_areas:
+  - Government Affairs
+  - Risk Management
+- name: Nicolas Moës
+  affiliation: Future Society
+  title: Economist and Policy Researcher
+  bio: Nicholas Moës is an economist focused on the geopolitical and economic impacts
+    of AI. He is the Brussels-based representative of the Future Society.
+  expertise_areas:
+  - Economics
+  - AI Policy
+synopsis: In this episode, Lucas Perry discusses the pressing issue of AI policy and
+  its long-term implications for AGI with experts Jared Brown and Nicolas Moës. They
+  explore the current landscape of AI legislation, the importance of early engagement
+  in policy-making, and the intersection of short-term and long-term risks related
+  to AI.
+key_topics:
+- AI Policy
+- AGI Risks
+- Existential Risks
+- Legislation
+- Global Cooperation
+tags:
+- Artificial Intelligence
+- Policy
+- Global Governance
+key_points:
+- Engaging in AI policy today is crucial to shape future legislation and mitigate
+  risks.
+- Path dependency means that current policies will influence future options significantly.
+- There is a growing need for skilled individuals in the AI policy domain.
+segments:
+- title: Introduction to AI Risks and Policy
+  summary: The episode introduces the themes of AI risks and the rationale for focusing
+    on policy.
+  key_quotes:
+  - quote: This podcast focuses on this question.
+    speaker: Lucas Perry
+    context: Introduces the theme of the podcast.
+- title: Engagement in AI Policy for Future Safety
+  summary: Nicholas Moës discusses the importance of engagement in AI policy for individuals
+    concerned about AGI safety.
+  key_quotes:
+  - quote: Experience gained on short-term AI policy issues is important to be considered
+      a relevant advisor on long-term AI policy.
+    speaker: Nicholas Moës
+    context: Explaining the value of early engagement in policy.
+- title: Bridging AI Risk Discourse
+  summary: The experts discuss the need to connect long-term risks of AGI with short-term
+    policy issues.
+  key_quotes:
+  - quote: There are interdependencies and path dependencies between technology and
+      governance.
+    speaker: Jared Brown
+    context: Emphasizing the importance of comprehensive discourse in AI governance.
+- title: Creating Enduring AI Policies
+  summary: Discussion on the significance of developing policies that can adapt as
+    AI technology evolves.
+  key_quotes:
+  - quote: Policies that are not adaptive become outdated and can be detrimental.
+    speaker: Jared Brown
+    context: Highlighting the necessity for evergreen policy frameworks.
+- title: Strategic Holistic Regulation Opportunities
+  summary: The need for a unified, holistic approach to AI regulation is detailed.
+  key_quotes:
+  - quote: '"We have to have an overarching strategic plan for how you''re thinking
+      about governing AI."'
+    speaker: Jared Brown
+    context: Discussing the structure of regulatory approaches.
+- title: Global AI Policy Initiatives
+  summary: Discussion on the emergence of global organizations and their influence
+    on AI policy.
+  key_quotes:
+  - quote: Over the past two years, there have been a mushrooming of AI policy players.
+    speaker: Nicolas Moës
+    context: Assessing the evolving landscape of global AI policy.
+- title: '"AI Policy''s Role in Future AGI Risks"'
+  summary: Exploration of how current AI policy can impact long-term AGI development.
+  key_quotes:
+  - quote: AI policy today is crucial for those concerned with AGI existential risk.
+    speaker: Jared Brown
+    context: '"Linking today''s policies with future outcomes."'
+- title: '"AI''s Societal Impacts and Mitigation"'
+  summary: The societal implications of AI and how they can be mitigated through thoughtful
+    policy.
+  key_quotes:
+  - quote: AI is tremendously helpful, if used correctly, to track and monitor near-Earth
+      objects.
+    speaker: Jared Brown
+    context: Discussing beneficial applications of AI mitigating risks.
+- title: '"AI Policy: From Principles to Legislation"'
+  summary: Discussions on the transition from ethical principles to tangible legislation
+    in AI.
+  key_quotes:
+  - quote: '"We''re seeing an appetite for turning principles into regulatory approaches."'
+    speaker: Jared Brown
+    context: Explaining the current legislative trend.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: A nonprofit organization focused on reducing global catastrophic and existential
+    risks from advanced technologies.
+  access_date: null
+tools_mentioned:
+- name: OECD AI Principles
+  url: ''
+  description: Framework developed by the OECD for managing AI technologies.
+  context: Serving as a guiding document for nations in AI governance.
+research_papers:
+- title: Stockholm International Peace Research Institute Compendium
+  authors: []
+  year: null
+  url: ''
+  key_findings: '"Explores AI''s effect on strategic stability and nuclear risk."'
+  context: '"Recommended resource for understanding AI''s broader implications."'
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of Oxford
+    location: UK
+    context: '"Where Nicholas Moës completed his master''s degree."'
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Governance
+    context: A nonprofit focused on mitigating existential risks from advanced technology.
+  government_agencies:
+  - name: Office of Management and Budget
+    country: USA
+    context: Involved in issuing principles for AI regulation.
+notable_people:
+  academics:
+  - name: Nicholas Moës
+    institution: Future Society
+    field: Economics and AI Policy
+    context: Focuses on global AI legislative frameworks.
+  industry_leaders:
+  - name: Jared Brown
+    company: Future of Life Institute
+    role: Senior Advisor for Government Affairs
+    context: Works on reducing global catastrophic risks.
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: EU White Paper on AI
+    date: null
+    significance: Setting the stage for comprehensive AI regulations in Europe.
+    context: Discussion on the upcoming legislation concerning AI.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Artificial Intelligence
+- Policy
+- Governance
+categories:
+- Technology
+- Policy
+- Ethics
+intended_audience: Individuals interested in AI policy, governance, and existential
+  risks.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider supporting the Future of Life Institute through donations for ongoing initiatives.
+- Engage in AI policy discussions to shape future legislative frameworks.
+controversial_topics:
+- topic: Debate on AGI Regulation
+  different_viewpoints:
+  - perspective: Proactive regulation is necessary to mitigate risks.
+    proponents: Proponents believe early engagement can shape beneficial outcomes.
+    key_arguments: Current actions set important precedents for future AI policies.
+  - perspective: Regulation could stifle innovation.
+    proponents: Some argue that excessive regulation might hinder technological progress.
+    key_arguments: A more laissez-faire approach might encourage innovation and competitiveness.

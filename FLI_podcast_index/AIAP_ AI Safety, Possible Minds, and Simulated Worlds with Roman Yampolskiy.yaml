@@ -1,0 +1,182 @@
+title: '"AIAP: AI Safety, Possible Minds, and Simulated Worlds with Roman Yampolskiy"'
+original_url: '"https://zencastr.com/z/mam_mfBZ"'
+date_published: '2018-07-16'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Dr. Roman Yampolsky
+  affiliation: University of Louisville
+  title: Associate Professor
+  bio: Dr. Yampolsky is a tenured associate professor in the department of computer
+    science and engineering at the University of Louisville and director of the cybersecurity
+    lab.
+  expertise_areas:
+  - AI safety
+  - Behavioral biometrics
+  - Cybersecurity
+  - Digital forensics
+  - Artificial intelligence
+  - Pattern recognition
+synopsis: '"In this episode, Lucas Perry speaks with Dr. Roman Yampolsky about the
+  intricacies of AI safety, the challenges of artificial superintelligence (ASI),
+  and the complexities surrounding AI alignment. They explore Dr. Yampolsky''s research
+  on behavioral biometrics and cybersecurity as it relates to AI, and discuss public
+  concerns surrounding the future of intelligent systems."'
+key_topics:
+- AI safety
+- Artificial superintelligence (ASI)
+- AI alignment
+- Behavioral biometrics
+- Cybersecurity
+tags:
+- AI
+- Safety
+- Superintelligence
+- Cybersecurity
+- Alignment
+key_points:
+- The significance of cybersecurity principles in AI safety research.
+- Understanding behavioral biometrics for AI system integrity.
+- Challenges in alignment of superintelligent AI systems with human values.
+- Discussions on public perception and the complexities of ethical considerations
+  in AI.
+segments:
+- title: '"Introduction: AI Alignment and Safety"'
+  summary: Lucas introduces the podcast and guest, Dr. Roman Yampolsky, outlining
+    key areas of discussion including AI safety and advanced AI challenges.
+  key_quotes:
+  - quote: '"If you''re interested in inverse reinforcement learning or the possibility
+      of astronomical future suffering being brought about by advanced AI systems,
+      make sure to check out the first two podcasts in this series."'
+    speaker: Lucas Perry
+    context: Introduction to the podcast series.
+- title: Meet Dr. Roman Yampolsky
+  summary: Dr. Yampolsky shares his background in computer science and his focus on
+    AI safety.
+  key_quotes:
+  - quote: My dissertation work was on behavioral biometrics, looking at non-human
+      entities, bots, artificially intelligent systems.
+    speaker: Dr. Roman Yampolsky
+    context: Discussing his academic background.
+- title: AI Safety and Security Challenges
+  summary: Dr. Yampolsky explains the role of security research in informing AI safety
+    methodologies.
+  key_quotes:
+  - quote: Basically everything we learned in security is now applicable. This is
+      just a different type of cyber infrastructure.
+    speaker: Dr. Roman Yampolsky
+    context: Discussing the overlap of cybersecurity and AI safety.
+- title: AI Completeness and Turing Tests
+  summary: The conversation delves into defining AI completeness and its implications
+    for passing Turing tests.
+  key_quotes:
+  - quote: If you can pass unrestricted version of a Turing test, you can pretty much
+      do anything.
+    speaker: Dr. Roman Yampolsky
+    context: About the significance of passing a Turing test.
+- title: Consciousness and Ethics in AI
+  summary: The ethical implications of creating conscious AI and the responsibility
+    that accompanies it are analyzed.
+  key_quotes:
+  - quote: We have to be careful once we get to that level of not having very painful
+      side effects.
+    speaker: Dr. Roman Yampolsky
+    context: Discussing consciousness in AI.
+- title: Philosophical Ethics vs. AI Safety Engineering
+  summary: The limitations of traditional philosophical approaches to ethics in AI
+    are contrasted with safety engineering.
+  key_quotes:
+  - quote: '"The hard problem is, well, how do we do it?"'
+    speaker: Dr. Roman Yampolsky
+    context: Exploring philosophical ethics vs. safety engineering.
+- title: Public Education and AI Safety Awareness
+  summary: Dr. Yampolsky stresses the importance of public outreach in AI safety discussions.
+  key_quotes:
+  - quote: '"How can we keep people in the dark?"'
+    speaker: Dr. Roman Yampolsky
+    context: On the necessity of educating the public regarding AI safety.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Artificial Intelligence, Safety and Security
+  url: ''
+  description: A comprehensive edited volume on AI safety, authored by leading researchers.
+  context: '"Dr. Yampolsky''s upcoming book."'
+research_papers:
+- title: Leak Proofing the Singularity
+  authors:
+  - Dr. Roman Yampolsky
+  year: null
+  url: ''
+  key_findings: Formalization of AI boxing and communication channels for AI systems.
+  context: Discussed in relation to preventing AI from leaking outside of safety containment.
+books_referenced:
+- title: '"Artificial Superintelligence: A Futuristic Approach"'
+  authors:
+  - Dr. Roman Yampolsky
+  year: null
+  isbn: ''
+  context: '"Cited as part of Yampolsky''s academic contributions."'
+organizations:
+  academic_institutions:
+  - name: University of Louisville
+    location: Louisville, KY, USA
+    context: Affiliation of Dr. Roman Yampolsky.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and alignment
+    context: Host organization of the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Dr. Roman Yampolsky
+    institution: University of Louisville
+    field: Computer Science and Engineering
+    context: Expert on AI safety and cybersecurity.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI safety
+- Artificial superintelligence
+- Cybersecurity
+categories:
+- Technology
+- Ethics
+intended_audience: Researchers and enthusiasts interested in AI safety, ethics, and
+  public policy.
+expertise_level: Intermediate to Expert
+recommended_reading:
+- title: Artificial Intelligence, Safety and Security
+  url: ''
+  type: Book
+  relevance: A comprehensive resource on AI safety and alignment.
+action_items:
+- '"Explore Dr. Yampolsky''s published papers for deeper insights."'
+- Consider the ethical implications of AI in everyday applications.
+controversial_topics:
+- topic: Machine Ethics vs. AI Safety Engineering
+  different_viewpoints:
+  - perspective: Machine ethics can provide a framework for aligning AI values with
+      human values.
+    proponents: Supporters of ethical frameworks in AI safety.
+    key_arguments: Machine ethics seeks to explicitly define moral parameters for
+      AI operations.
+  - perspective: Machine ethics are inadequate for controlling unintended AI behavior.
+    proponents: AI safety engineers.
+    key_arguments: Safety engineering is a more pragmatic approach to ensure AI systems
+      function as intended.

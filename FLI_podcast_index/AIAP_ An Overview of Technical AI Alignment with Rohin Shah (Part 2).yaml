@@ -1,0 +1,204 @@
+title: '"AIAP: An Overview of Technical AI Alignment with Rohin Shah (Part 2)"'
+original_url: '"https://zencastr.com/z/yTwy_w_B"'
+date_published: '2019-04-25'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Rohan Shah
+  affiliation: UC Berkeley
+  title: PhD Student
+  bio: Fifth year PhD student in computer science at UC Berkeley working with the
+    Center for Human-Compatible AI.
+  expertise_areas:
+  - AI Alignment
+  - Reinforcement Learning
+  - Decision Theory
+synopsis: In this episode, Rohan Shah discusses various methodologies in AI alignment,
+  analyzing embedded agency, corrigibility, ambitious value learning, and limits on
+  AI systems, alongside the potential implications for future superintelligent AI
+  systems.
+key_topics:
+- AI Alignment Methodologies
+- Embedded Agency
+- Corrigibility
+- Robustness
+- Interpretable AI
+tags:
+- AI
+- Machine Learning
+- Safety
+- Alignment
+key_points:
+- Understanding the implications of Embedded Agency on decision-making.
+- Corrigibility and ensuring AI systems align with human values.
+- Challenges in defining and verifying robust AI systems.
+- Ambitious value learning and the quest for a utility function in AI systems.
+- Potential dangers of AGI and the need for bounded AI services.
+segments:
+- title: Introduction to AI Alignment Methodologies
+  summary: The episode begins by contextualizing the overarching theme of AI alignment
+    methodologies and emphasizes the significance of these discussions.
+  key_quotes:
+  - quote: '"If you haven''t listened to the first part, we highly recommend that
+      you do, as it provides an introduction to the varying approaches discussed here."'
+    speaker: Lucas Perry
+    context: Opening remarks introducing the second part of the discussion.
+- title: Embedded Agency
+  summary: The conversation dives into Embedded Agency, explaining its significance
+    and its challenges compared to traditional AI models.
+  key_quotes:
+  - quote: One major blocker to this is the fact that all of our current theories...
+      make this assumption that there is a nice clean boundary between the environment
+      and the agent.
+    speaker: Rohan Shah
+    context: Describing a fundamental challenge in understanding embedded agency.
+- title: '"Decision Theory Challenges with Newcomb''s Problem"'
+  summary: '"Discussion on Newcomb''s Problem and its implications for decision theory
+    within the framework of embedded agency."'
+  key_quotes:
+  - quote: The catch is that Omega only puts the million dollars in the box if he
+      predicts that you would take only the box with a million dollars.
+    speaker: Rohan Shah
+    context: '"Illustrating the mechanics of Newcomb''s problem."'
+- title: Corrigibility and Robust Delegation
+  summary: Exploration of robust delegation methodologies including challenges regarding
+    self-improvement and the importance of corrigibility.
+  key_quotes:
+  - quote: While we would like this to not happen, it also seems hard to avoid and
+      also probably not that bad.
+    speaker: Rohan Shah
+    context: On potential failure modes in AI systems.
+- title: Ambitious Value Learning
+  summary: The discussion addresses the complexities of defining human utility and
+    the implications for AI development.
+  key_quotes:
+  - quote: '"The classic example of that would be the AI system could give you a shot
+      of heroin and that''d probably change your preferences."'
+    speaker: Rohan Shah
+    context: Highlighting the challenge of defining static preferences.
+- title: Robustness and Impact Measures
+  summary: Rohan elaborates on the importance of robustness in AI systems and methodologies
+    for quantifying impact.
+  key_quotes:
+  - quote: The basic hope is to create some quantification of how much impact a particular
+      action that the AI chooses has on the world.
+    speaker: Rohan Shah
+    context: Introduction to impact measures.
+- title: Future AI and Bounded Task Networks
+  summary: The episode concludes with a discussion on the potential design of future
+    AI systems, emphasizing bounded services over AGI agents.
+  key_quotes:
+  - quote: Probabilistically speaking, this can lead to the sort of very quick improvement
+      in capabilities that we often associate with super intelligence.
+    speaker: Rohan Shah
+    context: Discussing the structure of future AI systems.
+websites_referenced:
+- url: '"https://alignmentforum.org/"'
+  name: Alignment Forum
+  context: A resource for in-depth discussions on AI alignment.
+  access_date: null
+- url: '"https://newsletter.alignmentforum.org/"'
+  name: Alignment Newsletter
+  context: A weekly newsletter summarizing important developments in AI alignment.
+  access_date: null
+tools_mentioned:
+- name: Recursive Reward Modeling
+  url: ''
+  description: A method that allows AI systems to evaluate their performance against
+    auxiliary tasks.
+  context: ''
+research_papers:
+- title: Incomplete Contracting and AI Alignment
+  authors:
+  - Dylan Hadfield-Manel
+  - Jillian Hadfield
+  year: null
+  url: ''
+  key_findings: ''
+  context: Recommended reading for understanding norm-following AI systems.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: UC Berkeley
+    location: Berkeley, CA, USA
+    context: Institution where Rohan Shah is pursuing his PhD.
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Ethics
+    context: Mentioned as a resource for listeners.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Stuart Russell
+    institution: UC Berkeley
+    field: Computer Science
+    context: Prominent researcher in AI alignment.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Center for Human-Compatible AI
+  organization: UC Berkeley
+  description: Research center focusing on AI alignment and safety.
+  status: Active
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: AI Alignment Podcast Launch
+    date: null
+    significance: A platform for discussing AI alignment methodology.
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Artificial Intelligence
+- Alignment
+- Safety
+categories:
+- Technology
+- Research
+intended_audience: Researchers and practitioners in AI and machine learning.
+expertise_level: Intermediate
+recommended_reading:
+- title: Learning Preferences from the State of the World
+  url: ''
+  type: Research Paper
+  relevance: Proposes methods for inferring human preferences from existing world
+    states.
+action_items:
+- Engage with the AI Alignment Forum for further insights.
+- Keep updated with the Alignment Newsletter for recent developments.
+controversial_topics:
+- topic: The Role of AGI Agents vs. Bounded Task Networks
+  different_viewpoints:
+  - perspective: AGI agents may provide powerful optimization capabilities.
+    proponents: Proponents of AGI frameworks.
+    key_arguments: Potential risks from highly integrated AI systems.
+  - perspective: Bounded task networks are safer and more manageable.
+    proponents: Supporters of CHICE framework.
+    key_arguments: Lower risk of unintended consequences.

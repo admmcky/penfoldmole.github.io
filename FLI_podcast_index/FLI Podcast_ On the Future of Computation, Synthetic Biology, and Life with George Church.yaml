@@ -1,0 +1,160 @@
+title: On the Future of Computation, Synthetic Biology, and Life with George Church
+original_url: '"https://zencastr.com/z/r8ICpvLi"'
+date_published: '2020-05-15'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: George Church
+  affiliation: Harvard Medical School and MIT
+  title: Professor of Genetics
+  bio: George Church is a prominent scientist known for his contributions to genetics,
+    synthetic biology, and biotechnology. He played a key role in the Human Genome
+    Project and is involved in multiple innovative projects related to genetic engineering.
+  expertise_areas:
+  - Genetics
+  - Synthetic Biology
+  - Computational Systems
+synopsis: In this episode, Lucas Perry interviews Professor George Church, where they
+  discuss existential risks, the future of synthetic biology, computational advancements,
+  and the potential for space colonization, as well as the implications on health
+  and aging.
+key_topics:
+- Existential Risks
+- Synthetic Biology
+- Preventative Medicine
+- Aging
+- Space Colonization
+tags:
+- Science
+- Technology
+- Biotechnology
+- Existential Risk
+key_points:
+- George Church emphasizes the importance of preventative measures over reactive ones
+  in addressing global challenges.
+- The role of synthetic biology in solving complex issues, including aging and health-related
+  conditions, is critically discussed.
+- Church expresses concerns about existential risks related to synthetic biology and
+  artificial intelligence.
+segments:
+- title: Introduction and Global Issues
+  summary: Lucas introduces George Church and sets the stage for discussing major
+    global issues such as aging and existential risks.
+  key_quotes:
+  - quote: There are things that are very rare, but very impactful nevertheless.
+    speaker: George Church
+    context: Discussing the categorization of global issues.
+- title: Resource Allocation Critique
+  summary: Church critiques the current allocation of resources towards health and
+    environmental issues, advocating for preventative approaches.
+  key_quotes:
+  - quote: '"It''s far more cost effective to do many things preventatively."'
+    speaker: George Church
+    context: On the inefficiencies of reactive resource allocation.
+- title: Existential Risks and AI
+  summary: Discussion on ranking existential risks, with emphasis on artificial general
+    intelligence and synthetic bio risk.
+  key_quotes:
+  - quote: The most likely of the lot for having an impact is climate change.
+    speaker: George Church
+    context: In response to a question about existential risks.
+- title: Advances in Genetics
+  summary: Church updates listeners on the advancements in genetics, including the
+    potential for reduced costs in gene sequencing.
+  key_quotes:
+  - quote: '"We''ve gotten many factors of 10 improvement in speed, cost, accuracy,
+      and interpretability."'
+    speaker: George Church
+    context: Discussing improvements in genetic sequencing technology.
+- title: Synthetic Biology Risks
+  summary: The risks associated with synthetic biology are examined, with an emphasis
+    on proactive measures for prevention.
+  key_quotes:
+  - quote: '"It''s becoming cheaper and the information is becoming more widespread."'
+    speaker: George Church
+    context: On the growing availability and risks of synthetic biology research.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: The organization that hosts the podcast.
+  access_date: null
+tools_mentioned:
+- name: Personal Genome Project
+  url: '"http://www.personalgenomes.org"'
+  description: A project aimed at advancing genomic medicine.
+  context: Initiated by George Church to study the implications of genome sequencing.
+research_papers:
+- title: Synthetic Biohazard Non-Proliferation Proposal
+  authors:
+  - George Church
+  year: 2004
+  url: ''
+  key_findings: Proposal for regulating synthetic biology to mitigate risks.
+  context: Referenced during discussion regarding governance in synthetic biology.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: Harvard Medical School
+    location: Cambridge, MA
+    context: Where George Church serves as a professor.
+  companies:
+  - name: Editas Medicine
+    industry: Biotechnology
+    context: '"Founded based on Church''s genetic innovations."'
+  - name: Gen 9 Bio
+    industry: Biotechnology
+    context: Company focused on synthetic DNA solutions.
+  - name: Veritas Genetics
+    industry: Genomics
+    context: Focused on human genome sequencing.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Existential risks and technological advancements.
+    context: Hosts discussions on future technologies and risks.
+notable_people:
+  academics:
+  - name: George Church
+    institution: Harvard Medical School
+    field: Genetics
+    context: Leading voice in synthetic biology and genetics.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Woolly Mammoth Project
+  organization: Harvard University
+  description: An initiative to potentially revive extinct species using genetic engineering.
+  status: Ongoing
+  url: ''
+  context: Related to discussions on climate change solutions.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- Synthetic Biology
+- Aging
+- Genetic Engineering
+categories:
+- Science
+- Technology
+- Health
+intended_audience: Individuals interested in science, technology, and existential
+  risks.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Personal Genome Project
+  url: '"http://www.personalgenomes.org"'
+  type: Website
+  relevance: '"Further reading on George Church''s genomic initiatives."'
+action_items:
+- Consider nominating an unsung hero for the Future of Life Award.
+controversial_topics:
+- topic: Risks of Synthetic Biology
+  different_viewpoints:
+  - perspective: Synthetic biology poses a significant risk.
+    proponents: George Church
+    key_arguments: The potential for misuse and the complexity of governance in regulating
+      synthetic biology.
+  - perspective: Synthetic biology offers unprecedented solutions.
+    proponents: ''
+    key_arguments: Can solve environmental and health-related challenges proactively.

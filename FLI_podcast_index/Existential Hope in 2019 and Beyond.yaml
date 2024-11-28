@@ -1,0 +1,216 @@
+title: Existential Hope in 2019 and Beyond
+original_url: '"https://zencastr.com/z/8PjZ5yAW"'
+date_published: '2018-12-21'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Anthony Aguirre
+  affiliation: University of California at Santa Cruz
+  title: Physicist
+  bio: Co-founder of FLI and physicist focusing on the ethical implications of emerging
+    technology.
+  expertise_areas:
+  - Existential risks
+  - Physics
+- name: Max Tegmark
+  affiliation: MIT
+  title: Professor
+  bio: Co-founder of FLI and president, focusing on AI and its implications for humanity.
+  expertise_areas:
+  - Artificial Intelligence
+  - Physics
+- name: Gaia Dempsey
+  affiliation: 7th Future
+  title: Tech Entrepreneur
+  bio: Entrepreneur focusing on building a better future through technology.
+  expertise_areas:
+  - Technology Development
+- name: Allison Duttman
+  affiliation: Foresight Institute
+  title: Researcher and Program Coordinator
+  bio: Created existentialhope.com and focuses on improving understanding of existential
+    risks.
+  expertise_areas:
+  - Existential Risk
+  - Philosophy
+- name: Josh Clark
+  affiliation: Stuff You Should Know Podcast
+  title: Co-Host
+  bio: Released a 10-part series on existential risks and engages audiences on such
+    topics.
+  expertise_areas:
+  - Podcasting
+  - Existential Risks
+- name: Anders Sandberg
+  affiliation: Future of Humanity Institute
+  title: Senior Research Fellow
+  bio: Researches the long-term prospects of humanity, including technology and ethics.
+  expertise_areas:
+  - Computational Neuroscience
+  - Ethics of Technology
+synopsis: The episode explores existential hope amidst risks presented by technology
+  and discusses insights from various experts on the potential for a positive future.
+key_topics:
+- Existential Risks
+- Hope for Humanity
+- Technology Ethics
+- Future of AI
+tags:
+- Existential Hope
+- Technology
+- Future of Humanity
+key_points:
+- Technology is morally neutral and can be directed towards positive or negative outcomes.
+- Envisioning positive futures is essential to overcoming existential risks.
+- Collaboration and shared visions are crucial for addressing global challenges.
+segments:
+- title: Introduction to Hope and Existential Risks
+  summary: Host Arielle Kahn introduces the theme of existential hope as a counter
+    to the focus on risks.
+  key_quotes:
+  - quote: '"We address issues relating to existential risks because we''re so confident
+      that if we can overcome these threats, we can achieve a future greater than
+      any of us can imagine."'
+    speaker: Arielle Kahn
+    context: Opening remarks establishing the purpose of the discussion.
+- title: '"Technology''s Dual Nature: Problems and Solutions"'
+  summary: Anthony Aguirre and Max Tegmark discuss the dual nature of technology,
+    its potential for good and harm.
+  key_quotes:
+  - quote: '"Technology simply empowers us to do good things or bad things. Technology
+      isn''t evil, but it''s also not good."'
+    speaker: Anthony Aguirre
+    context: Discussion about the neutral nature of technology.
+- title: Cultured Meat and Environmental Solutions
+  summary: Exploration of technological solutions to environmental challenges, such
+    as cultured meat.
+  key_quotes:
+  - quote: '"If a non-ecologically destructive, non-suffering inducing product were
+      cheaper, I don''t think people would be eating meat."'
+    speaker: Anthony Aguirre
+    context: Commenting on the future of meat consumption through technology.
+- title: Critical Thinking in Tech Problem Solving
+  summary: Gaia Dempsey emphasizes the importance of technology literacy to leverage
+    tools for personal and societal development.
+  key_quotes:
+  - quote: Technology is best used when it supports our individual development.
+    speaker: Gaia Dempsey
+    context: Discussion on the responsible use of technology.
+- title: Existential Hope vs. Existential Risk
+  summary: Discussion on the importance of fostering hope rather than fear in addressing
+    future challenges.
+  key_quotes:
+  - quote: To be for something rather than against something is essential.
+    speaker: Max Tegmark
+    context: Addressing the mindset necessary for positive futures.
+websites_referenced:
+- url: '"https://existentialhope.com"'
+  name: Existential Hope
+  context: Website created by Allison Duttman focused on long-term optimism.
+  access_date: null
+tools_mentioned:
+- name: Bminder
+  url: ''
+  description: A personal system for tracking goals.
+  context: Discussed by Gaia Dempsey in relation to long-term thinking and accountability.
+research_papers:
+- title: Asilomar AI Principles
+  authors: []
+  year: 2017
+  url: ''
+  key_findings: Guidelines for beneficial AI development.
+  context: Referenced as a framework for ethical AI development.
+books_referenced:
+- title: '"Man''s Search for Meaning"'
+  authors:
+  - Viktor Frankl
+  year: 1946
+  isbn: ''
+  context: Used to illustrate the enduring human spirit in adversity.
+organizations:
+  academic_institutions:
+  - name: University of California at Santa Cruz
+    location: Santa Cruz, CA
+    context: Where Anthony Aguirre is a physicist.
+  - name: MIT
+    location: Cambridge, MA
+    context: Where Max Tegmark works.
+  - name: Future of Humanity Institute
+    location: University of Oxford
+    context: Where several guests are involved.
+  companies:
+  - name: 7th Future
+    industry: Technology
+    context: Founded by Gaia Dempsey to to envision better future technologies.
+  non_profits:
+  - name: Foresight Institute
+    focus_area: Foresight for future technology and biological safety
+    context: Where Allison Duttman is a program coordinator.
+  government_agencies:
+  - name: California Legislature
+    country: United States
+    context: Endorsed the Asilomar Principles.
+notable_people:
+  academics:
+  - name: Elon Musk
+    institution: ''
+    field: ''
+    context: Supported research funding for safe AGI.
+  industry_leaders:
+  - name: Owen Cotton-Barratt
+    company: ''
+    role: ''
+    context: '"Coined the term ''existential hope''."'
+  policy_makers:
+  - name: Stanislav Petrov
+    role: Soviet military officer
+    organization: Soviet Union
+    context: Averted a nuclear disaster, referenced for understanding existential
+      risks.
+projects_mentioned:
+- name: Existential Hope Project
+  organization: Future of Life Institute
+  description: An initiative to encourage positive visions for the future.
+  status: Active
+  url: ''
+  context: A collaborative effort to promote existential hope.
+events:
+  historical:
+  - name: Asilomar AI Conference
+    date: 2017
+    significance: Established guidelines for AI safety and ethics.
+    context: ''
+  upcoming:
+  - name: Augmented Intelligence Summit
+    date: 2019-03
+    location: ''
+    description: A summit focusing on the future of AI and its societal implications.
+    url: ''
+keywords:
+- existential hope
+- AI safety
+- future technologies
+categories:
+- Technology and Society
+- Philosophy
+- Futurism
+intended_audience: Individuals interested in technology, ethics, and future studies.
+expertise_level: Intermediate
+recommended_reading:
+- title: Society of Mind
+  url: ''
+  type: Book
+  relevance: Explores human and AI cooperation and understanding.
+action_items:
+- Consider personal contributions to existential hope through technology.
+- Engage in discussions and educate others about existential risks and solutions.
+controversial_topics:
+- topic: Existential Risks vs. Existential Hope
+  different_viewpoints:
+  - perspective: Focus on existential risks is necessary for future safety.
+    proponents: Researchers and ethicists.
+    key_arguments: Addressing risks proactively can prevent disasters.
+  - perspective: Existential hope can motivate positive actions and innovations.
+    proponents: Optimists and futurists.
+    key_arguments: Fostering hope encourages proactive engagement toward future goals.

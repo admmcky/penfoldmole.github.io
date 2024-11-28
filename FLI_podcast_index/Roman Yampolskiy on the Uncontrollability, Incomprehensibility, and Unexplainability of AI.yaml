@@ -1,0 +1,127 @@
+title: Roman Yampolskiy on the Uncontrollability, Incomprehensibility, and Unexplainability
+  of AI
+original_url: '"https://zencastr.com/z/d91IWT0G"'
+date_published: '2021-03-20'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Roman Yampolskiy
+  affiliation: University of Louisville
+  title: Tenured Associate Professor
+  bio: Dr. Roman Yampolskiy is a researcher focused on AI safety and alignment, known
+    for his work on the theoretical limits of AI.
+  expertise_areas:
+  - AI safety
+  - Computer science
+  - Cybersecurity
+synopsis: In this episode, we discuss the challenges of controllability and comprehensibility
+  of superintelligent AI with Dr. Roman Yampolskiy, exploring theoretical impossibilities
+  in AI safety.
+key_topics:
+- AI safety
+- Superintelligence
+- Impossibility results
+- Control and alignment
+tags:
+- AI
+- Safety
+- Alignment
+- Superintelligence
+key_points:
+- Theoretical analysis is crucial for understanding the limits of AI safety.
+- Control over superintelligent systems may not be achievable.
+- '"Impossibility results inform our understanding of AI''s unpredictability."'
+segments:
+- title: Introduction to AI Alignment
+  summary: Lucas introduces Dr. Roman Yampolskiy and the central topic of AI safety
+    and alignment.
+  key_quotes:
+  - quote: '"We explore whether it''s possible to maintain control and comprehension
+      of superintelligent AIs."'
+    speaker: Lucas Perry
+    context: Opening remarks on the nature of the podcast episode.
+- title: '"Is 100% Safe AI Possible?"'
+  summary: Dr. Yampolskiy discusses the feasibility of creating fully safe AI systems,
+    delving into theoretical perspectives.
+  key_quotes:
+  - quote: '"Can we actually create 100% safe systems? Can we understand them?"'
+    speaker: Roman Yampolskiy
+    context: Inquires about the limits of AI safety.
+- title: Understanding AI Control
+  summary: The conversation focuses on various definitions of control within AI systems
+    and their implications for safety.
+  key_quotes:
+  - quote: '"Is this option safe? And are we in control in those cases?"'
+    speaker: Roman Yampolskiy
+    context: Discusses the challenges of defining control in AI.
+- title: Impossibility Results in AI
+  summary: Yampolskiy explains the significance of impossibility results from various
+    fields and their relevance to AI safety.
+  key_quotes:
+  - quote: Most AGI projects are not doing any safety.
+    speaker: Roman Yampolskiy
+    context: Discusses the neglect of safety in many AI projects.
+websites_referenced:
+- url: '"https://futureoflife.org/job-postings"'
+  name: Future of Life Institute Job Postings
+  context: Job opportunities related to AI policy.
+  access_date: null
+tools_mentioned: []
+research_papers: []
+books_referenced:
+- title: Artificial Superintelligence, a Futuristic Approach
+  authors:
+  - Roman Yampolskiy
+  year: null
+  isbn: ''
+  context: '"Discussed as part of Dr. Yampolskiy''s background."'
+organizations:
+  academic_institutions:
+  - name: University of Louisville
+    location: Louisville, Kentucky
+    context: Where Dr. Roman Yampolskiy works.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and governance
+    context: Organization mentioned in relation to policy job postings.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Roman Yampolskiy
+    institution: University of Louisville
+    field: Computer Engineering and Computer Science
+    context: Primary guest discussing AI safety.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned: []
+events:
+  historical: []
+  upcoming:
+  - name: Future of Life Institute Job Deadline
+    date: '2021-04-04'
+    location: ''
+    description: Application deadline for AI policy jobs.
+    url: '"https://futureoflife.org/job-postings"'
+keywords:
+- AI Safety
+- Superintelligence
+- Alignment
+- Control
+categories:
+- Technology
+- Science
+- Philosophy
+intended_audience: Researchers, policymakers, and enthusiasts in AI safety.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- '"Consider the implications of Yampolskiy''s theories on AI development and policy."'
+controversial_topics:
+- topic: AI Alignment vs. Control
+  different_viewpoints:
+  - perspective: Strict alignment can lead to risks.
+    proponents: Roman Yampolskiy
+    key_arguments: Alignment may not adequately capture diverse human values, leading
+      to potential misalignment with broader goals.

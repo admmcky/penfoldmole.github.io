@@ -1,0 +1,186 @@
+title: Jaan Tallinn on Avoiding Civilizational Pitfalls and Surviving the 21st Century
+original_url: '"https://zencastr.com/z/_yxmpcTF"'
+date_published: '2021-04-21'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Jaan Tallinn
+  affiliation: Future of Life Institute, Center for the Study of Existential Risk
+  title: Co-founder, Philanthropist
+  bio: Jaan Tallinn is a programmer, investor, and philanthropist, known for his role
+    as a founding engineer of Skype and active involvement in existential risk discussions.
+  expertise_areas:
+  - Existential Risk
+  - AI Safety
+  - Philanthropy
+synopsis: This episode features Jaan Tallinn discussing the pressing issues of existential
+  risks, particularly from AI, and the importance of improving human intelligence
+  and coordination mechanisms in the face of these challenges.
+key_topics:
+- Existential Risks
+- AI Safety
+- Coordination Challenges
+- Philanthropy
+- Intelligence Augmentation
+tags:
+- AI
+- Existential Risk
+- Philosophy
+key_points:
+- Human civilization faces significant existential risks, with AI as the top concern.
+- '"Coordination problems hinder humanity''s ability to manage existential threats
+  effectively."'
+- Intelligence augmentation could help ensure humans are better equipped to handle
+  advanced AI.
+segments:
+- title: Introduction and Background
+  summary: '"Lucas Perry introduces Jaan Tallinn and outlines the key themes of the
+    conversation, including existential risks and Tallinn''s work."'
+  key_quotes:
+  - quote: I wish we were more intelligent.
+    speaker: Jaan Tallinn
+    context: Tallinn emphasizes the need for greater human intelligence in addressing
+      existential risks.
+- title: Existential Risks and AI
+  summary: The discussion centers on the nature of existential risks and the role
+    of AI in exacerbating these threats.
+  key_quotes:
+  - quote: AI risk seems to still be much higher than any other risk.
+    speaker: Jaan Tallinn
+    context: Tallinn ranks AI as the top existential threat.
+- title: Coordination and Intelligence Augmentation
+  summary: Tallinn talks about the importance of improving human intelligence and
+    coordination mechanisms in the context of AI.
+  key_quotes:
+  - quote: We are minimum viable superintelligence builders.
+    speaker: Jaan Tallinn
+    context: Tallinn describes our potential to create superintelligent AI.
+- title: AI as a Meta-technology
+  summary: '"The episode explores AI''s implications as a delegation process and the
+    complexities it introduces in decision making."'
+  key_quotes:
+  - quote: AI as an automated decision process becomes a delegation.
+    speaker: Jaan Tallinn
+    context: Tallinn discusses how AI adoption resembles delegation of decision-making.
+- title: Ranking Existential Threats
+  summary: Tallinn outlines his ranking of existential threats, emphasizing AI, synthetic
+    biology, and unknown unknowns.
+  key_quotes:
+  - quote: My top three is AI, synthetic biology, and unknown unknowns.
+    speaker: Jaan Tallinn
+    context: Tallinn shares his view on existential threats facing humanity.
+websites_referenced:
+- url: '"https://futureoflife.org/"'
+  name: Future of Life Institute
+  context: Organization focused on existential risks and safety of advanced technologies.
+  access_date: null
+tools_mentioned:
+- name: Neuralink
+  url: ''
+  description: A neurotechnology company focused on developing brain-computer interfaces.
+  context: Discussed in relation to human augmentation and AI integration.
+research_papers:
+- title: '"The Precipice: Existential Risk and the Future of Humanity"'
+  authors:
+  - Toby Ord
+  year: 2020
+  url: ''
+  key_findings: Analyzes existential risks and potential solutions for humanity.
+  context: Referenced during the discussion on prioritizing existential threats.
+books_referenced:
+- title: Making of the Atomic Bomb
+  authors:
+  - Richard Rhodes
+  year: null
+  isbn: ''
+  context: Tallinn cites this book in discussing historical examples of existential
+    risks.
+organizations:
+  academic_institutions:
+  - name: Future of Life Institute
+    location: ''
+    context: Focuses on mitigating risks arising from advanced technologies.
+  companies:
+  - name: DeepMind
+    industry: Artificial Intelligence
+    context: AI research company where Tallinn made early investments.
+  non_profits:
+  - name: Center for the Study of Existential Risk
+    focus_area: Existential risk research
+    context: Co-founded by Tallinn to study potential risks to humanity.
+  government_agencies:
+  - name: European Commission
+    country: EU
+    context: Tallinn participated in an AI expert group for the EU.
+notable_people:
+  academics:
+  - name: Toby Ord
+    institution: ''
+    field: Philosophy, Existential Risk
+    context: Referenced author discussing existential risks.
+  industry_leaders:
+  - name: Elon Musk
+    company: Neuralink
+    role: CEO
+    context: Mentioned in the discussion about human augmentation.
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Survival and Flourishing Fund
+  organization: ''
+  description: Philanthropic initiative focused on effective altruism and existential
+    risk.
+  status: Active
+  url: '"https://flourishing.fund"'
+  context: Tallinn discusses efforts to optimize philanthropic activities.
+events:
+  historical:
+  - name: Manhattan Project
+    date: null
+    significance: Led to the development of nuclear weapons and related existential
+      risks.
+    context: Tallinn compares historical risks to current AI risks.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Existential Risk
+- AI Safety
+- Philanthropy
+- Coordination
+- Intelligence Augmentation
+categories:
+- Technology
+- Philosophy
+- Science
+- Ethics
+intended_audience: Individuals interested in AI, existential risks, and future technologies.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Precipice
+  url: '"https://www.amazon.com/Precipice-Existential-Risk-Future-Humanity/dp/0190053874"'
+  type: Book
+  relevance: In-depth analysis of existential risks.
+action_items:
+- Consider increasing awareness and understanding of existential risks in your community.
+- Engage with and support organizations working on AI safety and existential risk
+  mitigation.
+controversial_topics:
+- topic: AI Risks and Ethics in Development
+  different_viewpoints:
+  - perspective: AI should be developed without strict ethical constraints to maximize
+      progress.
+    proponents: Some industry leaders and investors.
+    key_arguments: Suggests that rapid development is essential for economic competitiveness.
+  - perspective: AI development should prioritize ethical considerations to prevent
+      potential catastrophes.
+    proponents: AI safety researchers and ethicists.
+    key_arguments: Highlight the potential dangers and long-term consequences of unregulated
+      AI.

@@ -1,0 +1,179 @@
+title: '"AI: Global Governance, National Policy, and Public Trust with Allan Dafoe
+  and Jessica Cussins"'
+original_url: '"https://zencastr.com/z/iaLSpFZq"'
+date_published: '2018-08-31'
+host:
+  name: Arielle Kahn
+  affiliation: Future of Life Institute
+guests:
+- name: Allan Dafoe
+  affiliation: Future of Humanity Institute, University of Oxford
+  title: Director, Governance of AI Program
+  bio: Allan Dafoe is the director of the Governance of AI program at the Future of
+    Humanity Institute, focusing on international politics of transformative artificial
+    intelligence.
+  expertise_areas:
+  - AI governance
+  - International relations
+- name: Jessica Cussins
+  affiliation: Future of Life Institute; UC Berkeley Center for Long-Term Cybersecurity
+  title: AI Policy Specialist
+  bio: Jessica Cussins is an AI policy specialist who explores policy considerations
+    for AI both in the near and long term.
+  expertise_areas:
+  - AI policy
+  - Digital governance
+  - Cybersecurity
+synopsis: This episode discusses the transformative impacts of AI on society, governance,
+  and policy with experts Allan Dafoe and Jessica Cussins. They explore the complexities
+  of AI regulation, the importance of public trust, and the implications of AI on
+  global power dynamics.
+key_topics:
+- Transformative technology of AI
+- AI governance vs. policy
+- Regulation challenges and concerns
+- Public trust in AI
+- International collaboration in AI policies
+tags:
+- AI
+- Public Policy
+- Governance
+- Ethics
+key_points:
+- AI as a general purpose technology can fundamentally change society.
+- Governance encompasses a broader set of norms beyond formal policies.
+- Regulation can help ensure fairness but must be approached with caution.
+- International cooperation is essential to manage AI development and its implications.
+- Public trust is crucial for the deployment and acceptance of AI technologies.
+segments:
+- title: '"Introduction to AI''s Societal Impacts"'
+  summary: '"The host introduces the episode by framing the urgent need for consideration
+    of AI''s ethical and societal impacts in light of current global discussions on
+    lethal autonomous weapons."'
+  key_quotes:
+  - quote: AI will transform the nature of wealth and power.
+    speaker: Allan Dafoe
+    context: '"Reflecting on AI''s potential to shift power dynamics in society."'
+- title: AI as a Transformative Technology
+  summary: The guests discuss how AI fits into the category of general-purpose technologies
+    and its implications for economic and social systems.
+  key_quotes:
+  - quote: AI is perhaps the quintessential general purpose technology.
+    speaker: Allan Dafoe
+    context: Describing the profound impact of AI on various sectors.
+- title: AI Governance vs. Policy
+  summary: '"The distinction between AI governance and policy is explored, emphasizing
+    the roles each plays in shaping AI''s future."'
+  key_quotes:
+  - quote: Governance refers to both intentional policies and unintended norms.
+    speaker: Jessica Cussins
+    context: Clarifying the broader framework of governance.
+- title: Regulation Complexities and Risks
+  summary: The complexities of regulating AI technologies are discussed, including
+    the challenges of keeping regulations relevant amid rapid technological advancement.
+  key_quotes:
+  - quote: Regulation is a small subset of what governance consists of.
+    speaker: Allan Dafoe
+    context: Highlighting the limited scope of regulation compared to governance.
+- title: Externalities in AI Policy
+  summary: The discussion focuses on negative and positive externalities of AI and
+    how to implement appropriate policies.
+  key_quotes:
+  - quote: Negative externalities are sources of market failure.
+    speaker: Allan Dafoe
+    context: Explaining the need for policy focus on externalities.
+- title: Establishing Norms and Trust for AI
+  summary: The importance of public trust in AI technologies and the need for consultative
+    approaches in policy development are highlighted.
+  key_quotes:
+  - quote: Trust is foundational for the deployment of AI services.
+    speaker: Jessica Cussins
+    context: Discussing the relationship between public trust and AI adoption.
+websites_referenced:
+- url: '"https://futureoflife.org"'
+  name: Future of Life Institute
+  context: Organization focused on mitigating existential risks from advanced AI technologies.
+  access_date: null
+- url: '"https://futureoflife.org/ai-policy"'
+  name: AI Policy Resource
+  context: A living resource that maps AI policy developments globally.
+  access_date: null
+tools_mentioned: []
+research_papers:
+- title: AI Governance and Research Agenda
+  authors:
+  - Allan Dafoe
+  year: null
+  url: ''
+  key_findings: Articulates high stakes governance challenges in AI development.
+  context: Introduced as a guide for prioritizing AI governance research.
+books_referenced:
+- title: Superintelligence
+  authors:
+  - Nick Bostrom
+  year: null
+  isbn: ''
+  context: A foundational text on the implications of AI advancements.
+organizations:
+  academic_institutions:
+  - name: Future of Humanity Institute
+    location: University of Oxford
+    context: Focuses on global catastrophic risks and AI governance.
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Mitigating existential risks from advanced technologies.
+    context: Advocates for safe and beneficial AI development.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Nick Bostrom
+    institution: University of Oxford
+    field: Philosophy and Ethics of AI
+    context: Director of the Future of Humanity Institute.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: Project Maven
+  organization: Google
+  description: A controversial project where AI technologies were potentially utilized
+    for military applications.
+  status: Resulted in public protests and ethical considerations.
+  url: ''
+  context: Highlighted ethical concerns of AI in military use.
+events:
+  historical:
+  - name: 2018 National Defense Authorization Act
+    date: '2018-08-31'
+    significance: Established a national security commission on artificial intelligence
+      in the U.S.
+    context: '"Indicates growing recognition of AI''s importance to national security."'
+  upcoming: []
+keywords:
+- AI governance
+- public policy
+- ethics
+categories:
+- Technology
+- Policy
+- Ethics
+intended_audience: Policymakers, AI researchers, and the general public interested
+  in AI implications.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Ethics of Artificial Intelligence
+  url: '"https://example.com/ethics-ai"'
+  type: Article
+  relevance: An overview of AI ethical considerations.
+action_items:
+- Encourage interdisciplinary dialogues between AI developers and policymakers.
+- Increase public engagement in discussions regarding AI ethics.
+controversial_topics:
+- topic: AI Regulation
+  different_viewpoints:
+  - perspective: Need for stringent regulations to ensure safety and fairness.
+    proponents: Public interest advocates, certain tech companies.
+    key_arguments: AI impact on employment and inequality needs careful regulation.
+  - perspective: Over-regulation could stifle innovation in the industry.
+    proponents: Tech industry leaders.
+    key_arguments: Regulatory frameworks need to balance innovation with safety.

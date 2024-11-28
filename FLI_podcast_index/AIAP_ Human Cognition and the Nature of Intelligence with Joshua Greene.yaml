@@ -1,0 +1,171 @@
+title: '"AIAP: Human Cognition and the Nature of Intelligence with Joshua Greene"'
+original_url: '"https://zencastr.com/z/HmJNyYfK"'
+date_published: 2019-02-21
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: Joshua Greene
+  affiliation: Harvard University
+  title: Professor of Psychology
+  bio: Joshua Greene is a professor of psychology at Harvard, focusing on moral judgment,
+    decision making, and cognitive psychology. His research areas include the structure
+    of human cognition and its implications for artificial intelligence.
+  expertise_areas:
+  - Human cognition
+  - Moral psychology
+  - Artificial general intelligence
+synopsis: In this episode, Lucas Perry talks with Joshua Greene about human cognition,
+  moral decision-making, and the implications for artificial general intelligence.
+  They discuss key concepts such as the veil of ignorance and grounded cognition.
+key_topics:
+- Human cognition
+- Artificial general intelligence
+- Veil of ignorance
+- Moral decision-making
+tags:
+- Cognitive science
+- Ethics
+- AI
+key_points:
+- Understanding human cognition aids in developing AGI.
+- Grounded cognition refers to deriving concepts from sensory experiences.
+- The veil of ignorance can improve moral decision-making.
+segments:
+- title: Introduction to Human Cognition
+  summary: Lucas introduces the topic of human cognition and its relationship to AI
+    alignment with Joshua Greene.
+  key_quotes:
+  - quote: Studying the human cognitive engine can help us better understand the principles
+      of intelligence.
+    speaker: Lucas Perry
+    context: Introduction to the podcast episode.
+- title: Human Cognition and AI
+  summary: Joshua discusses the nature of human cognition, focusing on compositional
+    semantics and multimodal reasoning.
+  key_quotes:
+  - quote: '"How does the brain take concepts and put them together to form a thought?"'
+    speaker: Joshua Greene
+    context: Explaining the structure of human thought.
+- title: Grounded Cognition
+  summary: The conversation shifts to grounded cognition, discussing how cognition
+    is closely tied to sensory experience.
+  key_quotes:
+  - quote: Grounded cognition refers to a representational system where the representations
+      are derived from perception.
+    speaker: Joshua Greene
+    context: Defining grounded cognition.
+- title: Veil of Ignorance in Ethical Decision-Making
+  summary: '"Joshua explains how John Rawls'' veil of ignorance can be applied to
+    ethical dilemmas, particularly in the context of self-driving cars."'
+  key_quotes:
+  - quote: '"A just society is one that you would choose if you didn''t know who in
+      that society you would be."'
+    speaker: Joshua Greene
+    context: '"Discussing Rawls'' veil of ignorance."'
+websites_referenced:
+- url: '"https://www.science.org/doi/abs/10.1126/science.aag0671"'
+  name: The Social Dilemma of Autonomous Vehicles
+  context: Reference to a paper discussing ethical dilemmas related to self-driving
+    cars.
+  access_date: 2023-10-01
+tools_mentioned:
+- name: MRI technology
+  url: ''
+  description: Used to analyze brain activity during cognitive tasks.
+  context: Discussing brain imaging techniques.
+research_papers:
+- title: The Social Dilemma of Autonomous Vehicles
+  authors:
+  - Bonifant
+  - Sharif
+  - Rawan
+  year: 2016
+  url: '"https://www.science.org/doi/abs/10.1126/science.aag0671"'
+  key_findings: Examines ethical decision-making in autonomous vehicles.
+  context: Referenced when discussing ethical dilemmas.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: Harvard University
+    location: Cambridge, MA
+    context: '"Joshua Greene''s affiliation and research base."'
+  companies:
+  - name: ''
+    industry: ''
+    context: ''
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: John Rawls
+    institution: ''
+    field: Philosophy
+    context: Philosopher known for his work on justice and ethics.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Moral Decision-Making Research
+  organization: Harvard University
+  description: Research project applying the veil of ignorance to ethical dilemmas.
+  status: Ongoing
+  url: ''
+  context: Related to moral judgment and autonomy in decision-making.
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Cognition
+- Ethics
+- Artificial Intelligence
+categories:
+- Psychology
+- Philosophy
+- Artificial Intelligence
+intended_audience: Researchers, students, and individuals interested in AI and ethics.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider how the principles of grounded cognition can influence AI development.
+- Reflect on ethical decision-making practices in technology.
+controversial_topics:
+- topic: Utilitarianism vs. Deep Pragmatism
+  different_viewpoints:
+  - perspective: Utilitarianism provides a clear framework for decision-making.
+    proponents: Traditional ethicists.
+    key_arguments: It prioritizes overall happiness and well-being.
+  - perspective: Deep pragmatism is more aligned with human psychology.
+    proponents: Joshua Greene and contemporary ethicists.
+    key_arguments: It accounts for human biases and ethical complexity.

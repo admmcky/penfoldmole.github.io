@@ -1,0 +1,157 @@
+title: '"The Byzantine Generals'' Problem, Poisoning, and Distributed Machine Learning
+  with El Mahdi El Mhamdi"'
+original_url: '"https://zencastr.com/z/jCVE0Qki"'
+date_published: '2019-02-07'
+host:
+  name: Lucas Perry
+  affiliation: AI Alignment Podcast
+guests:
+- name: El Mahdi El Mhamdi
+  affiliation: ''
+  title: Researcher
+  bio: El Mahdi El Mhamdi is a researcher specializing in Byzantine-resilient machine
+    learning and error propagation analysis in both neural and biomolecular networks.
+  expertise_areas:
+  - Distributed Machine Learning
+  - Byzantine Fault Tolerance
+  - Error Propagation
+synopsis: '"This episode discusses the Byzantine Generals'' Problem and its implications
+  for distributed machine learning, focusing on Byzantine fault tolerance and poisoning
+  attacks. El Mahdi El Mhamdi shares insights from his research on safe algorithms
+  in the context of AI alignment."'
+key_topics:
+- '"Byzantine Generals'' Problem"'
+- Distributed Machine Learning
+- Byzantine Fault Tolerance
+- Poisoning Attacks
+tags:
+- AI Alignment
+- Machine Learning
+- Distributed Systems
+key_points:
+- The Byzantine problem illustrates challenges in achieving consensus in the presence
+  of corrupt agents.
+- One single malicious agent can significantly impact distributed machine learning
+  frameworks, especially using average gradients.
+- Developing Byzantine-resilient algorithms is crucial for safety in high-dimensional
+  machine learning contexts.
+segments:
+- title: '"Introduction to the Byzantine Generals'' Problem"'
+  summary: The episode begins with an exploration of the classic thought experiment
+    of the Byzantine Generals, illustrating decision-making challenges in distributed
+    systems.
+  key_quotes:
+  - quote: '"When groups of computers or groups of generals are trying to check who
+      is lying amongst discrepancies, if the corrupt group exceeds 33%, you provably
+      cannot come up with an agreement."'
+    speaker: El Mahdi El Mhamdi
+    context: '"Discussing the implications of the Byzantine Generals'' Problem on
+      consensus in distributed systems."'
+- title: Byzantine Fault Tolerance in Machine Learning
+  summary: The segment transitions to the relevance of Byzantine fault tolerance in
+    machine learning, detailing how poisoning attacks can undermine system reliability.
+  key_quotes:
+  - quote: One single malicious agent can provably poison a distributed machine learning
+      scheme.
+    speaker: El Mahdi El Mhamdi
+    context: Explaining the vulnerability of distributed systems to targeted attacks.
+- title: Challenges in High-Dimensional Spaces
+  summary: El Mhamdi discusses the complexities introduced by high-dimensional data
+    in machine learning and how it can facilitate attacks, particularly focusing on
+    gradient descent.
+  key_quotes:
+  - quote: Convergence is not enough; you have to seek aggregation rules that guarantee
+      that you would not converge to something arbitrarily bad.
+    speaker: El Mahdi El Mhamdi
+    context: Outlining the need for robust aggregation methods in high-dimensional
+      spaces.
+- title: Future Directions and AI Alignment
+  summary: A discussion on the future of Byzantine resilience in relation to AI alignment
+    and potential applications of the research findings.
+  key_quotes:
+  - quote: We are not doing agreement; we are doing something totally new called gradient
+      descent.
+    speaker: El Mahdi El Mhamdi
+    context: Clarifying the shifts in priorities within machine learning frameworks
+      to accommodate Byzantine resilience.
+websites_referenced:
+- url: '"https://neurips.cc/"'
+  name: NeurIPS Conference
+  context: Forum where recent algorithms on Byzantine resilience were presented.
+  access_date: null
+- url: '"https://icml.cc/"'
+  name: ICML Conference
+  context: Conference where El Mhamdi shared his work on Byzantine-resilient algorithms.
+  access_date: null
+tools_mentioned:
+- name: TensorFlow
+  url: '"https://www.tensorflow.org/"'
+  description: An open-source machine learning framework by Google.
+  context: El Mhamdi discusses potential updates to TensorFlow for improved Byzantine
+    resilience.
+research_papers:
+- title: The Byzantine Generals Problem
+  authors: []
+  year: null
+  url: ''
+  key_findings: Provides foundational understanding of consensus problems in distributed
+    systems.
+  context: Referenced throughout the discussion to illustrate the basics of Byzantine
+    fault tolerance.
+books_referenced: []
+organizations:
+  academic_institutions:
+  - name: NeurIPS
+    location: ''
+    context: Conference focused on Neural Information Processing Systems.
+  companies:
+  - name: Google
+    industry: Technology
+    context: Developer of TensorFlow and involved in machine learning research.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics:
+  - name: El Mahdi El Mhamdi
+    institution: ''
+    field: Machine Learning
+    context: Expert in Byzantine-resilient machine learning.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical: []
+  upcoming: []
+keywords:
+- Byzantine Fault Tolerance
+- Distributed Learning
+- Machine Learning Attacks
+categories:
+- Technology
+- AI and Machine Learning
+intended_audience: Researchers and practitioners in AI and machine learning.
+expertise_level: Intermediate
+recommended_reading:
+- title: '"Distributed Learning: Merge of Byzantine Resilience"'
+  url: ''
+  type: Paper
+  relevance: Explains the algorithms and frameworks for improving resilience in distributed
+    learning contexts.
+action_items:
+- Explore further research on Byzantine resilience to incorporate in distributed machine
+  learning systems.
+controversial_topics:
+- topic: Superintelligence and Poison Resilience
+  different_viewpoints:
+  - perspective: Superintelligences will inherently possess poisoning resistance.
+    proponents: First school of thought advocates for intrinsic resilience.
+    key_arguments: Superior AI should be able to detect and mitigate poisoning threats.
+  - perspective: Poisoning resilience is not guaranteed in superintelligent AIs.
+    proponents: El Mahdi El Mhamdi.
+    key_arguments: Time constraints may prevent thorough detection of malicious data.

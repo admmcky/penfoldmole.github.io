@@ -1,0 +1,162 @@
+title: Roman Yampolskiy on Objections to AI Safety
+original_url: '"https://zencastr.com/z/F9o9vfup"'
+date_published: '2023-05-26'
+host:
+  name: Gus Dokker
+  affiliation: Future of Life Institute
+guests:
+- name: Roman Yampolskiy
+  affiliation: University of Louisville
+  title: Computer Scientist
+  bio: Roman Yampolskiy is a computer scientist known for his work on AI safety.
+  expertise_areas:
+  - AI Safety
+  - Machine Learning
+  - Computer Science
+synopsis: Roman Yampolskiy discusses various objections to AI safety research, highlighting
+  the complexities and risks associated with artificial intelligence development.
+key_topics:
+- Objections to AI Safety
+- AI Superintelligence
+- AI Consciousness
+- Human-Level AI
+- AI Risks and Moral Considerations
+tags:
+- AI Safety
+- Superintelligence
+- Ethics
+- Research
+key_points:
+- Language and framing impact perceptions of AI risk.
+- Concerns about the feasibility of superintelligence and consciousness.
+- The challenges of predicting and managing advanced AI behavior.
+- The need for rigorous standards in AI safety research.
+segments:
+- title: Objections to AI Safety Research
+  summary: Examined a range of objections regarding AI safety, including the framing
+    of AI as a non-threat.
+  key_quotes:
+  - quote: People are quite sensitive to how you frame risks.
+    speaker: Roman Yampolskiy
+    context: Discussing the significance of language in AI perceptions.
+- title: Plausibility of Superintelligence
+  summary: Discussed the arguments against the possibility of superintelligence and
+    the limits of intelligence as perceived through physical laws.
+  key_quotes:
+  - quote: '"The idea that we''re just never going to be outcompeted doesn''t strike
+      me as particularly plausible."'
+    speaker: Roman Yampolskiy
+    context: Addressing objections to the likelihood of achieving superintelligent
+      AI.
+- title: Consciousness in AI
+  summary: Explored the separation of intelligence and consciousness and its implications
+    for strong AI.
+  key_quotes:
+  - quote: Intelligence and consciousness are separable.
+    speaker: Roman Yampolskiy
+    context: Discussing the distinction between intelligence and self-awareness.
+- title: AI as Tools vs. Agents
+  summary: Investigated the evolving role of AI from tools to potential self-governing
+    agents.
+  key_quotes:
+  - quote: '"A tool is something a human has to initiate interaction with; an agent
+      doesn''t wait for the environment to prompt it."'
+    speaker: Roman Yampolskiy
+    context: Defining the conceptual difference between tools and agents in AI.
+- title: Risk and AI Safety
+  summary: Highlighted the challenges and limitations in developing AI systems that
+    can be safely controlled.
+  key_quotes:
+  - quote: There are inherent limits to predictability and monitoring of advanced
+      AI systems.
+    speaker: Roman Yampolskiy
+    context: Discussing difficulties in managing advanced AI behaviors.
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: Copilot
+  url: ''
+  description: A tool that helps programmers autocomplete their code.
+  context: Mentioned in the context of self-improvement in AI capabilities.
+research_papers:
+- title: Objections to AI Safety
+  authors:
+  - Roman Yampolskiy
+  year: 2020
+  url: ''
+  key_findings: Highlights various cognitive biases that lead to AI safety objections.
+  context: An extensive survey of objections related to AI safety.
+books_referenced:
+- title: ''
+  authors: []
+  year: null
+  isbn: ''
+  context: ''
+organizations:
+  academic_institutions:
+  - name: University of Louisville
+    location: Louisville, KY
+    context: '"Roman Yampolskiy''s affiliation."'
+  companies: []
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI Safety and Ethics
+    context: The organization hosting the podcast.
+  government_agencies: []
+notable_people:
+  academics:
+  - name: Roman Yampolskiy
+    institution: University of Louisville
+    field: Computer Science
+    context: Guest discussing AI safety.
+  industry_leaders: []
+  policy_makers: []
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: ''
+    date: null
+    significance: ''
+    context: ''
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI Ethics
+- Superintelligence
+- Safety Standards
+categories:
+- Technology
+- Artificial Intelligence
+- Philosophy
+intended_audience: Researchers, AI practitioners, and enthusiasts.
+expertise_level: Intermediate
+recommended_reading:
+- title: Survey of AI Safety Research
+  url: ''
+  type: Research Paper
+  relevance: Provides a comprehensive overview of objections to AI safety.
+action_items:
+- Consider the implications of language use in AI risk discussions.
+- Investigate AI safety measures and their feasibility in research practices.
+controversial_topics:
+- topic: AI Superintelligence and Safety
+  different_viewpoints:
+  - perspective: Superintelligence is a real and immediate threat.
+    proponents: Proponents of AI safety research.
+    key_arguments: AI might develop unintended goals leading to catastrophic outcomes.
+  - perspective: Current AI systems are not close to achieving superintelligence.
+    proponents: Skeptics of AI safety fears.
+    key_arguments: AI is still a tool, contingent on human input and control.

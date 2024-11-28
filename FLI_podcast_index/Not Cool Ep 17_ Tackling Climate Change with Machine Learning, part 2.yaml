@@ -1,0 +1,197 @@
+title: '"Not Cool Ep 17: Tackling Climate Change with Machine Learning, part 2"'
+original_url: '"https://zencastr.com/z/gmXs4sln"'
+date_published: 2019-10-24
+host:
+  name: Arielle Kahn
+  affiliation: Not Cool Podcast
+guests:
+- name: Tegan Maharaj
+  affiliation: MILA, University of Montreal
+  title: PhD Student
+  bio: Tegan is a researcher focused on deep learning and theoretical ecology, actively
+    involved in ecosystem modeling projects.
+  expertise_areas:
+  - Deep Learning
+  - Theoretical Ecology
+  - Ecosystem Modeling
+- name: Natasha Jakes
+  affiliation: MIT
+  title: PhD Candidate
+  bio: Natasha conducts research on improving the social and emotional intelligence
+    of AI and has interned at leading AI organizations.
+  expertise_areas:
+  - Machine Learning
+  - AI for Social Good
+  - Climate Change
+synopsis: In this episode, Arielle Kahn speaks with Tegan Maharaj and Natasha Jakes
+  about utilizing machine learning to address climate change, emphasizing the impact
+  of individual actions and societal tools for emissions reduction.
+key_topics:
+- Machine Learning in Climate Change
+- Personal Carbon Footprints
+- Social Behavior and Energy Consumption
+- Policy Implications
+tags:
+- Climate Change
+- Machine Learning
+- Sustainability
+- Energy Policy
+key_points:
+- Understanding individual contributions to carbon emissions.
+- Machine learning can empower users to track and reduce their carbon footprints.
+- Collaboration between researchers and policymakers is crucial for effective climate
+  solutions.
+segments:
+- title: Introduction to Emissions Tracking
+  summary: Discussion on the scale of emissions from activities like flying and the
+    need to track them for individual awareness.
+  key_quotes:
+  - quote: Being able to actually track that and understand it could be very empowering
+      for individuals to change their behavior in a meaningful way.
+    speaker: Arielle Kahn
+    context: '"Introducing the episode''s theme."'
+- title: Understanding Machine Learning and Reinforcement Learning
+  summary: Tegan and Natasha clarify these concepts, highlighting how machine learning
+    recognizes data patterns and reinforcement learning optimizes decisions over time.
+  key_quotes:
+  - quote: The algorithm is trained from lots of examples how to sort of behave in
+      a certain way.
+    speaker: Natasha Jakes
+    context: Explaining the fundamentals of machine learning.
+- title: Tools for Individuals and Society
+  summary: Discussion on how machine learning can be utilized to calculate carbon
+    footprints and optimize energy consumption at both personal and societal levels.
+  key_quotes:
+  - quote: '"The more information that''s available, the more it''s going to help
+      the individual to make better decisions."'
+    speaker: Tegan Maharaj
+    context: Discussing the role of information in personal carbon tracking.
+- title: Energy Optimization through ML
+  summary: Exploration of how machine learning can help optimize energy consumption
+    in homes, emphasizing the ability to manage appliances based on renewable energy
+    availability.
+  key_quotes:
+  - quote: You can actually use machine learning to predict when the energy being
+      supplied by the grid is the most green.
+    speaker: Tegan Maharaj
+    context: Discussing optimization of energy use.
+- title: Policy Making and Public Engagement
+  summary: Insights into how machine learning can inform policy decisions and enhance
+    public engagement through data analysis.
+  key_quotes:
+  - quote: '"It''s a tool that policymakers can use and it''s only one aspect of what
+      they do."'
+    speaker: Tegan Maharaj
+    context: '"Describing machine learning''s role in policy."'
+websites_referenced:
+- url: '"https://offset.media.mit.edu"'
+  name: MIT Carbon Offset Program
+  context: Program for offsetting carbon footprints of institutional travel.
+  access_date: null
+tools_mentioned:
+- name: Machine Learning for Carbon Footprint Tracking
+  url: ''
+  description: Proposed tools for individuals to track their carbon emissions through
+    various applications.
+  context: Discussed potential tools in personal behavior tracking.
+research_papers:
+- title: Using Machine Learning to Tackle Climate Change
+  authors:
+  - Tegan Maharaj
+  - Natasha Jakes
+  - David Rollnick
+  - Priya Danti
+  - Others
+  year: 2019
+  url: ''
+  key_findings: Explored the application of machine learning to address climate challenges
+    at individual and societal levels.
+  context: Central theme of the episode, emphasizing the contributions of the authors.
+books_referenced:
+- title: What We Know About Climate Change
+  authors: []
+  year: null
+  isbn: ''
+  context: Referenced for insights on climate issues.
+organizations:
+  academic_institutions:
+  - name: MILA
+    location: Montreal, Canada
+    context: Research institute focusing on deep learning.
+  companies:
+  - name: Google Brain
+    industry: Technology
+    context: '"Natasha''s previous internship."'
+  non_profits:
+  - name: ''
+    focus_area: ''
+    context: ''
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: David Rollnick
+    institution: ''
+    field: ''
+    context: First author of the paper on machine learning and climate change.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Media Lab Carbon Offset Initiative
+  organization: MIT Media Lab
+  description: Pilot program to offset carbon emissions from travel.
+  status: Active
+  url: '"https://offset.media.mit.edu"'
+  context: Example of institutional efforts to mitigate climate impact.
+events:
+  historical:
+  - name: NeurIPS Conference
+    date: null
+    significance: A venue where discussions on climate and machine learning were initiated.
+    context: Tegan and David met during this conference.
+  upcoming:
+  - name: International Conference on Learning Representations
+    date: null
+    location: ''
+    description: Conference focused on machine learning applications.
+    url: ''
+keywords:
+- Climate Change
+- Machine Learning
+- Sustainability
+- AI
+categories:
+- Technology
+- Environment
+intended_audience: Researchers, policymakers, and individuals interested in climate
+  solutions.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider participating in carbon offset programs.
+- Engage with machine learning research focused on climate solutions.
+controversial_topics:
+- topic: Carbon Offsets
+  different_viewpoints:
+  - perspective: Carbon offsets are effective for mitigating climate impact.
+    proponents: Tegan Maharaj, Natasha Jakes
+    key_arguments: Offsets can fund sustainable practices that contribute to emissions
+      reduction.
+  - perspective: Carbon offsets are an inadequate solution.
+    proponents: Critics
+    key_arguments: Offsets may not impact the actual reduction in emissions and can
+      lead to complacency.

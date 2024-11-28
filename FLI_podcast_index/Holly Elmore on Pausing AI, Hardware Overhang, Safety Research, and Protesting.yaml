@@ -1,0 +1,131 @@
+title: Holly Elmore on Pausing AI, Hardware Overhang, Safety Research, and Protesting
+original_url: '"https://zencastr.com/z/5nglVWx2"'
+date_published: '2024-02-29'
+host:
+  name: Gus Dokker
+  affiliation: Future of Life Institute
+guests:
+- name: Holly Elmore
+  affiliation: PauseAI
+  title: Advocate
+  bio: Holly Elmore is an advocate for global pauses in AI development and safety
+    research.
+  expertise_areas:
+  - AI safety
+  - Advocacy
+synopsis: '"In this episode, Holly Elmore discusses the rationale behind pausing AI
+  development for safety measures and the public''s perception of AI risks. She outlines
+  how advocacy efforts and protests play a critical role in driving change in the
+  AI landscape."'
+key_topics:
+- PauseAI
+- AI safety
+- Public perception of AI risks
+- Advocacy and protests
+tags:
+- AI
+- Safety
+- Advocacy
+- Technology
+key_points:
+- A pause in AI development is necessary due to the unknown risks associated with
+  AGI.
+- Public perception of AI can be influenced by how AI companies present their narratives.
+- Strong advocacy and protests can help shift the conversation towards regulatory
+  measures.
+segments:
+- title: Introduction to PauseAI and AI Risks
+  summary: Holly explains the fundamental need for AI development to be paused to
+    understand and manage associated risks.
+  key_quotes:
+  - quote: '"The most basic case for pausing AI is that we don''t know what we''re
+      doing."'
+    speaker: Holly Elmore
+    context: Elmore emphasizes uncertainty in AI development and the need for safety.
+- title: AI Dangers and Public Perception
+  summary: The discussion explores the complexities of public understanding of AI
+    risks and the perspectives of tech CEOs.
+  key_quotes:
+  - quote: '"They have a higher appetite for risk... like the singularity will happen
+      and we''ll all live in heaven."'
+    speaker: Holly Elmore
+    context: '"Elmore contrasts tech executives'' beliefs with public concerns about
+      AI risks."'
+- title: Global Pause Advocacy and Safety Measures
+  summary: '"Holly details the nature of PauseAI''s proposal for a global indefinite
+    pause on dangerous AI developments."'
+  key_quotes:
+  - quote: '"We want to not have dangerous capabilities before we''re able to mitigate
+      their danger."'
+    speaker: Holly Elmore
+    context: She defines the goals of the advocacy group, PauseAI, in regulating AI
+      development.
+- title: Historical Analogies and AI Development Dynamics
+  summary: The conversation draws parallels between nuclear regulation and AI safety,
+    exploring the need for structured governance.
+  key_quotes:
+  - quote: The UN nuclear non-proliferation treaty is the model that I am aspiring
+      to.
+    speaker: Holly Elmore
+    context: Elmore mentions historical governance models that could apply to AI.
+websites_referenced: []
+tools_mentioned: []
+research_papers: []
+books_referenced: []
+organizations:
+  academic_institutions: []
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: A leading AI research organization that has recently faced governance
+      challenges.
+  - name: Anthropic
+    industry: Artificial Intelligence
+    context: An AI research company focused on safety and alignment.
+  - name: PauseAI
+    industry: Advocacy for AI Safety
+    context: An organization advocating for a global pause in dangerous AI development.
+  non_profits: []
+  government_agencies: []
+notable_people:
+  academics: []
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Altman has publicly expressed opinions on AI risks.
+  policy_makers: []
+projects_mentioned:
+- name: PauseAI
+  organization: PauseAI
+  description: An advocacy group pushing for a pause on advanced AI development.
+  status: Active
+  url: '"https://pauseai.org"'
+  context: The group is focused on promoting safety in AI to prevent potential disasters.
+events:
+  historical: []
+  upcoming: []
+keywords:
+- AI pause
+- safety measures
+- public perception
+categories:
+- Technology
+- Policy
+- Ethics
+intended_audience: Individuals interested in AI development, ethics, and safety.
+expertise_level: Intermediate
+recommended_reading: []
+action_items:
+- Consider the implications of AI development on society and support advocacy for
+  safety measures.
+controversial_topics:
+- topic: PauseAI Advocacy
+  different_viewpoints:
+  - perspective: Pro-pause
+    proponents: Holly Elmore and PauseAI supporters
+    key_arguments: A pause is necessary for safety, allowing time to develop safeguards.
+  - perspective: Anti-pause
+    proponents: Tech CEOs and some AI researchers
+    key_arguments: Halting AI development could slow progress and hinder potential
+      benefits.

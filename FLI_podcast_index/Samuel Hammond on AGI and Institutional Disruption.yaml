@@ -1,0 +1,170 @@
+title: Samuel Hammond on AGI and Institutional Disruption
+original_url: '"https://zencastr.com/z/zIRHpWaw"'
+date_published: '2023-10-20'
+host:
+  name: Gus Stocker
+  affiliation: Future of Life Institute
+guests:
+- name: Samuel Hammond
+  affiliation: Foundation for American Innovation
+  title: Senior Economist
+  bio: Samuel Hammond is a senior economist with notable expertise in the political
+    and economic implications of artificial intelligence.
+  expertise_areas:
+  - AI policy
+  - Economics
+  - Institutional dynamics
+synopsis: In this episode, Samuel Hammond discusses the timelines for achieving artificial
+  general intelligence (AGI), the economic implications of AI, and the adaptive capacities
+  of institutions in the face of rapid technological change.
+key_topics:
+- AGI timelines
+- '"AI''s impact on institutions"'
+- Economic implications of AI
+- Government adaptation to technology
+tags:
+- artificial intelligence
+- politics
+- economics
+- innovation
+key_points:
+- Different stakeholders have varying expectations for AGI timelines.
+- Institutional responses to technological disruption are often slow.
+- AI could redefine the nature of work and economic structures.
+segments:
+- title: AGI Arrival Expectations
+  summary: Samuel discusses the differing timelines that experts have regarding the
+    arrival of AGI and the behaviors that signal confidence in its imminence.
+  key_quotes:
+  - quote: I think we can sort of avoid those definitional conflicts if we just talk
+      about human level intelligence.
+    speaker: Samuel Hammond
+    context: Hammond emphasizes the need for clarity in understanding AGI by using
+      benchmarks related to human intelligence.
+- title: Economic Insights on AI Progress
+  summary: The conversation dives into the economic ramifications of AI advancements
+    and the expectations of both research and industry tracks.
+  key_quotes:
+  - quote: The pure industry track is just looking to create tools that have practical
+      value.
+    speaker: Samuel Hammond
+    context: Hammond contrasts industry-focused AI development with more theoretical
+      research approaches.
+- title: Government Adaptation to AI
+  summary: Hammond discusses how the U.S. government is currently ill-equipped to
+    handle the rapid developments in AI and the necessity for institutional transformation.
+  key_quotes:
+  - quote: No, the US government...has a decline in what you could call state capacity.
+    speaker: Samuel Hammond
+    context: '"Hammond critiques the U.S. government''s ability to adapt to technological
+      changes."'
+websites_referenced:
+- url: ''
+  name: ''
+  context: ''
+  access_date: null
+tools_mentioned:
+- name: GPT-4
+  url: ''
+  description: A large language model developed by OpenAI, capable of a range of human-like
+    tasks.
+  context: Used in discussions around AGI and the capabilities of current language
+    models.
+research_papers:
+- title: ''
+  authors: []
+  year: null
+  url: ''
+  key_findings: ''
+  context: ''
+books_referenced:
+- title: The Age of Spiritual Machines
+  authors:
+  - Ray Kurzweil
+  year: 1999
+  isbn: ''
+  context: A book predicting future AI developments including AGI timelines.
+organizations:
+  academic_institutions:
+  - name: ''
+    location: ''
+    context: ''
+  companies:
+  - name: OpenAI
+    industry: Artificial Intelligence
+    context: Developers of the GPT-4 model mentioned in relation to AI capabilities.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: AI safety and beneficial technology
+    context: Organization hosting the podcast.
+  government_agencies:
+  - name: U.S. Government
+    country: United States
+    context: Cited as unprepared for rapid advancements in AI.
+notable_people:
+  academics:
+  - name: John LeCun
+    institution: ''
+    field: AI research
+    context: Referenced by Hammond regarding different perspectives on AGI.
+  industry_leaders:
+  - name: Sam Altman
+    company: OpenAI
+    role: CEO
+    context: Mentioned in relation to public testimonies about AI timelines.
+  policy_makers:
+  - name: Sandra Marshall Blackburn
+    role: ''
+    organization: ''
+    context: '"Cited by Hammond concerning policymakers'' focus on narrower issues
+      rather than broader AGI implications."'
+projects_mentioned:
+- name: ''
+  organization: ''
+  description: ''
+  status: ''
+  url: ''
+  context: ''
+events:
+  historical:
+  - name: Manhattan Project
+    date: null
+    significance: Government response to a major technological crisis.
+    context: Hammond draws parallels to suggest the need for a similar approach in
+      AI safety.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- AI timelines
+- government adaptation
+- institutional disruption
+categories:
+- Technology
+- Politics
+- Economics
+intended_audience: Individuals interested in the intersection of technology, policy,
+  and economics.
+expertise_level: Intermediate
+recommended_reading:
+- title: ''
+  url: ''
+  type: ''
+  relevance: ''
+action_items:
+- Consider the implications of AGI for future employment and economic structures.
+- Monitor ongoing discussions regarding government adaptation to emerging AI technologies.
+controversial_topics:
+- topic: Expectations for AGI timelines
+  different_viewpoints:
+  - perspective: AGI is imminent.
+    proponents: Samuel Hammond, some tech leaders.
+    key_arguments: Rising applications of AI suggest rapid advancements towards human-level
+      intelligence.
+  - perspective: AGI is decades away.
+    proponents: John LeCun and others.
+    key_arguments: Significant technical and theoretical challenges remain before
+      achieving AGI.

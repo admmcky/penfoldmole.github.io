@@ -1,0 +1,198 @@
+title: Lessons from COVID-19 with Emilia Javorsky and Anthony Aguirre
+original_url: '"https://zencastr.com/z/wPp9mkgY"'
+date_published: '2020-04-09'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Emilia Javorsky
+  affiliation: Arctic Fox
+  title: Chief Scientific Officer
+  bio: An advocate for the safe and ethical deployment of technology, Emilia develops
+    tools to improve human health and well-being, leads clinical research, and translates
+    science from academia to commercial settings.
+  expertise_areas:
+  - Healthcare
+  - Clinical Research
+  - Healthcare Technology
+- name: Anthony Aguirre
+  affiliation: Foundational Questions Institute
+  title: Co-Founder and Associate Scientific Director
+  bio: A physicist studying the formation and evolution of the universe, Anthony is
+    focused on eternal inflation and is involved in various initiatives to better
+    understand global catastrophic risks.
+  expertise_areas:
+  - Physics
+  - Cosmology
+  - Global Catastrophic Risks
+synopsis: In this episode, Emilia Javorsky and Anthony Aguirre discuss the insights
+  gained from the COVID-19 pandemic regarding global catastrophic risks and the importance
+  of preparedness for future threats.
+key_topics:
+- Global preparedness for pandemics
+- The importance of understanding probabilistic risk
+- Impact of paradigms in decision-making
+- Synthetic biology and AI risks
+tags:
+- COVID-19
+- Global Risks
+- Synthetic Biology
+- Decision Theory
+key_points:
+- COVID-19 highlighted the frailty of human systems and the lack of preparedness.
+- Expected value and risk assessment are key in planning for low-probability, high-cost
+  events.
+- The need for better prediction and trust in science remains crucial in decision-making
+  processes.
+segments:
+- title: Weaknesses in Human Systems Exposed by Pandemic
+  summary: Discussion on how COVID-19 has revealed flaws in our preparedness and the
+    predictable nature of pandemics.
+  key_quotes:
+  - quote: It was very predictable and was likely to happen given computational models
+      and lived experience.
+    speaker: Anthony Aguirre
+    context: Explaining the predictability of pandemics based on past outbreaks like
+      SARS and MERS.
+- title: The Importance of Expected Value
+  summary: Exploring the concept of expected value in decision-making and the mismatch
+    in resources allocated for pandemic preparedness.
+  key_quotes:
+  - quote: '"People don''t like to think about the incredibly expensive unlikely thing."'
+    speaker: Anthony Aguirre
+    context: Discussing societal responses to potential catastrophic risks.
+- title: Trust and Communication in Probability Assessments
+  summary: '"Examining the challenges of conveying accurate risk assessments and statistics
+    in today''s polarized environment."'
+  key_quotes:
+  - quote: Part of improving this process for getting prepared for risks is better
+      understanding and taking seriously the reasoning behind different risk estimations.
+    speaker: Emilia Javorsky
+    context: On why trust in communicated probabilities is essential for effective
+      decision-making.
+- title: '"Metaculous: Aggregating Predictions for Better Decisions"'
+  summary: Introduction to Metaculous and its role in generating and evaluating predictions
+    for mitigating risks.
+  key_quotes:
+  - quote: '"The idea of Metaculous is to combine people''s predictions to improve
+      accuracy."'
+    speaker: Anthony Aguirre
+    context: Explaining how Metaculous aggregates predictions from experts and general
+      users.
+websites_referenced:
+- url: '"https://metaculous.com"'
+  name: Metaculous
+  context: A platform for aggregating and evaluating predictions related to various
+    topics.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Metaculous
+  url: '"https://metaculous.com"'
+  description: A prediction aggregation platform designed to help users make better
+    informed decisions by pooling predictions.
+  context: Used for understanding risks and making predictions about future events.
+research_papers:
+- title: The Good Judgment Project
+  authors:
+  - Phil Tetlock
+  year: 2017
+  url: '"https://goodjudgmentproject.org"'
+  key_findings: Groups of predictors make better forecasts than individuals.
+  context: This research highlights the advantages of collective predictions.
+books_referenced:
+- title: '"Superforecasting: The Art and Science of Prediction"'
+  authors:
+  - Philip E. Tetlock
+  - Dan Gardner
+  year: 2015
+  isbn: 978-0804139253
+  context: Discusses how to improve forecasting skills and decision-making processes.
+organizations:
+  academic_institutions:
+  - name: Foundational Questions Institute
+    location: USA
+    context: Focuses on projects that explore fundamental questions about technology
+      and its impact on human civilization.
+  companies:
+  - name: Arctic Fox
+    industry: Healthcare Technology
+    context: Company focusing on innovative clinical research and tools for health
+      improvement.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Global catastrophic risks
+    context: Organization committed to addressing safety aspects of artificial intelligence
+      and mitigating existential risks.
+  government_agencies:
+  - name: ''
+    country: ''
+    context: ''
+notable_people:
+  academics:
+  - name: Phil Tetlock
+    institution: University of California, Berkeley
+    field: Psychology
+    context: Known for pioneering research in forecasting and decision making.
+  industry_leaders:
+  - name: ''
+    company: ''
+    role: ''
+    context: ''
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Metaculous
+  organization: Foundational Questions Institute
+  description: A platform for aggregating predictions about scientific discoveries
+    and technological developments.
+  status: Active
+  url: '"https://metaculous.com"'
+  context: Aims at enhancing decision-making through collective intelligence.
+events:
+  historical:
+  - name: COVID-19 Pandemic
+    date: 2020
+    significance: The pandemic demonstrated global unpreparedness and systemic weaknesses
+      in handling public health risks.
+    context: A worldwide health crisis that required immediate and significant response.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- Pandemic Preparedness
+- Risk Assessment
+- Public Health
+- Exponential Growth
+categories:
+- Public Health
+- Global Risks
+- Technology and Society
+intended_audience: Researchers, policymakers, and general public interested in global
+  risks and decision-making.
+expertise_level: Intermediate
+recommended_reading:
+- title: The Better Angels of Our Nature
+  url: '"https://www.amazon.com/Better-Angels-Our-Nature-Violence"'
+  type: Book
+  relevance: Explores the historical trends in violence and human behavior that can
+    apply to global catastrophic risks.
+action_items:
+- Promote the importance of investment in global risk preparedness.
+- Encourage interdisciplinary collaboration for effective pandemic response.
+controversial_topics:
+- topic: Effectiveness of Different Governance Systems in Emergencies
+  different_viewpoints:
+  - perspective: Authoritarian regimes are more effective in crisis management.
+    proponents: Some argue that centralized power allows swift action.
+    key_arguments: Bureaucratic delays and public resistance can hinder democratic
+      processes.
+  - perspective: Democratic systems support transparency and public trust.
+    proponents: Advocates believe open societies foster long-term resilience.
+    key_arguments: Crisis responsiveness in democracies can enhance public trust and
+      cooperation.

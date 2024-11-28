@@ -1,0 +1,183 @@
+title: On Superforecasting with Robert de Neufville
+original_url: '"https://zencastr.com/z/0XtzpDms"'
+date_published: '2020-04-30'
+host:
+  name: Lucas Perry
+  affiliation: Future of Life Institute
+guests:
+- name: Robert de Neufville
+  affiliation: Good Judgment Inc.
+  title: Researcher, Forecaster, and Futurist
+  bio: Robert de Neufville is a researcher specializing in forecasting and the risks
+    of catastrophes that might threaten human civilization. He taught international
+    relations and political science and has participated in high-level forecasting
+    tournaments.
+  expertise_areas:
+  - Risk analysis
+  - Superforecasting
+  - Political science
+  - Catastrophic risk
+synopsis: In this episode, Lucas Perry talks with Robert de Neufville about superforecasting,
+  its methodologies, and the implications for global catastrophic risk analysis. They
+  explore the foundations of accurate forecasting and discuss various perspectives
+  on decision making in uncertain scenarios.
+key_topics:
+- Superforecasting
+- Risk assessment
+- Global catastrophic risk
+- Decision making
+- Forecasting methodologies
+tags:
+- forecasting
+- risk analysis
+- superforecasting
+- decision making
+key_points:
+- Superforecasters can outperform experts by using open-source information.
+- Probabilistic forecasting involves scoring predictions to evaluate accuracy.
+- Historical trends are crucial for making informed predictions about the future.
+- Greater trust in forecasting depends on a proven track record and proper communication.
+segments:
+- title: Introduction to Superforecasting
+  summary: Robert de Neufville explains the concept of superforecasting and differentiates
+    it from traditional forecasting, emphasizing its basis in probabilistic methods.
+  key_quotes:
+  - quote: '"Super forecasting is just forecasting, and hopefully, I''m good at it."'
+    speaker: Robert de Neufville
+    context: Discussing the essence of superforecasting and its methods.
+- title: Methodologies and Techniques
+  summary: The discussion dives into the methodologies used by super forecasters and
+    how they aggregate data from various sources to make predictions.
+  key_quotes:
+  - quote: We make probabilistic predictions and then we use a mathematical formula
+      to score them.
+    speaker: Robert de Neufville
+    context: Explaining the scoring system used for evaluating forecasts.
+- title: Challenges in Forecasting
+  summary: Robert discusses the limitations and difficulties faced by forecasters,
+    particularly in relation to low-probability events.
+  key_quotes:
+  - quote: '"It''s tough to know how accurate we can be for unprecedented events."'
+    speaker: Robert de Neufville
+    context: Addressing the uncertainty in forecasting rare events.
+- title: Application of Superforecasting in Policy
+  summary: The role of superforecasting in informing policy decisions and the potential
+    for better integration in government is analyzed.
+  key_quotes:
+  - quote: Governments often under-prepare for rare risks; systems need to be in place
+      to mitigate these effectively.
+    speaker: Robert de Neufville
+    context: Talking about the implications of forecasting in public policy.
+websites_referenced:
+- url: '"https://gcrinstitute.org"'
+  name: Global Catastrophic Risk Institute
+  context: Research organization focused on studying and mitigating global catastrophic
+    risks.
+  access_date: '2023-10-01'
+tools_mentioned:
+- name: Good Judgment Open
+  url: '"https://www.goodjudgmentopen.com"'
+  description: A public forecasting platform where anyone can make predictions on
+    a variety of questions.
+  context: Resource for individuals to engage in forecasting and improve their skills.
+research_papers:
+- title: Expert Political Judgment
+  authors:
+  - Phil Tetlock
+  year: 2005
+  url: ''
+  key_findings: '"Experts are generally poor at forecasting, making the case for super
+    forecasting''s relevance."'
+  context: Foundational research influencing the field of forecasting.
+books_referenced:
+- title: '"Superforecasting: The Art and Science of Prediction"'
+  authors:
+  - Phil Tetlock
+  - Dan Gardner
+  year: 2015
+  isbn: 978-0804136716
+  context: A book detailing the methodologies and success of super forecasters.
+organizations:
+  academic_institutions:
+  - name: Harvard University
+    location: Cambridge, MA
+    context: Where Robert de Neufville completed his degree.
+  - name: University of California, Berkeley
+    location: Berkeley, CA
+    context: Where Robert de Neufville completed his degree.
+  companies:
+  - name: Good Judgment Inc.
+    industry: Forecasting
+    context: Company specializing in bringing together super forecasters to provide
+      insights and predictions.
+  non_profits:
+  - name: Future of Life Institute
+    focus_area: Global catastrophic risk
+    context: Organization dedicated to reducing global catastrophic risks.
+notable_people:
+  academics:
+  - name: Phil Tetlock
+    institution: University of California, Berkeley
+    field: Psychology and Political Science
+    context: Known for research on forecasting and decision-making.
+  industry_leaders:
+  - name: Nate Silver
+    company: FiveThirtyEight
+    role: Founder and Statistician
+    context: Known for his work in data journalism and predictive analytics.
+  policy_makers:
+  - name: ''
+    role: ''
+    organization: ''
+    context: ''
+projects_mentioned:
+- name: Good Judgment Project
+  organization: IARPA
+  description: A forecasting tournament organized to test the ability of groups to
+    outperform predictions.
+  status: Completed
+  url: '"https://www.goodjudgment.com"'
+  context: The tournament that formed the basis for super forecasting methodologies.
+events:
+  historical:
+  - name: COVID-19 Pandemic
+    date: '2020-12-31'
+    significance: Significant global health crisis highlighting the need for accurate
+      forecasting.
+    context: Discussion around the importance of preparedness for pandemics.
+  upcoming:
+  - name: ''
+    date: null
+    location: ''
+    description: ''
+    url: ''
+keywords:
+- superforecasting
+- risk management
+- future predictions
+- probability
+categories:
+- Science
+- Public Policy
+- Social Sciences
+intended_audience: Individuals interested in forecasting and public policy decision-making.
+expertise_level: Intermediate
+recommended_reading:
+- title: Thinking, Fast and Slow
+  url: '"https://www.goodreads.com/book/show/8354025-thinking-fast-and-slow"'
+  type: book
+  relevance: Provides insights into probabilistic thinking and decision-making processes.
+action_items:
+- Consider engaging with forecasting platforms like Good Judgment Open.
+- Promote awareness of the importance of superforecasting in decision-making.
+controversial_topics:
+- topic: Trust in Scientific Forecasting
+  different_viewpoints:
+  - perspective: Trust is necessary for forecasting to be effective.
+    proponents: Robert de Neufville
+    key_arguments: '"Trust in forecasters can influence policymakers'' willingness
+      to make evidence-based decisions."'
+  - perspective: Distrust of science can hinder response to critical risks.
+    proponents: Critics of anti-science movements
+    key_arguments: Public distrust can undermine effective action in crisis scenarios,
+      exemplified in public health responses.
